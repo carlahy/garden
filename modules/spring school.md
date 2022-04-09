@@ -1,6 +1,6 @@
 # Spring School
+#spring-school
 
-[toc]
 
 ### Transdisciplinarity
 
@@ -11,7 +11,7 @@ Forms of knowledge
 - Target knowledge: about desirable and normative futures
 - Transformation knowledge: context and actor specific, about the possibilities of shaping transformation processes that have an impoact on sustainability, developed and pplied by means of experimental processes
 
-Importance of participation
+Importance of **participation**
 
 ##### Designing the research
 
@@ -80,7 +80,23 @@ Use case - Eco-Urbanism
 - -> landscape design is at the same importance as architecture
 - How to cope with winds, and cooling winds in the summer? -> micro-climate analysis
 
+### Methods Training
+#methods
 
-#### METHOds training
+#### Reflection on three methods
 
-[[PPGIS]]
+*Visual methods and ethnographic research* (UCL)
+- Using images to reflect on the development of the city: who/what is represented in these images? Why these images? -> power, power relations
+- Triangulation: bringing together methods/data, relating them
+- Working with a community, co-creation/co-production, empowering people to know their ordinary life, gain awareness of metaphores arising from daily life
+
+*[[PPGIS]]* (Aalto University)
+- What is GIS, and how is spatial data analysed? Typically, GIS analyses data on the physical environment
+- PPGIS integrates human knowledge about space: how is it used, perceived, experienced
+- Willingness of people to engage with the method, clear communication
+
+*Quantitative Methods* (BCNUEJ)
+- Analysing data on superblocks (as single units, and a collection of units) around health care, eg. pollution
+- What indicators are used to measure health? Who decides these? Why? How are they collected and analysed? -> trace data back to source to understand the decisions behind the data
+- Difference in desgin for quantitative vs. qualitative research, and using them to complement each other
+- 
