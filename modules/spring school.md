@@ -79,4 +79,8 @@ Use case - Eco-Urbanism
 - Enlarging landscapes by bringing in a hill and increasing surface area
 - -> landscape design is at the same importance as architecture
 - How to cope with winds, and cooling winds in the summer? -> micro-climate analysis
-- 
+
+
+#### METHOds training
+
+[[PPGIS]]
