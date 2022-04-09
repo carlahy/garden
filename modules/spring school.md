@@ -180,17 +180,27 @@ Brainstorming: Community Neighbourhood Trust
 - there's a board:
 	- decides if a business is needed or valuable for the neighbourhood, or if it introduces too much competition
 
-Discussions
+#### Discussions
+- Ownership
+	- Shared ownership
+	- Community-benefit societies
+	- Community land trusts
 - Housing
 	- Non-for-profit housing cooperatives and developers
 	- Active participation, shared ownership of residents into the model
 	- Community Land Trusts
+	- Redistribution of property and living space - who owns the real estate and can do with less of it (older people, middle+ class), and who needs it
 - Money
 	- Participatory budgeting, deciding on businesses
 	- Social capital: integenerational wealth creation, community capital and real estate
-	- Local currencies
-- Communities
+	- Local currencies - how small is too small? how big is too big? liquidity of money
+	- Local services, sharing services - a cultural of sharing, not an economy
+- Communities and people
 	- Not always bounded within the neighbourhood, are we idealising the neighbourhood life?
+	- Using existing resources and local expertise & skills
 - Participation
 	- Active citizenship
-	- 
+	- Constant re-evaluation,  re-regulating neighbourhood
+- Energy 
+	- Energy communities, reselling produced energy
+- 
