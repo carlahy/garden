@@ -1,0 +1,1 @@
+A planning method, starting from a desirable future and working backwards to understand what policies and programs are required to achieve the change.
