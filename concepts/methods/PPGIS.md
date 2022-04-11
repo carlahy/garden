@@ -76,6 +76,14 @@ Walkibility
 
 #### PPGSI Data Analysis
 
+- Individual data points/heat maps
+- Outliers: be careful when removing them from the data set (eg. a point in the sea might be valid, depending on the associated question)
+- **Spatial analysis**: find spatial patterns and relationships (using GIS software), combine spatial and non-spatial (eg. softGIS) PPGIS data with secondary sources of GIS data
+	- Hot/cold spot analysis: where eg. green spaces are more or less used or nice #thesis-method 
+	- Geographically weighted regression: eg. probability of good/bad green space
+- **Statistical analysis**: descriptive and inferential analysis of quantitative research data; variables derived from spatial and non-spatial survey responses;
+	- eg. reporting frequencies, tendency, distribution, parametric and non-parametric statistical tests, regression analysis
+- **Qualitative analysis**: thematic or content analysis for open-ended survey questions; usually combined with spatial analysis for place-based knowledge
+
+
 #### MaptionNAIRE analysis tool
-
-
