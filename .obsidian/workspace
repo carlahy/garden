@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "modules/Urban Futures Studio.md",
+            "file": "concepts/methods/quantitative data analysis.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modules/Urban Futures Studio.md",
+                "file": "concepts/methods/quantitative data analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ad3d20e01ce53b26",
   "lastOpenFiles": [
-    "modules/Urban Futures Studio.md",
-    "modules/spring school.md",
+    "concepts/methods/quantitative data analysis.md",
+    "concepts/sustainability/environmental justice.md",
     "modules/thesis.md",
-    "concepts/methods/backcasting.md",
     "concepts/methods/PPGIS.md",
-    "display.md",
-    "readings/Raymond et al., Integrating multiple elements of environmental justice.md",
-    "concepts/sustainability/envrionmental justice.md",
-    "concepts/experience/PPUE.md",
-    "concepts/housing/Gemeindebauten.md"
+    "modules/spring school.md",
+    "Quantitative Data.md",
+    "concepts/sustainability/environmental justice.md",
+    "concepts/methods/backcasting.md",
+    "concepts/neighbourhood/superblocks.md",
+    "modules/speakers/Urban Futures Studio.md"
   ]
 }

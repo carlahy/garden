@@ -1,6 +1,6 @@
 Integrating multiple elements of environmental justice, Raymond et al. 2016
 
-[[envrionmental justice]]
+[[environmental justice]]
 [[PPUE]]
 [[PPGIS]]
 

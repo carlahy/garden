@@ -144,8 +144,3 @@ Where do conversations that lead to change take place?
 
 
 #### assignment
-
-
-
-- 
-

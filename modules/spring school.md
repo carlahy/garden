@@ -96,7 +96,7 @@ Use case - Eco-Urbanism
 - PPGIS integrates human knowledge about space: how is it used, perceived, experienced
 - Willingness of people to engage with the method, clear communication
 
-*Quantitative Methods* (BCNUEJ)
+[[quantitative data analysis]] (BCNUEJ)
 - Analysing data on superblocks (as single units, and a collection of units) around health care, eg. pollution
 - What indicators are used to measure health? Who decides these? Why? How are they collected and analysed? -> trace data back to source to understand the decisions behind the data
 - Difference in desgin for quantitative vs. qualitative research, and using them to complement each other

@@ -14,6 +14,9 @@ Small bounded area? ppgis?
 
 ### Frameworks
 
-[[envrionmental justice]]
+[[environmental justice]]
 
+
+#### notes
+- active vs non active blue space?
 
