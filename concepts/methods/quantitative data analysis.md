@@ -137,3 +137,9 @@ Measuring *gentrification*
 - Degree to which assessment produces stable and consistent results
 - Will you get the same results if you repeat the same measurements?
 - Threats to reliability: researcher or observer error, environmental changes, participant changes
+
+#### Variability
+- Time points measured
+	- temporality: did the cause come before the result?
+- Retrospective vs. prospective (collecting data now to analyse later)
+- 
