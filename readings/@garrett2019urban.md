@@ -3,6 +3,7 @@ title: Urban blue space and health and wellbeing in Hong Kong: Results from a su
 authors: Joanne K Garrett, Mathew P White, Junjie Huang, Simpson Ng, Zero Hui, Colette Leung, Lap Ah Tse, Franklin Fung, Lewis R Elliott, Michael H Depledge, others
 year: 2019
 ---
+#thesis-reading 
 
 - What are the potential health benefits of being near to, seeing, using blue spaces? The study looks are the perceived well-being of elderly in Hong-Kong
 - The benefits of green spaces in urban environments are known. Dense, stressful, polluted urban environments can cause physical and mental illnesses, and green spaces can help reduce these symptoms. Three main ways in which green and health are linked (according to Markevych et al., (p. 100)):

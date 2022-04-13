@@ -3,6 +3,7 @@ title: Urban blue space renovation and local resident and visitor well-being: A 
 authors: Nicole van den Bogerd, Lewis R Elliott, Mathew P White, Himansu S Mishra, Simon Bell, Miriam Porter, Zoë Sydenham, Joanne K Garrett, Lora E Fleming
 year: 2021
 ---
+#thesis-reading 
 
 - Access to *"attractive, safe and inclusive blue spaces"* heightens people's psychological wellbeing, and especially that of those living in *==deprived urban areas==
 - The first study to evaluate the impact of small scale interventions (where the built environment was altered) in a deprived urban area, on the psychological wellbeing of the residents/users. The well being of the residents and visitors was assessed (by self reporting) before and after the intervention. Community was involved in the project

@@ -1,17 +1,9 @@
 *Helen Cole*
 
-#### Assignment
-Choose an article in the popular media that quotes a published quantitative research article and includes a link or specifics about the original article.
-Read media article and original research article.
-- Evaluate how well the media presented results of study
-- Evaluate validity of original study (appropriateness of design methods...)
-
-
 Quantitative measurements
 - Theoretically, we want to know the underlying unobservable concept
 - Empirically, we measure the observable
 - Quantitative data is not objective!
-
 
 *Ted talk - Mona Chalabi, 3 ways to spot a bad statistic*
 1. Can you see uncertainty?
@@ -45,10 +37,10 @@ Eg. *Barcelona's [[superblocks|(super)blocks]]*
 	- H2: superblocks in areas with greater car traffic reduce air pollution more than superblocks in areas with less car traffic
 	- Groups: superblocks with different typologies/interventions, include a non-superblock area as a benchmark
 - What do we need to measure to answer our RQ?
-	- *Exposure*:
+	- *Exposure*: (or risk factor/independent variable) what affects an outcome/dependent variable
 	- *Mediator*: explains relationship between exposure and outcome; eg. car traffic
 	- *Moderator*: changes the relationship between exposure and outcome; internal or external characteristics of area; eg. qualities and typologies of the superblock (greenery), socio-economic variables (eg. race, age)
-	- *Outcome*: eg. air pollution
+	- *Outcome*: (or dependent variable) eg. air pollution
 
 
 #### Green space and gentrification
@@ -79,23 +71,26 @@ Eg. *Barcelona's [[superblocks|(super)blocks]]*
 	- age, blood pressure, gender, air pollution, poverty (feelings of poverty, being under the poverty line, income relative to those around), gentrification (measurement over time), GDP, green space, exposure to green space
 - Types of measurements
 	- Discrete variables: values separate from each other
-	- Continuous variables: values relate to each other
-- *Nominal*
-	- categorical variables, 2+ categories and no natural order
-	- eg. languages: categories but no ordering possible
-- *Binary dichotomous*
-	- categorical variables with exactly 2 possibilities
-	- eg. yes/no
-- *Ordinal*
-	- categorical variables with rank order in value
-	- distance between each category is not standardised or measurable
-	- eg. health ratings (poor vs. great)
-	- *Scale*
-		- continuous measure and not categorical
-		- interval: continuous variable where the difference between two values is meaningful, no genuine '0' point
+		- *Nominal*
+			- categorical variables, 2+ categories and no natural order
+			- eg. languages: categories but no ordering possible
+		- *Binary dichotomous*
+			- categorical variables with exactly 2 possibilities
+			- eg. yes/no
+		- *Ordinal*
+			- categorical variables with rank order in value
+			- distance between each category is not standardised or measurable
+			- eg. health ratings (poor vs. great)
+	- Continuous variables: values relate to each other, scale
+		- *Interval*: continuous variable where the difference between two values is meaningful, no genuine '0' point
 			- eg. temperature, can be negative
-		- ratio: has a true '0', indicating there is none
+		- *Ratio*: has a true '0', indicating there is none
 			- eg. age (can't have 0/no/negative age)
+	- ==Frequency==: mode, most frequent score - nominal data
+	- ==Median== 50% above and 50% below - interval and ratio
+	- ==Dispersion measures==: range, how distanced are the two most extreme cases (lowest and highest)
+	- ==Variance==: how far a measure is from the mean; high variance means most people are far away from the mean, low variance means more clustered 
+	- ==Standard deviation==: average amount of dispersion in a sample (sqr of Variance)
 
 Measuring *active* green spaces:
 - From all public owned park properties: waterfront walkways, public recreation fields, parks, accessible preservers where people can hike, community gardens
@@ -142,4 +137,25 @@ Measuring *gentrification*
 - Time points measured
 	- temporality: did the cause come before the result?
 - Retrospective vs. prospective (collecting data now to analyse later)
-- 
+
+#### Measuring inequality
+- Disparity
+- Inequality
+- Inequity
+- Measuring of inequalities
+	- *Complex*: reflect changes in group size over time; absolute levels and relative differences across social groups; comparison amongst two+ groups
+	- *Simple*: ..
+	- *Absolute vs. relative*: absolute difference vs. difference in percentage of total
+- *Reference group*: different from what?
+	- eg. disadvantaged group: compared to... average population?; advantaged groups as reference groups; what gives the 'best' outcome for the RQ?
+	- how many groups should there be?
+- Population size: how much weight/influence we give individuals within a group/population
+
+### Assignment
+Choose an article in the popular media that quotes a published quantitative research article and includes a link or specifics about the original article.
+Read media article and original research article.
+- Evaluate how well the media presented results of study
+- Evaluate validity of original study (appropriateness of design methods...)
+
+[Blue spaces: why time spent near water is the secret of happiness](https://www.theguardian.com/lifeandstyle/2019/nov/03/blue-space-living-near-water-good-secret-of-happiness)
+

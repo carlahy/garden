@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readings/@van2021urban.md",
+            "file": "readings/@agyeman2016trends.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readings/@van2021urban.md",
+                "file": "readings/@agyeman2016trends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "ad3d20e01ce53b26",
   "lastOpenFiles": [
+    "readings/@agyeman2016trends.md",
+    "concepts/methods/quantitative data analysis.md",
+    "concepts/sustainability/environmental justice.md",
+    "readings/@wessells2014urban.md",
     "readings/@van2021urban.md",
     "readings/@raymond2016integrating.md",
-    "readings/@garrett2019urban.md",
     "readings/@gascon2017outdoor.md",
-    "readings/Untitled.md",
-    "modules/spring school.md",
-    "readings/garrett2019urban.md",
-    "readings/Raymond et al., Integrating multiple elements of environmental justice.md",
-    "modules/thesis.md",
-    "concepts/methods/quantitative data analysis.md"
+    "readings/@garrett2019urban.md",
+    "concepts/experience/accessibility.md",
+    "concepts/experience/Social production of space.md"
   ]
 }
