@@ -1,4 +1,5 @@
 {
-  "baseFontSize": 34,
-  "cssTheme": "Things"
+  "baseFontSize": 19,
+  "cssTheme": "Things",
+  "textFontFamily": ""
 }

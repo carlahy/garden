@@ -5,6 +5,12 @@ year: 2016
 ---
 #thesis-reading
 
+- [[#Notes|Notes]]
+- [[#Thesis relevance|Thesis relevance]]
+	- [[#Thesis relevance#hellow owlrd|hellow owlrd]]
+
+## Notes
+
 - Looks at three things:
 	- *"Practices and materials of everyday life, illustrated by food and energy movements"*
 	- *"Ongoing work on community and the importance of identity and attachment, informed by urban planning, food, and climate concerns"*
@@ -13,7 +19,8 @@ year: 2016
 
 - [[environmental justice]] and [[climate justice]] are relevant topics to all levels of society (individual to global): in COP 2015 in Paris, agreement that climate change was a collective responsibility, and the developing nations/most vulnerable should be financially and technically supported by wealthier nations; *"equity is a key principle throughout, and the importance of climate justice is explicitly noted"* (p. 323)
 
-- History of EJ: minority communities like Black, indigenous hispanic, had to become experts in environmental matters like toxic waste, in order to demand safe living conditions and thus have spearheaded the environmental justice movement (EJM)
+- History of EJ
+	- Minority communities like Black, indigenous hispanic, had to become experts in environmental matters like toxic waste, in order to demand safe living conditions and thus have spearheaded the environmental justice movement (EJM)
 
 - Environmental Justice Paradigm (EJP) 
 	- Is *"the first environmental discourse constructed by people of color and is "framed around concepts like autonomy, self-determination, access to resources, fairness and justice, and civil and human rights" "* (p. 325)
@@ -26,7 +33,7 @@ year: 2016
 	- Shift from quantitative to qualitative and interdisciplinary approach (mid-1990s), which expanded EJ to more methodologies, social theories, epistemologies, frameworks from social, economic, historical disciplines (p. 327)
 
 - Expansion of concept of EJ: as the term gained popularity and became inter-disciplinary, it was expanded by some to consider wider aspects of justice
-	- ==Three conceptions of justice: distributive, procedural, recognition-based== (Walker)
+	- ==Three conceptions of [[justice]]: distributive, procedural, recognition-based== (Walker)
 		-  *"expand beyond the unequal distributions of impacts and/or responsibilities to include the processes of disrespect, devaluation, degradation, or insult of some people versus others; inclusion or exclusion in participation and procedure; and the provision and protection of the basic capabilities or needs of everyday life"* (Schlosberg)
 
 - Inextricable connection of individual and community identity to place, means that stigmatisation and degradation of places is obligatorily linked to people
@@ -47,5 +54,6 @@ year: 2016
 	- Urban renewal causes displacement and gentrification; health food movements causes gentrification and ==environmental privilege== $\rightarrow$ ecological, green, environmental gentrification
 	- If people are attached to a particular environment, and that attachment is disrupted, then individual and collective wellbeing is damaged; people lose their sense of self as actors and do-ers in the places they inhabit
 
--  Remarks for thesis:
-	- Think about the connectedness of the local to the national and global scales. Even though the project is local, what implications does it have on a larger scale/what wider phenomenon is it influenced by? Ref. food justice, where community gardens and urban farms are emerging in cities which is in response to wider food and environmental trends like food deserts
+
+## Thesis relevance
+- Think about the connectedness of the local to the national and global scales. Even though the project is local, what implications does it have on a larger scale/what wider phenomenon is it influenced by? Ref. food justice, where community gardens and urban farms are emerging in cities which is in response to wider food and environmental trends like food deserts

@@ -1,5 +1,16 @@
 
+# Urban Futures Studio
 #futuring #imaginaries
+
+- [[#Studying social change|Studying social change]]
+- [[#Futuring|Futuring]]
+- [[#COnclusions|COnclusions]]
+- [[#Post fossil city|Post fossil city]]
+- [[#Neighbourhoods|Neighbourhoods]]
+- [[#Discussions|Discussions]]
+- [[#Dramaturgies of change|Dramaturgies of change]]
+- [[#assignment|assignment]]
+
 
 *Utrecht University, Maarten Hajer*
 [Urban futures studio](https://www.uu.nl/en/research/urban-futures-studio)

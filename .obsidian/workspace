@@ -9,7 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readings/@agyeman2016trends.md",
+            "file": "readings/@anguelovski2020expanding.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "1a3444768f51151b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "modules/thesis/thesis.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a95813777f503c92",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "modules/thesis/thesis meetings.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "justice§",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 203.5
   },
   "right": {
     "id": "3815cde1029a3eab",
@@ -69,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readings/@agyeman2016trends.md",
+                "file": "readings/@anguelovski2020expanding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +113,15 @@
   },
   "active": "ad3d20e01ce53b26",
   "lastOpenFiles": [
-    "readings/@agyeman2016trends.md",
-    "concepts/methods/quantitative data analysis.md",
+    "readings/@anguelovski2020expanding.md",
+    "modules/thesis/thesis.md",
+    "modules/thesis/thesis meetings.md",
+    "concepts/urban dynamics/subaltern urbanism.md",
     "concepts/sustainability/environmental justice.md",
-    "readings/@wessells2014urban.md",
-    "readings/@van2021urban.md",
+    "concepts/experience/PPUE.md",
     "readings/@raymond2016integrating.md",
-    "readings/@gascon2017outdoor.md",
-    "readings/@garrett2019urban.md",
-    "concepts/experience/accessibility.md",
-    "concepts/experience/Social production of space.md"
+    "concepts/tricke down effects.md",
+    "readings/@wessells2014urban.md",
+    "modules/thesis/literature review.md"
   ]
 }

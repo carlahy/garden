@@ -4,6 +4,16 @@
 
 *Workshop by Anna Kajosaari, Aalto University*
 
+- [[#Introduction to digital participatory mapping methods|Introduction to digital participatory mapping methods]]
+	- [[#Introduction to digital participatory mapping methods#PPGIS methods|PPGIS methods]]
+	- [[#Introduction to digital participatory mapping methods#Applications|Applications]]
+	- [[#Introduction to digital participatory mapping methods#Summary of PPGIS as a research tool|Summary of PPGIS as a research tool]]
+	- [[#Introduction to digital participatory mapping methods#Qs|Qs]]
+- [[#PPGIS Survey Design|PPGIS Survey Design]]
+- [[#PPGSI Data Analysis|PPGSI Data Analysis]]
+- [[#MaptionNAIRE analysis tool|MaptionNAIRE analysis tool]]
+
+
 #### Introduction to digital participatory mapping methods
 
 Geographic Information Systems (GIS) for viewing, processing, editing, analysing spatial data; from data to maps.
@@ -86,4 +96,4 @@ Walkibility
 - **Qualitative analysis**: thematic or content analysis for open-ended survey questions; usually combined with spatial analysis for place-based knowledge
 
 
-#### MaptionNAIRE analysis tool
+#### Maptionnaire analysis tool
