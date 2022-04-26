@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "modules/thesis/thesis.md",
+            "file": "modules/vienna/principles of planning and urbanism.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hong ko",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modules/thesis/thesis.md",
+                "file": "modules/vienna/principles of planning and urbanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +91,15 @@
   },
   "active": "ad3d20e01ce53b26",
   "lastOpenFiles": [
+    "modules/vienna/principles of planning and urbanism.md",
+    "modules/thesis/thesis meetings.md",
     "modules/thesis/thesis.md",
     "readings/@anguelovski2020expanding.md",
-    "modules/thesis/thesis meetings.md",
     "concepts/urban dynamics/right to the city.md",
     "concepts/urban dynamics/social production of space.md",
     "modules/thesis/literature review.md",
     "readings/@raymond2016integrating.md",
     "readings/@garrett2019urban.md",
-    "concepts/urban dynamics/subaltern urbanism.md",
-    "concepts/sustainability/environmental justice.md"
+    "concepts/urban dynamics/subaltern urbanism.md"
   ]
 }
