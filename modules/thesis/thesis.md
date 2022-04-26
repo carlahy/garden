@@ -35,6 +35,9 @@ Ref: #thesis-method
 	- Feasibility?
 	- What type of RQ/hypothesis can it answer?
 
+- futuring
+	- Futuring as a practice to imagine new urban futures (ref. [[@anguelovski2020expanding]]  on liberatory spacial justice imaginations)
+
 ### frameworks
 
 [[environmental justice]]
@@ -67,14 +70,16 @@ Ideas to analyse blue space and EJ:
 $\rightarrow$ narrow down your specific objectives and already start thinking about the methods that you will use for each
 
 #### narrowed objectives
+General:
+- understand people's perceptions and experiences of a blue space, in order to analyse whether the space is "environmentally just" #todo replace with a dimension of EV, eg. "whose uses and needs are supported", "who has access to the space"... maybe select an RQ from [[@anguelovski2020expanding]] 
+- method: community based PPGIS, which could give me spatial and experiential data
 
+Logical: (??)
 1. Blue environmental injustices: what are they, how do they manifest, who is concerned/vulnerable in front of these injustices (literature review; green environmental injustice)
-2. For a given 
+2. 
 
+### research questions
 
-### assignments
-#### research question
-
-- To what extent are Copenhagen's waterfront redevelopment projects spaces of *emancipation and liberation* for all residents, thereby contributing to envrionmental justice in the city? (ref. [[@anguelovski2020expanding]])
-	- *"Liberatory spatial justice imaginations"* (p. 11)
+ref. [[@anguelovski2020expanding]]
+![[@anguelovski2020expanding#ideas for research questions]]
 - subaltern urbanisms? 

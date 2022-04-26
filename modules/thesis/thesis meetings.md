@@ -15,3 +15,4 @@
 	- Am I choosing an approach to EV based on what I'm reading and what I know, rather than asking myself what I really want to know?
 	- Am I focusing on a group of people, eg. women, elderly, ethnic minorities, other?
 	- Seems to me like it would be interesting to get the POV of minority/vulnerable residents, but how to do this with limited time, resources, and without targetting people as "vulnerable" or else?
+	- General questions about academia: how do you reconcile your research with what happens on the field, in the city planning offices, in communities? how much are people who have the power, exposed to this kind of research/environmental justice paradigms? thinking about what i'll do after uni... where can you actually have the most impact?
