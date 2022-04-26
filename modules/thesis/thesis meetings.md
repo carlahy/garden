@@ -15,6 +15,7 @@
 - Case study/comparative study:
 	- I think a comparative study of cases in 2 different countries, where I have to collect data myself, will be a lot of work/hard because the collection will happen in 2 different semesters, one in the semester i have to finish the thesis
 	- Maybe comparing two blue spaces in one city (Copenhagen?), and in two neighbourhoods with *distinct socio-economic demographics*?
+
 	- Wdyt about Copenhagen as a case city? Don't want to research a place that's already been studied, but also practical to use it because 1. i will be there, 2. there are a lot of blue spaces, 3. northern europe known for its social welfare/equality, but its changing 
 - Main questions/general comments:
 	- Feel like my decisions are highly based on the papers I read, which is fine since this is what I know on the subject and I can't read everything - but what am I missing out on?

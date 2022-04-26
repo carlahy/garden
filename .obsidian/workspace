@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "readings/@anguelovski2020expanding.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -103,8 +103,8 @@
   "active": "ad3d20e01ce53b26",
   "lastOpenFiles": [
     "modules/thesis/thesis meetings.md",
-    "modules/thesis/thesis.md",
     "readings/@anguelovski2020expanding.md",
+    "modules/thesis/thesis.md",
     "concepts/general/justice.md",
     "modules/vienna/principles of planning and urbanism.md",
     "concepts/urban dynamics/right to the city.md",
