@@ -1,8 +1,14 @@
-## April 27th
+
+- [[#April 27th|April 27th]]
+
+
+## Meeting notes
+
+### April 27th
 - Decided to focus on people's experiences of a blue space
 	- 
 - Methods
-	- Liked the paper on PPGIS and EV ([[@raymond2016integrating]])
+	- PPGIS: qualitative data combined with spatial data
 - Environmental justice
 	- What is my approach to EV? Should I find a set of dimensions (eg. diversity of users, and diversity of uses) and analyse them? Should I look for signs of injustice, as a way to prove or disprove that a space contributes to justince/injustice?
 	- Do I have to systematically analyse injustices? (eg. green gentrification/displacement, green exclusion... ref. [[@anguelovski2020expanding]])
@@ -10,7 +16,9 @@
 	- I think a comparative study of cases in 2 different countries, where I have to collect data myself, will be a lot of work/hard because the collection will happen in 2 different semesters, one in the semester i have to finish the thesis
 	- Maybe comparing two blue spaces in one city (Copenhagen?), and in two neighbourhoods with *distinct socio-economic demographics*?
 	- Wdyt about Copenhagen as a case city? Don't want to research a place that's already been studied, but also practical to use it because 1. i will be there, 2. there are a lot of blue spaces, 3. northern europe known for its social welfare/equality, but its changing 
-- Main questions:
+- Main questions/general comments:
+	- Feel like my decisions are highly based on the papers I read, which is fine since this is what I know on the subject and I can't read everything - but what am I missing out on?
+	- Liked the critical approach to EV presented in [[@anguelovski2020expanding]]
 	- How am I approaching EV, what dimensions do I want to focus on?
 	- Am I choosing an approach to EV based on what I'm reading and what I know, rather than asking myself what I really want to know?
 	- Am I focusing on a group of people, eg. women, elderly, ethnic minorities, other?

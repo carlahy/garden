@@ -5,13 +5,18 @@ year: 2020
 ---
 
 #thesis-reading 
-
-- [[#Notes|Notes]]
-		- [[#Urban greening interventions|Urban greening interventions]]
-		- [[#[[environmental justice|Green environmental injustices]]|[[environmental justice|Green environmental injustices]]]]
-		- [[#Justice DIMENSIONS|Justice DIMENSIONS]]
-		- [[#benefits of urban greening|benefits of urban greening]]
+- [[#notes|notes]]
+	- [[#notes#urban greening interventions|urban greening interventions]]
+	- [[#notes#[[environmental justice|green environmental injustices]]|[[environmental justice|green environmental injustices]]]]
+	- [[#notes#benefits of urban greening|benefits of urban greening]]
+	- [[#notes#justice|justice]]
+		- [[#justice#traditional dimensions of justice|traditional dimensions of justice]]
+		- [[#justice#expanding boundaries of justice|expanding boundaries of justice]]
+	- [[#notes#research questions for critical envrionmental justice|research questions for critical envrionmental justice]]
+		- [[#research questions for critical envrionmental justice#new paradigms of justice|new paradigms of justice]]
 - [[#Thesis relevance|Thesis relevance]]
+		- [[#research questions for critical envrionmental justice#ideas for research questions|ideas for research questions]]
+
 
 
 ## notes
@@ -50,7 +55,7 @@ Two analytical goals:
 	- In planning, the material are the physical green infrastructures, and immaterial are the exposed urban green visions, projections, discourses;
 	- Hegemonic green planning practices sell green/sustainable/smart/resilient narratives, but the vulnerable are often excluded; only sees benefits of greening and none of the shortfalls
 	- Who is the space for? Who are the vision for? Who are planners, and the city, attracting/targeting?
-	- 
+	
 - **Advancing new principles for equity in urban greening**
 	- New principles to capture (in)justices in urban greening. These are:
 		- **Emancipatory and antisubordination greening**
@@ -71,13 +76,28 @@ Two analytical goals:
 			- Paying attention to the ways minorities disappear in a heteronormative, sexist, racist society
 
 ### research questions for critical envrionmental justice
-- *"how do people's experiences of place shape their perception of access?"*
+- ***"how do people's experiences of place shape their perception of access?"***
 	- how history, race, domination, power dynamics inhibit people's ability from emancipating; "how historical pervasive inequalities, relations of domination and historical, ongoing experiences of place complicate a sense of space and therefore access to green space and amenities"
 	- *"new green amenities and spaces might not be seen as integrated, welcoming and convivial amenities for minorities or immigrants, especially so when minorities are or were exposed to racist (immatieral) discourses and (material) practicies about who and what nature is"* $\rightarrow$ could this be the case in my case study?  how to tell if a space is inclusive etc. (how to measure inclusivity/access, ref. above)?
+	- [[justice#hermeneutical justice|hermeneutical injustice]] 
+	- [[justice#epistemic justice|epsitemic justice]]
 	- [[PPGIS]]! "specific community-based participatory research processes, such as PPGIS, might uncover local spatial knowledge and perceptions"
-- *"how is access measured?"*
-- *"whose uses and needs are protected or sacrificed in order to create new access?"*
-- *"to what extent does urban greening address past history and trauma and avoid new risk?"*
+		- other community participatory methods: PhotoVoice
+
+- ***"how is access measured?"***
+	- intersectionality and relationality are key for measurement
+	- "Combining equity (addressing existing sociospatial unevenness in green space access) with an equality-based approach to greening (developing widespread, universal greening interventions through the urban space) can inform analytical approaches to access while also considering spatial and temporal imbalances as shifting realities"
+	- consider how (racial) minorities can be excluded politically, socially, culturally, physically
+
+- ~~***"who pays for and maintains new "accessible" green space?"***~~
+	- how they're financed, unequal distribution of resources and investments accross the city #distributional-justice
+	- lack of political and individual power in minorities; lack of money, time, ability or desire from residents to maintain green spaces
+
+- ***"whose uses and needs are protected or sacrificed in order to create new access?"***
+	- green spaces embody gender-bias and patriarchal imaginations, rather than feminist and geographically sensitive ones
+
+- ~~***"to what extent does urban greening address past history and trauma and avoid new risk?"***~~
+	- 
 
 
 

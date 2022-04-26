@@ -1,9 +1,10 @@
 # Thesis - City Swimming
-- [[#Methods|Methods]]
-- [[#Frameworks|Frameworks]]
+- [[#methods|methods]]
+- [[#frameworks|frameworks]]
 - [[#notes|notes]]
 - [[#objectives|objectives]]
-
+	- [[#objectives#narrowed objectives|narrowed objectives]]
+- [[#research questions|research questions]]
 
 ### methods
 Ref: #thesis-method 
@@ -64,12 +65,12 @@ Ideas to analyse blue space and EJ:
 - YES: interested in people's experiences and perception of space, who uses it, how they use it
 - Methods:
 	- 1-1 user interviews: semi-structured interview, offline PPGIS,
-	- Observations: ethnography, eg. [bluehealth besos river](https://bluehealth2020.eu/projects/besos-river/)) 
+	- Observations: ethnography, eg. [bluehealth besos river](https://bluehealth2020.eu/projects/besos-river/) 
 	- Could re-use methodology and framework from [[@raymond2016integrating]], where they use multiple dimensions of EJ (diversity of users, of uses, and PPUE) and use PPGIS (or an off-line equivalent, by approaching people directly, and focusing on one/two specific blue spaces in 1 city (maybe easier than two cities in two different countries?))
 
 $\rightarrow$ narrow down your specific objectives and already start thinking about the methods that you will use for each
 
-#### narrowed objectives
+#### narrowed objective**s**
 General:
 - understand people's perceptions and experiences of a blue space, in order to analyse whether the space is "environmentally just" #todo replace with a dimension of EV, eg. "whose uses and needs are supported", "who has access to the space"... maybe select an RQ from [[@anguelovski2020expanding]] 
 - method: community based PPGIS, which could give me spatial and experiential data
