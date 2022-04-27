@@ -6,6 +6,10 @@
 	- [[#objectives#narrowed objectives|narrowed objectives]]
 - [[#research questions|research questions]]
 
+### links
+[[literature review]]
+[[thesis meetings]]
+
 ### methods
 Ref: #thesis-method 
 - Selecting methods ([[spring school]])
@@ -28,6 +32,10 @@ Ref: #thesis-method
 	- Feasibility?
 		- Will I be able to get significant enough data
 	- What type of RQ/hypothesis can it answer?
+
+- mental mapping
+	- place attachment, understanding whether a place is (or isn't) part of someone's everyday 
+- futuring exercises
 
 - [[quantitative data analysis]]
 	- What could it be useful for?

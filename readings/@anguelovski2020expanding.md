@@ -7,7 +7,7 @@ year: 2020
 #thesis-reading 
 - [[#notes|notes]]
 	- [[#notes#urban greening interventions|urban greening interventions]]
-	- [[#notes#[[environmental justice|green environmental injustices]]|[[environmental justice|green environmental injustices]]]]
+	- [[#notes#[[environmental justice|green environmental injustices]]
 	- [[#notes#benefits of urban greening|benefits of urban greening]]
 	- [[#notes#justice|justice]]
 		- [[#justice#traditional dimensions of justice|traditional dimensions of justice]]
