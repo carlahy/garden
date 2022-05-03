@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ad3d20e01ce53b26",
+        "id": "35e4becad9340178",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "modules/thesis/thesis meetings.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "7023d12a8c06dce1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "modules/vienna/urban analysis.md",
+            "file": "modules/vienna/principles of planning and urbanism.md",
             "mode": "source",
             "source": false
           }
@@ -82,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modules/thesis/thesis meetings.md",
+                "file": "modules/vienna/principles of planning and urbanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ad3d20e01ce53b26",
+  "active": "35e4becad9340178",
   "lastOpenFiles": [
-    "modules/thesis/thesis meetings.md",
-    "readings/@anguelovski2020expanding.md",
+    "modules/vienna/principles of planning and urbanism.md",
     "modules/vienna/urban analysis.md",
-    "readings/@haase2021mapping.md",
-    "concepts/general/justice.md",
-    "concepts/sustainability/environmental justice.md",
+    "modules/thesis/thesis meetings.md",
+    "imgs/research design.png",
+    "readings/@baro2021school.md",
+    "readings/@raymond2016integrating.md",
     "modules/thesis/thesis.md",
-    "concepts/general/climate justice.md",
-    "concepts/methods/mental mapping.md",
-    "Untitled.md"
+    "modules/vienna/contemporary challenges.md",
+    "readings/@anguelovski2020expanding.md",
+    "imgs/urban analysis deliverables.png"
   ]
 }

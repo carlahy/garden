@@ -241,11 +241,41 @@ An era with little urban planning.
 - Prison reforms
 - Poor Law Reforms
 - Public Health Act
-- Private philanthropist reforms: eg. privately built garden cities/settlements, Familistere, Port Sunlight§
+- Private philanthropist reforms: eg. privately built garden cities/settlements, Familistere, Port Sunlight
 
-### urban engineering and fin de siècle urbanism
 
-### reformist urbanism
+*$\Rightarrow$ Cities were not prepared for influx of people and industries $\rightarrow$ **no planning yet*** 
+
+#### Glasgow
+- A city on the European periphery, not even a sea-port
+- 1765: James Watt invents the steam engine, upgrading earlier machinery; steam-driven, to be regulated; originally used for pumping water in mines, then in steam mills
+- Glasgow benefits from emerging Trans-Atlantic economy
+- Coal and iron deposits nearby, made accessible after 1801
+- Steam boats first tried on inland waters, both in US and UK
+- Firms have welfare programmes, ==including housing==
+- 1888 and 1901: International exhibitions take place in Glasgow
+
+#### tenement housing
+- Paris
+- New York: thin and high housing
+
+### urban planning type I: urban engineering and fin de siècle urbanism
+Urban planning type 1
+
+The beginning of serious urban planning, focusing on massive infrastructure to make cities safe $\rightarrow$ **averting risks or adaptation planning**
+
+#### urban planning types
+Four phases on Planning Cultures
+1. Adaptation planning (anpassungsplanung)
+2. ??? (Auffangplanung)
+3. Innovation planning (Entwicklungsplanung)
+4. Perspective planning (Perspektivplanung)
+5. New phase: sustainability planning
+
+
+### urban planning type II: reformist urbanism pre WWII
+
+### urban planning type II: reformist urbanism post WWII
 
 ### modernism, under both capitalism and socialism
 
@@ -253,5 +283,5 @@ An era with little urban planning.
 
 ### the neoliberal city and its limits
 
-### the sustainable city
+### urban planning type V: the sustainable city
 
