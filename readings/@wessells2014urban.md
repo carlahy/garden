@@ -22,7 +22,7 @@ year: 2014
 	- Tendency to favour *"established economic interests"* over grass-roots, community stakeholders
 
 - Economic justice: entrepreneurial/neoliberal context makes it harder for local, small businesses and projects to take root; there's a need to protect affordable housing, empower local entrepreneurs, support minimum wage standards, divert from revenue intensive ideology
-- Environmental justice: tendency for polluting industries to be located near \hl{low income/minority neighbourhoods}, and green revitalisation projects tend to be close to upper middle class neighbourhoods
+- Environmental justice: tendency for polluting industries to be located near ==low income/minority neighbourhoods==, and green revitalisation projects tend to be close to upper middle class neighbourhoods
 	- To address [[environmental justice]], the waterfront should focus on *"the relative accessibility of the waterfront site to different populations; second, the relationship between the central waterfront and public investment in other Seattle shoreline sites; and finally, the quality of the environmental remediation that takes place"* (p. 771) $\rightarrow$ diversity of users; routes and connections;
 	- ==[[accessibility]]==: site design, physical infrastructure, and the activities/behaviours they support; proximity by foot, bike, public transport, car; 
 	- Considering the waterfront in a relationship to other waterfronts; not privileging already privileged areas (socio-economic situation) to the detriment or the ignorance of other spaces, which have more dire needs like making the space safe to use 

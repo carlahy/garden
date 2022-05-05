@@ -25,4 +25,7 @@ year: 2016
 
 - Most cited PPUE was *"certain group of people or use method bothers me"*, *"the environment is littered or not cared for"*, *"the water quality is poor"*, *"the location is crowded"*
 
+
+### thesis relevance
+
 - $\Rightarrow$ This paper focuses on environmental justice which I think is a great term to help frame my research interest, because it incorporates principles like sustainability, inclusivity, and right to open blue spaces. The paper looks at the diversity of users, diversity of activities, and the PPUE (perceived problems and unpleasant experience) of the blue spaces, to demonstrate the multidimensionality of environmental justice. It also made me wonder whether I should focus on a certain socio-demographic group (by age, income levels, gender, ethnicity, etc.), and  how that group is affected by the presence, uses, and/or design of blue spaces, or lack thereof

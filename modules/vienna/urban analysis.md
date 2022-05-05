@@ -86,8 +86,8 @@ Blue spaces contribute to making a city's residents healthier and happier, and t
 However, some have greater access to blue spaces while others suffer injustices on the grounds of social factors like income or immigration background.
 Unequal access to blue spaces reinforces inequialities in the city, and disproportionately affects the most vulnerable populations.
 
-My research will address this problem by examining people's perceptions and experiences of the blue spaces they interact (or not) with, to understand *who* is most welcomed in the space and *why*.
-In particular, I aim to answer the following question: **what physical and experential qualities of a blue space provide (unfair) access to the space, and for whom**, ultimately influencing environmental justice in the city?
+My research will address this problem by examining people's perceptions and experiences of the blue spaces they interact (or not) with, to understand *who* has access to the space and *why*.
+In particular, I aim to answer the following question... 
 
 ### guiding frameworks
 *the theories and concepts shaping your research approach*

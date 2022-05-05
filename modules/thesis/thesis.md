@@ -51,8 +51,9 @@ Ref: #thesis-method
 
 [[environmental justice]]
 
-### notes
-- active vs non active blue space?
+### tools
+- Blue health survey tools: https://beatbluehealth.wixsite.com/site/copy-of-community-survey 
+- Blue health SoftGIS: https://bluehealth2020.eu/projects/softgis/ and Barcelona example https://app.maptionnaire.com/en/2313/ 
 
 
 
