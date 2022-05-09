@@ -1,8 +1,12 @@
+- [[#meeting notes|meeting notes]]
+	- [[#meeting notes#may ?? - francesc|may ?? - francesc]]
+	- [[#meeting notes#may 11th - josh|may 11th - josh]]
+	- [[#meeting notes#april 27th|april 27th]]
 
-- [[#April 27th|April 27th]]
+## meeting notes
 
-
-## Meeting notes
+### may ?? - francesc
+- Confused because everything seems to link back to distributional justice- eg. i study people who are using the space, their experiences, perceptions, that reveals a pattern of who they are and why they use it (eg. they live/work nearby, because they can afford to), and i just end up finding that those who use the space do so because it is near them and convenient. but of course that is true, and so the problem is that blue space conversion projects are concentrated in a certain area of the city, and not more disadvantaged/excentric neighbourhoods which might benefit more, and 
 
 ### may 11th - josh
 

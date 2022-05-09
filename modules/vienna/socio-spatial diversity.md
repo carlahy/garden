@@ -316,3 +316,16 @@ Challenges from **arrival practices**
 4. Fostering transdisciplinary (knowledge) co-creation
 
 ### social innovation
+
+
+
+## assignment
+
+==*FOOD*==
+
+- Can food somehow help counter exclusionary practices like gentrification?
+	- eg. Eiles cafe employing refugees, magdas hotel employing refugees/asylum seekers...
+- Reconciling social and environmental sustainability - what role does food play?
+	- expensive/high end farmer's markets, bio shops, locally sourced produce vs. cheapest markets available
+	- comparisions: Bruxelle's market at l'abattoire, Vienna's farmers market (Langegasse...), London's Fulham road market....
+- 

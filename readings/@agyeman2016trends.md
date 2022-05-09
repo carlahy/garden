@@ -7,7 +7,7 @@ year: 2016
 
 - [[#Notes|Notes]]
 - [[#Thesis relevance|Thesis relevance]]
-	- [[#Thesis relevance#hellow owlrd|hellow owlrd]]
+
 
 ## Notes
 
@@ -38,7 +38,7 @@ year: 2016
 
 - Inextricable connection of individual and community identity to place, means that stigmatisation and degradation of places is obligatorily linked to people
 - Globalisation
-	- One case of sustainability may be considered just locally, but not outside of the local context if the burden was shifted to another location nationally or internationally, and thus created a new injustice (p. 328) $\rightarrow$ \textbf{wealthy nations outsource externalities to developing nations}
+	- One case of sustainability may be considered just locally, but not outside of the local context if the burden was shifted to another location nationally or internationally, and thus created a new injustice (p. 328) $\rightarrow$ **wealthy nations outsource externalities to developing nations**
 
 - Practice and Materiality
 	- How everyday practices are increasingly part of environmental justice

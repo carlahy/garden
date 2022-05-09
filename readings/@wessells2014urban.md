@@ -15,7 +15,7 @@ year: 2014
 - Blue spaces as sustainable spaces: sustainability encompasses *"economic, environmental, social and cultural"* dimensions and blue spaces extends to all of them
 	- Blue spaces as social spaces: *"of gathering, labour, economic exchange, recreation, subsistence fishing, cultural tradition and journey-making"* (p. 766)
 	- Blue spaces as ecological spaces: *"of watershed catchment, primary productivity, near-shore habitat, species migration and environmental degradation"*
-	- Blue space is ==permeable== #permeable, and isn't only the border of water with land (the waterfront). It encompasses the social (==shared #public-space==) and the environmental
+	- Blue space is ==permeable==, and isn't only the border of water with land (the waterfront). It encompasses the social (==shared #public-space==) and the environmental
 
 - Scale of blue spaces: local and regional governance; they need to be managed
 	- *"Is the "public trust'' of the urban waterway as an environmental resource bing protected as a ==common good==? Is the ==right to the city=='' of urban residents being enabled through waterfront land uses?''*

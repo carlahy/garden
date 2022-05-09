@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "modules/todos.md",
+            "file": "readings/@garrett2019urban.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "near",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modules/todos.md",
+                "file": "readings/@garrett2019urban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "861af2ceb5176039",
   "lastOpenFiles": [
-    "modules/todos.md",
-    "modules/vienna/socio-spatial diversity.md",
-    "concepts/general/gentrification.md",
-    "modules/vienna/urban analysis.md",
-    "readings/@van2021urban.md",
+    "readings/@garrett2019urban.md",
+    "modules/vienna/principles of planning and urbanism.md",
     "readings/@wessells2014urban.md",
-    "concepts/experience/accessibility.md",
-    "readings/@raymond2016integrating.md",
-    "readings/@haase2021mapping.md",
-    "readings/@gascon2017outdoor.md"
+    "readings/@van2021urban.md",
+    "readings/@gascon2017outdoor.md",
+    "kronenberg2020environmental.md",
+    "modules/speakers/Urban Futures Studio.md",
+    "modules/thesis/thesis meetings.md",
+    "modules/thesis/thesis.md",
+    "concepts/methods/PPGIS.md"
   ]
 }

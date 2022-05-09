@@ -82,14 +82,4 @@ $\rightarrow$ narrow down your specific objectives and already start thinking ab
 #### narrowed objective**s**
 General:
 - understand people's perceptions and experiences of a blue space, in order to analyse whether the space is "environmentally just" #todo replace with a dimension of EV, eg. "whose uses and needs are supported", "who has access to the space"... maybe select an RQ from [[@anguelovski2020expanding]] 
-- method: community based PPGIS, which could give me spatial and experiential data
-
-Logical: (??)
-1. Blue environmental injustices: what are they, how do they manifest, who is concerned/vulnerable in front of these injustices (literature review; green environmental injustice)
-2. 
-
-### research questions
-
-ref. [[@anguelovski2020expanding]]
-![[@anguelovski2020expanding#ideas for research questions]]
-- subaltern urbanisms? 
+- method: community based PPGIS, which could give me spatial and experiential data 
