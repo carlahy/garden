@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readings/@garrett2019urban.md",
+            "file": "modules/vienna/principles of planning and urbanism.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "near",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readings/@garrett2019urban.md",
+                "file": "modules/vienna/principles of planning and urbanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "861af2ceb5176039",
   "lastOpenFiles": [
-    "readings/@garrett2019urban.md",
     "modules/vienna/principles of planning and urbanism.md",
+    "imgs/Vienna- grid pattern.png",
+    "imgs/Vienna - stages of incorporation 1850-1910.png",
+    "Pasted image 20220505113837.png",
+    "modules/todos.md",
+    "readings/@garrett2019urban.md",
     "readings/@wessells2014urban.md",
     "readings/@van2021urban.md",
     "readings/@gascon2017outdoor.md",
-    "kronenberg2020environmental.md",
-    "modules/speakers/Urban Futures Studio.md",
-    "modules/thesis/thesis meetings.md",
-    "modules/thesis/thesis.md",
-    "concepts/methods/PPGIS.md"
+    "kronenberg2020environmental.md"
   ]
 }

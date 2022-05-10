@@ -260,7 +260,7 @@ An era with little urban planning.
 - New York: thin and high housing
 
 ### urban planning type I: urban engineering and fin de siècle urbanism
-Urban planning type 1
+Urban planning type 1, the beginning of "planning as we know it"
 
 The beginning of serious urban planning, focusing on massive infrastructure to make cities safe $\rightarrow$ **averting risks or adaptation planning**
 
@@ -271,6 +271,20 @@ Four phases on Planning Cultures
 3. Innovation planning (Entwicklungsplanung)
 4. Perspective planning (Perspektivplanung)
 5. New phase: sustainability planning
+
+Administrative and engineering challenge arose when Vienna expanded in the 20th century. Only on top of a technical foundation was Red Vienna possible (eg. all the social housing, kindergartens...).
+
+Vienna- stages of incorporation, 1850-1910
+![[Vienna - stages of incorporation 1850-1910.png]]
+
+**Building codes**
+- Minimum width as to not be able to touch both sides of housing with armspan; medieval buildings can stay but new construction must follow width guidelines
+- Grid pattern
+	- Streets must be "as straight as possible"
+	- Grid originated in New York City and became a planning norm
+	- In Vienna, see the outer ring neighbourhoods 
+
+![[Vienna- grid pattern.png]]
 
 
 ### urban planning type II: reformist urbanism pre WWII
