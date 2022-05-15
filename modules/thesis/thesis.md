@@ -56,6 +56,10 @@ Ref: #thesis-method
 - Blue health SoftGIS: https://bluehealth2020.eu/projects/softgis/ and Barcelona example https://app.maptionnaire.com/en/2313/ 
 
 
+### case studies
+- Bilbao: river regeneration project, from an industrial site to a clean/attractive location 
+
+
 
 ### objectives
 

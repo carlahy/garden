@@ -32,9 +32,9 @@ year: 2016
 	- [[GIS]]
 	- Shift from quantitative to qualitative and interdisciplinary approach (mid-1990s), which expanded EJ to more methodologies, social theories, epistemologies, frameworks from social, economic, historical disciplines (p. 327)
 
-- Expansion of concept of EJ: as the term gained popularity and became inter-disciplinary, it was expanded by some to consider wider aspects of justice
+- Expansion of concept of EJ: as the term gained popularity and became inter-disciplinary, it was expanded by some to consider wider aspects of justice (ref [[@toomey2021place]]! )
 	- ==Three conceptions of [[justice]]: distributive, procedural, recognition-based== (Walker)
-		-  *"expand beyond the unequal distributions of impacts and/or responsibilities to include the processes of disrespect, devaluation, degradation, or insult of some people versus others; inclusion or exclusion in participation and procedure; and the provision and protection of the basic capabilities or needs of everyday life"* (Schlosberg)
+		-  *"expand beyond the unequal distributions of impacts and/or responsibilities to include the processes of disrespect, devaluation, degradation, or insult of some people versus others; inclusion or exclusion in participation and procedure; and the provision and protection of the basic capabilities or needs of everyday life"* (in quote)
 
 - Inextricable connection of individual and community identity to place, means that stigmatisation and degradation of places is obligatorily linked to people
 - Globalisation
@@ -49,7 +49,7 @@ year: 2016
 - Community, identity, attachment
 	- *Where* is environmental justice?
 	- Public spaces are places of community, identity and attachment, and all should have equal rights to them (eg. parks, streets). Streets are public places and everyone in the community should have equal rights and access to them, except that cars have more access, and thus people with cars have more rights to the streets - which is often not low-income communities, who do not own a car but use public transit
-	- The inter-cultural city is a place that is designed and developed by everyone, where everyone has something to contribute and it is a joint endeavour (p. 333)
+	- The inter-cultural city is a place that is designed and developed by everyone, where everyone has something to contribute and it is a joint endeavour (p. 333) (ref. [[@van2021urban]] who talks engaging the local community in a revitalisation project)
 	- Sharing: moving beyond the shared economy, towards understanding cities in their entirety as shared spaces, and acting sharing them fairly; sharing economy should not ignore equity and justice
 	- Urban renewal causes displacement and gentrification; health food movements causes gentrification and ==environmental privilege== $\rightarrow$ ecological, green, environmental gentrification
 	- If people are attached to a particular environment, and that attachment is disrupted, then individual and collective wellbeing is damaged; people lose their sense of self as actors and do-ers in the places they inhabit

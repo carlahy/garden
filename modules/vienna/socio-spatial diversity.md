@@ -328,4 +328,14 @@ Challenges from **arrival practices**
 - Reconciling social and environmental sustainability - what role does food play?
 	- expensive/high end farmer's markets, bio shops, locally sourced produce vs. cheapest markets available
 	- comparisions: Bruxelle's market at l'abattoire, Vienna's farmers market (Langegasse...), London's Fulham road market....
-- 
+- Topics
+	- Urban farms
+		- Ground floor vs roof top?
+		- Demographic of users?
+	- Natural healthy food stores as signs of gentrification/environmental privilege
+	- Food injustice: inequities along food supply chain, at local/national/global scales, food access/security/sovereignty
+	- Food as a gentrifier AND being gentrified? (*Food, gentrification, and the changing city, Sbicca*)
+		- Gentrifier: urban agriculture/urban farms used by developers to attract new class of residents and raise housing prices
+		- Gentrified: changing of the foodscape where culturally important foods are considered trendy/healthy/cool and made unaffordable; upscaling of restaurants/bars/cafes/stores such that they become unaffordable for marginalised/ethnic minorities
+- General notes
+	- Consider different scales? local, national, global

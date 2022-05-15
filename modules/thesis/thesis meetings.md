@@ -5,6 +5,11 @@
 
 ## meeting notes
 
+### may
+- Comparative studies between two blue spaces in Copenhagen, in two distinct neighbourhoods, with blue spaces that have had different amounts of investments (large investment in centre, vs. less investment in outer neighbourhoods)
+	- Perceptions- who are the users (neighbourhood residents or visitors?), how do they identify with the space, why do they like, why do they come here...
+	- => Ultimately, how do perceptions of the two blue spaces differ, and what does that tell us about the accessibility of blue spaces in the city?
+
 ### may ?? - francesc
 - Confused because everything seems to link back to distributional justice- eg. i study people who are using the space, their experiences, perceptions, that reveals a pattern of who they are and why they use it (eg. they live/work nearby, because they can afford to), and i just end up finding that those who use the space do so because it is near them and convenient. but of course that is true, and so the problem is that blue space conversion projects are concentrated in a certain area of the city, and not more disadvantaged/excentric neighbourhoods which might benefit more, and 
 
@@ -12,8 +17,21 @@
 
 General questions:
 - I'm mostly interested in the opinions of the people who are not in the space i'm studying; concerned about having to infer who they are and why they're not present, without actually speaking to them.
+- I don't feel fluent/eloquent with the concepts I'm using; feeling like an imposter, pretending i know the frameworks...
 - Research "nature" explanatory- explaining why a phenomenon occurs; but what if we don't know whether said phenomenon occurs, when we need to figure out if it occurs before we answer why or why not? --> eg. "why are blue spaces unfairly accessible in Copenhagen" assumes that there is unfair access; is "what is the accessibility of blue spaces in Copenhagen, and why are they or why are they not fairly accessible?"
 - Can we put our case study within the RQ, or should the case city be abstracted away from the RQ ?
+- Why does it matter that I study perceptions/experiences/values/identities, rather than eg. distributional justice?
+- Could do a comparative case between one harbour bath advertised by the city, and another in a more remote neighbourhood (ie. not as central)? -> understand who uses each space, how, and whether these differences are just or not
+
+Discussions
+- Iaskey Britton- relationship between blue areas and human settlements; looking at blue spaces in general
+- Frameworks: climate adaptation and EJ are increasingly important in the city, and in this context there is urban green infrastructure (well developed concept), and also blue infrastructure which can work together, and also by themselves...
+- work with 3-5 spaces of different types scattered accross the city, and identify users and uses/activities
+- does making a space swimmable, alienate others, 
+- how do people o feel, why do they use the space, what tdoe sit mean to them?
+- Provide the theoretical framework to explain WHY it matters, and justify the empirical research -> why does the empirical research need to take place? -> climate adaptation/nature based solutions, environmental justice, blue green infrastructure...
+
+
 
 ### april 27th
 - Decided to focus on people's experiences

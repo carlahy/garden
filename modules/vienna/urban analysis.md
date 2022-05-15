@@ -15,7 +15,8 @@
 
 ## notes
 ![[urban analysis deliverables.png]]
-
+![[Pasted image 20220511095524.png]]
+![[Pasted image 20220511095501.png]]
 
 ### research design
 ![[research design.png]]
