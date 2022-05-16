@@ -21,21 +21,26 @@
 	2. ref. [[@van2021urban]] on community engagement, feelings of belonging, safety
 4. Through urbanisation, water in cities has become polluted, disrupting the relationship of people with waterfronts and their natural environments
 5. In the last few decades, the rising environmental and climate concerns have sensibilised people to the importance of water in the city. With (international) political pressure and public demand, governments have invested significant resources in rehabilitating waterfronts into attractive places to swim and linger at
-6. These projects prove to be valuable for a multitude of reasons. 
-7. First, urban blue space, much like urban green space, has the power to improve people's physical and psychological wellbeing
-	1.  Qualitative studies of health and wellbeing benefits of blue space --> ref. [[@garrett2019urban]] on exposure to water improving mental health of older adults in Hong Kong, regardless of whether or not the adults intentionally interacted with the water or just saw it from their apartment window; specific context of Hong Kong as an island with high quality transit and relatively safe public space
-	2. Many quantitative studies of health and wellbeing effects of blue space --> ref. [[@gascon2017outdoor]] on summarising the effects blue spaces have on health and wellbeing. Effects are similar than that of green spaces, and help *"stress reduction, increased physical activity, promotion of positive social contacts, increased place attachment and the reduction of extreme temperatures"* (p. 1212)
-8. Second, in the context of climate change, blue spaces play a crucial role in mitigating heat stress
+6. Projects to rehabilitate blue spaces into environments that are attractive for people to spend time at or in the water, prove to be valuable for a multitude of reasons. 
+7. First, in the context of climate change, blue spaces play a crucial role in mitigating heat stress, similarly to green spaces
 	1. Blue spaces act as heat sinks (ref. [[@lin2020water]])
 	2. Blue and green spaces can work alongside each other, and in tandem
-9. Third, waterfronts provide people with the opportunity to connect with each other, and with nature
+8. Second, blue space has the ability to improve people's physical and psychological wellbeing. Being exposed to water makes people feel better, happier, and be more active (ref. [[@gascon2017outdoor]]), similar impacts that green spaces offer. 
+	1.  Qualitative studies of health and wellbeing benefits of blue space --> ref. [[@garrett2019urban]] on exposure to water improving mental health of older adults in Hong Kong, regardless of whether or not the adults intentionally interacted with the water or just saw it from their apartment window; specific context of Hong Kong as an island with high quality transit and relatively safe public space
+	2. Many quantitative studies of health and wellbeing effects of blue space --> ref. [[@gascon2017outdoor]] on summarising the effects blue spaces have on health and wellbeing. Effects are similar than that of green spaces, and help *"stress reduction, increased physical activity, promotion of positive social contacts, increased place attachment and the reduction of extreme temperatures"* (p. 1212)
+	3. In deprived areas in particular, people tend to have poorer mental health and lower life satisfaction compared to more privileged areas (ref. [[@van2021urban]]). Revitalising blue spaces in these areas to increase access to high quality waterfronts has the potential to have an even greater influence on the wellbeing of those living in socio-economically disadvantaged neighbourhoods.
+10. Third, waterfronts provide people with the opportunity to connect with each other, and with nature
 	1. Individuals and communities can have a strong sense of place associated with waterfronts --> ref. [[@toomey2021place]] even degraded and polluted waterfronts can play a central role in communities
 	2. Waterfront revitalisation projects can be an opportunity to create community bonds by engaging residents in the design and building process. In the "urban acupuncture" intervention conducted by BlueHealth in a deprived area of Plymouth, UK, residents who participated in the project reported a greater sense of wellbeing and life satisfaction due to feelings of community belonging and safety (ref. [[@van2021urban]])
-	3. On the flip side, when the local community's perceptions and values are not understood by the planners, revitalisations can disrupt human-to-human or human-to-water contact. (ref. [[@toomey2021place]]). In perverse cases, cities prioritise growth rather than wellbeing and community (todo:ref). With "flashy glitzy green (blue)" (todo:ref) infrastructure like the XPROJECT in CITYX, cities try to attract a new creative class rather than addressing public blue spaces as a common good, and prioritising the concerns of existing residents (ref. [[@wessells2014urban]])
-10. Public blue spaces are a shared, common good, that everyone should be able to access
-	1. ref. [[@wessells2014urban]] right to the city enabled through blue space 
-11. 
-12. Fair access to blue spaces, and their 
+11. Despite the undeniable benefits of urban blue spaces, revitalisation projects can have consequences on people and the environment
+	1. In contrast to the social community benefits that can be built by involving the residents in a revitalisation project, when the local community's perceptions and values are not understood by the planners, revitalisation can disrupt human-to-human or human-to-water contact. (ref. [[@toomey2021place]]). In perverse cases, cities prioritise growth rather than wellbeing and community (ref. [[@wessells2014urban]]). With "flashy glitzy green (blue)" (todo:ref) infrastructure like the XPROJECT in CITYX, cities try to attract a new creative class rather than addressing public blue spaces as a common good, and prioritising the concerns of existing residents (ref. [[@wessells2014urban]]). 
+	2. Through projects such as these, the values of others are privileged over the values of existing residents who risk displacement. Those who can afford to live near blue/green spaces will move in and price out the lower classes who will be forced to move to neighbourhoods with lower access to attractive blue space, thereby reducing inequalities, but at the same time, attractive blue space causes gentrification. (TODO REF OF GENTRIFICATION PAPER)
+13. Is gentrification a given, after waterfront interventions? Concepts to understand why there should be equal access to blue space:
+14. Right to the city enabled through public blue space
+	1. Public blue spaces are a shared, common good, that everyone should be able to acces (ref. [[@wessells2014urban]])
+15. Environmental justice
+	1. Distributional/procedural/recognition
+	2. Sharing the benefits that waterfronts have on people and the environment
 
 
 ### themes:

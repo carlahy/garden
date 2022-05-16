@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 203.5,
+    "collapsed": true
   },
   "right": {
     "id": "3815cde1029a3eab",
@@ -90,12 +91,12 @@
   "active": "3364dc4814da4929",
   "lastOpenFiles": [
     "modules/thesis/literature review.md",
+    "readings/@van2021urban.md",
     "readings/@lin2020water.md",
     "readings/Untitled.md",
     "@lin2020water.md",
     "readings/@gascon2017outdoor.md",
     "readings/@agyeman2016trends.md",
-    "readings/@van2021urban.md",
     "readings/@anguelovski2020expanding.md",
     "readings/@baro2021school.md",
     "readings/@garrett2019urban.md"
