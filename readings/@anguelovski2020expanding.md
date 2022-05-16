@@ -63,7 +63,7 @@ Two analytical goals:
 			- Understanding unconsciousness bias, discrimination, in planning and development
 			- Green injustices reproduced in neighbourhoods under green capital and neoliberal paradigms
 			- Emancipatory liberating spaces (and imaginations): spaces in which marginalised groups can thrive
-			- Reparative and restorative justice, green reparations
+			- Reparative and restorfative justice, green reparations
 			- Preventive justice, preventing future harms
 		- **Intersectional greening**:
 			- Understanding *"how people (1) understand, sense and live in spaces having multiple, concurring identities in place while being exposed to multipal environmental inequalities, injustices and insecurities and (2) interpret them in different historic moments"* $\rightarrow$ different identities of immigrants, for eg.
