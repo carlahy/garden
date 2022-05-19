@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3364dc4814da4929",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "readings/@wessells2014urban.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "8f30b2f6a5007d43",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "modules/thesis/literature review.md",
+            "file": "modules/vienna/socio-spatial diversity.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gentrification",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "3815cde1029a3eab",
@@ -82,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modules/thesis/literature review.md",
+                "file": "modules/vienna/socio-spatial diversity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +89,15 @@
   },
   "active": "8f30b2f6a5007d43",
   "lastOpenFiles": [
+    "modules/vienna/socio-spatial diversity.md",
+    "concepts/general/territorial innovation models.md",
+    "concepts/general/arrival cities.md",
+    "concepts/general/arrival spaces.md",
+    "concepts/general/social innovation.md",
+    "modules/vienna/principles of planning and urbanism.md",
+    "concepts/methods/quantitative data analysis.md",
     "modules/thesis/literature review.md",
-    "readings/@wessells2014urban.md",
-    "readings/@toomey2021place.md",
-    "readings/@anguelovski2020expanding.md",
-    "readings/@van2021urban.md",
-    "readings/@lin2020water.md",
-    "readings/Untitled.md",
-    "@lin2020water.md",
-    "readings/@gascon2017outdoor.md",
-    "readings/@agyeman2016trends.md"
+    "concepts/general/gentrification.md",
+    "readings/@van2021urban.md"
   ]
 }

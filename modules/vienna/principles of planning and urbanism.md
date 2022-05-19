@@ -19,12 +19,18 @@
 		- [[#renaissance: planning the absolutist city#fortification towns|fortification towns]]
 		- [[#renaissance: planning the absolutist city#baroque|baroque]]
 	- [[#notes#early capitalism: industrial city miseries, early reforms|early capitalism: industrial city miseries, early reforms]]
-	- [[#notes#urban engineering and fin de siècle urbanism|urban engineering and fin de siècle urbanism]]
-	- [[#notes#reformist urbanism|reformist urbanism]]
+		- [[#early capitalism: industrial city miseries, early reforms#manchester|manchester]]
+		- [[#early capitalism: industrial city miseries, early reforms#Glasgow|Glasgow]]
+		- [[#early capitalism: industrial city miseries, early reforms#tenement housing|tenement housing]]
+	- [[#notes#urban planning type I: urban engineering and fin de siècle urbanism|urban planning type I: urban engineering and fin de siècle urbanism]]
+		- [[#urban planning type I: urban engineering and fin de siècle urbanism#urban planning types|urban planning types]]
+	- [[#notes#urban planning type II: reformist urbanism pre WWII|urban planning type II: reformist urbanism pre WWII]]
+	- [[#notes#urban planning type II: reformist urbanism post WWII|urban planning type II: reformist urbanism post WWII]]
 	- [[#notes#modernism, under both capitalism and socialism|modernism, under both capitalism and socialism]]
 	- [[#notes#the local welfare state|the local welfare state]]
 	- [[#notes#the neoliberal city and its limits|the neoliberal city and its limits]]
-	- [[#notes#the sustainable city|the sustainable city]]
+	- [[#notes#urban planning type V: the sustainable city|urban planning type V: the sustainable city]]
+
 
 
 ## notes
@@ -282,20 +288,89 @@ Vienna- stages of incorporation, 1850-1910
 - Grid pattern
 	- Streets must be "as straight as possible"
 	- Grid originated in New York City and became a planning norm
-	- In Vienna, see the outer ring neighbourhoods 
+	- In Vienna, see the outer ring neighbourhoods: new housing in outer districts (10th, 16th...) built in strict grids 
 
 ![[Vienna- grid pattern.png]]
 
+7x7x7 inch pavement stone 
+
+**Defortification**
+- defortification was delayed in Vienna, which means it could be done in a well thought-out way
+- Vienna organised an urban planning competition, and a committee voted on the best solution by combining suggestions
+- Luxury tenement housing ("plalace") opened on Ringstrasse opposite the opera #ringstrasse
+- Buildings built in different styles (neo-gothic, neo-baroque, neo-renaissance (eg. University in neo-renaissance represents the rise of learning/knowledge))
+
+**Transporting ideas, technologies, patents**
+- Theophil Hansen inspired by Athens to recycle ancient architectural styles in Vienna (ref. starchitects)
+- World exhibitions as mega-events and drivers of innovations
+	- London 1851, 1862 - Paris 1855, 1867 - Vienna 1873
+	- Countries exhibiting innovations, eg. corrugated iron that can be wrapped around material and be used to make secure shutters to shut shops at night
+- City parks- it was clear that cities could not be built over completely
+	- Ringstrasse planned for parks (Rathaus, Volksgarten, Augarten, Stadtpark...) #ringstrasse
+	- Standardised public toilets- should look nice, eg. steel framed pissoir
+- Improving the design of the Ringstrasse #ringstrasse 
+	- Camillo Sitte: idea to divide the street into multiple sectors so that traffic could be interrupted vs...
+	- Otto Wagner: designing new 22nd district of Vienna; grid district design with 30k buildings to house 150k inhabitants; tall and imposing architecture, which Camillo Sitte was against
+	- What is beautiful? naked technical necessity vs. iconic buildings
+
+**Reserve areas**
+- Otto Wagner hospital was built on the outskirts of the city, in anticipation for the expected 4 million residents mid-20th century
 
 ### urban planning type II: reformist urbanism pre WWII
+1920s-1930s
+
+4 typical movements and policies $\rightarrow$ garden cities and settlers' movement; public and social housing; zoning; regional planning
+
+The ills of the industrial city and urbanisation should be alleviated by separating the uses (ref. Athens Charter published by Le Corbusier, describing the Ville Radieuse).
+Cities are growing and urbanising, we need some organisation $\rightarrow$ conurbation
+
+**Political and scientific framing of reformist urbanism**
+*In the 1920s*
+- Democracy arrives- general coting rights instead of graded voting rights (according to income and wealth)
+- Goal of "urban order" replaces/supersedes pure safety goals
+- Origin of social welfare administration- qualitative improvement of 
+	- education- abundance of new teaching material, books, graphics, cartography, new ambition to visualise things
+	- health system
+	- social work- upgrading and ambitious, eg. orphenage homes
+- Parllel to garden city and settlers' movement, first phase of social housing, zoning replaces set-back (alignment) plans, beginning regional planning (US, GB, DE)
+- Scientific method and belief in prognosis
+- Democratic participation formally granted
+
+#### garden cities and settlers' movement
+- 1904- first garden city established in Letchworth, north of London, terraced houses with shops on the main streets, supposed to be a solution to mass housing, considered successful; 1901- Hampstead garden suburb established
+- Garden cities materialised in many 'new towns' in the UK
+- Idea internationalises- garden city association organises meetings and conferences across the channel
+	- 1894-1904- Madrid, Ciudad Lineal, low rise housing
+	- 1908-19130- Dresden, Germany's first garden suburb of Hellerau,
+	- 1912- Essen, garden village of Margarethenhöhe built by philanthropist
+	- ... many more- cités jardins in Paris, social democrat build state-run garden cities in Frankfurt...
+- Post WWI- people stayed on allotment gardens and established houses (eg. cabins) $\rightarrow$ garden settlements
+- Otto Wagner hospital (1910)- upgarded allotment gardens in suburbs into 'spontaneous' housing established by the people (~1910s-20s), contrast to 1930s garden settlements, more organised, led by the city council $\rightarrow$ in a brief period of <30 years, three planning styles manifest - hospital vs. allotment gardens vs. garden settlements
+
+
+#### public and social housing
+
+#### urban planning type 2: zoning
+
+#### beginnings of regional planning
+
 
 ### urban planning type II: reformist urbanism post WWII
+Many ideas from the inter-war period (1920s-30s) gain momentum after WWII.
+
+
 
 ### modernism, under both capitalism and socialism
 
+
+
 ### the local welfare state
 
+
+
 ### the neoliberal city and its limits
+
+
 
 ### urban planning type V: the sustainable city
 

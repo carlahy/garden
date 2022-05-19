@@ -37,6 +37,7 @@
 	1. Public blue spaces are a shared, common good, that everyone should be able to acces (ref. [[@wessells2014urban]])
 	2. todo:cite more general right to the city literature
 	3. Sharing the benefits that waterfronts have on people and the environment
+	4. !!! individuals and communities are inextricably linked to place, and disrupting place/not providing it threatens their existence / belonging
 
 
 ### themes:

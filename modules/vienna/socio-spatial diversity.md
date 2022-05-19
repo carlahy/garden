@@ -1,35 +1,40 @@
-
-
 - [[#notes|notes]]
-	- [[#notes#Introduction|Introduction]]
-		- [[#Introduction#Where do you see diversity?|Where do you see diversity?]]
-		- [[#Introduction#Super-Diversity|Super-Diversity]]
-		- [[#Introduction#Change, everyday life, socio-spatial disparities|Change, everyday life, socio-spatial disparities]]
-	- [[#notes#housing Market|housing Market]]
-		- [[#housing Market#Housing in Vienna|Housing in Vienna]]
-		- [[#housing Market#Gemeindebau|Gemeindebau]]
-		- [[#housing Market#Subsidised rental housing|Subsidised rental housing]]
-		- [[#housing Market#Private rental market|Private rental market]]
-		- [[#housing Market#Vienna's housing market|Vienna's housing market]]
-		- [[#housing Market#Diversity|Diversity]]
-		- [[#housing Market#Social mix in a social welfare state|Social mix in a social welfare state]]
-		- [[#housing Market#From social mix to social mixing|From social mix to social mixing]]
-		- [[#housing Market#Planning for social mix|Planning for social mix]]
-		- [[#housing Market#Who makes the city?|Who makes the city?]]
-	- [[#notes#gentrification|gentrification]]
-		- [[#gentrification#Gentrification (every-) where? how?|Gentrification (every-) where? how?]]
-		- [[#gentrification#Defining Gentrification|Defining Gentrification]]
-		- [[#gentrification#Characteristics of Gentrification|Characteristics of Gentrification]]
-		- [[#gentrification#Various forms of gentrification|Various forms of gentrification]]
-		- [[#gentrification#Public subsidies for renovation|Public subsidies for renovation]]
-		- [[#gentrification#Preventing gentrification|Preventing gentrification]]
-	- [[#notes#arrival space & the tole of public space|arrival space & the tole of public space]]
-	- [[#notes#social innovation|social innovation]]
+- [[#introduction|introduction]]
+		- [[#Where do you see diversity?|Where do you see diversity?]]
+		- [[#Super-Diversity|Super-Diversity]]
+		- [[#Change, everyday life, socio-spatial disparities|Change, everyday life, socio-spatial disparities]]
+- [[#housing market|housing market]]
+		- [[#Housing in Vienna|Housing in Vienna]]
+		- [[#Gemeindebau|Gemeindebau]]
+		- [[#Subsidised rental housing|Subsidised rental housing]]
+		- [[#Private rental market|Private rental market]]
+		- [[#Vienna's housing market|Vienna's housing market]]
+		- [[#Diversity|Diversity]]
+		- [[#Social mix in a social welfare state|Social mix in a social welfare state]]
+		- [[#From social mix to social mixing|From social mix to social mixing]]
+		- [[#Planning for social mix|Planning for social mix]]
+		- [[#Who makes the city?|Who makes the city?]]
+- [[#gentrification|gentrification]]
+		- [[#Gentrification (every-) where? how?|Gentrification (every-) where? how?]]
+		- [[#Defining Gentrification|Defining Gentrification]]
+		- [[#Characteristics of Gentrification|Characteristics of Gentrification]]
+		- [[#Various forms of gentrification|Various forms of gentrification]]
+		- [[#Public subsidies for renovation|Public subsidies for renovation]]
+		- [[#Preventing gentrification|Preventing gentrification]]
+- [[#arrival space & the tole of public space|arrival space & the tole of public space]]
+		- [[#arrival cities|arrival cities]]
+		- [[#starting the arrival|starting the arrival]]
+		- [[#framing arrival|framing arrival]]
+		- [[#arrival challenges|arrival challenges]]
+		- [[#challenging the notion of arrival - or challenged by arrival?|challenging the notion of arrival - or challenged by arrival?]]
+- [[#social innovation|social innovation]]
+		- [[#territorial innovation models (TIMs)|territorial innovation models (TIMs)]]
+- [[#assignment|assignment]]
 
 
 ## notes
 
-### introduction
+## introduction
 
 Fieldwork at AAKH  
 
@@ -70,7 +75,7 @@ Brainstorming **research questions** based on the reading - use why, what (analy
 - Can socio-spatial disparities ever have a positive impact on minority groups? $\rightarrow$ socio-spatial disparities
 - When comparing refugees from the Ukrainian war in 2022 and refugees from the Middle-East in 2015 (themselves a highly diverse, non homogenous group), how do public policies and public discourse influence these people's experience and integration into Vienna
 
-### housing Market
+## housing market
 Guest lecturer Celine Janssen
 
 #### Housing in Vienna
@@ -167,7 +172,7 @@ In area development, there are many ideals, but how do you decide what should be
 
 How do you recognise social sustainability in the built environment? There are tangible and intangible ways. Tangible: decent housing, transport, daily facilities, recreation, jobs, schools, public spaces, healthcare, urban design. Intangible: social interaction, social networks, cultural expression, feeling of belonging, feeling of community, safety, wellbeing, existence of informal groups and associations, representation by local governments.
 
-### gentrification
+## gentrification
 *Fieldwork at MuseumQuartier $\rightarrow$ Westbahnhof
 
 What are the different [[gentrification]] processes that take place in parallel, and which processes are/aren't visible? There are various interrelated processes, that contribute to high-complexity.
@@ -244,14 +249,13 @@ It becomes about activism and knowledge transfer, so that renters know and under
 
 %\includegraphics[width=\textwidth]gentrification_policies
 
-### arrival space & the tole of public space
+## arrival space & the tole of public space
 
-Arrival spaces vs. arrival cities 
+[[arrival spaces]] vs. [[arrival cities]]
 - Nashville, Tenessee: the city has the largest Kurdish population in the US, because kurds choose to move there from their government-assigned city to reunite with family and friends
 - Calais: space of arrival (and departure) for the channel crossing
 - Maximilianpark, Brussels
 - Transient spaces: cities close to (eg. Polish) borders which are first points of arrival but where people stay as short as possible
-
 
 #### arrival cities
 
@@ -259,7 +263,7 @@ Arrival spaces vs. arrival cities
 - Criticised as being over optimistic about migration- says that every city is an arrival city and people can make the opportunities for themselves (individuals have the responsibility to climb the social ladder) BUT it is not easy to create a life/make a living in the short term; businesses and services from migrants take a long time to be created
 
 #### starting the arrival
-- . NGOs have the energy and resources to act fast and support new comers spontaneously; in Vienna during the immigration period in 2015, NGOs (eg. Train of Hope) explained the situation and options to migrants wanting to reach Germany and being wary of arriving in Austria
+- NGOs have the energy and resources to act fast and support new comers spontaneously; in Vienna during the immigration period in 2015, NGOs (eg. Train of Hope) explained the situation and options to migrants wanting to reach Germany and being wary of arriving in Austria
 - Immigration experiences
 	- Humanitarian racism: treating immigrants differently based on an implicient hierarchy; eg. making resources and entry accessible to Ukrainian refugees, but not for Syrian/Afghan refugees (double standards)
 
@@ -315,7 +319,23 @@ Challenges from **arrival practices**
 
 4. Fostering transdisciplinary (knowledge) co-creation
 
-### social innovation
+## social innovation
+
+*"[[social innovation]] is **people-led** in its essence, addressing **social inequalities** through a variety of (bottom-up) practicies which change the relations amongst involved actors. Based on this notion, SI is characterised by three core content and process dimensions: **meeting needs, creating new forms of social relations and collectively empowering people**"* (Moulaert and MacCallum, 2019)
+
+### territorial innovation models (TIMs)
+Frank Moulaert, University of Leuven
+
+-  Deregulation is re-regulation for the benefit of the market
+
+**Research trajectory**
+- From [[territorial innovation models]] to integrated area development and the social region
+
+ontological perspectives
+
+
+
+
 
 
 
