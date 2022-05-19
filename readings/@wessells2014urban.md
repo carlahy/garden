@@ -18,7 +18,7 @@ year: 2014
 	- Blue space is ==permeable==, and isn't only the border of water with land (the waterfront). It encompasses the social (==shared #public-space==) and the environment
 
 - Scale of blue spaces: local and regional governance; they need to be managed
-	- *"Is the "public trust'' of the urban waterway as an environmental resource being protected as a ==common good==? Is the ==right to the city=='' of urban residents being enabled through waterfront land uses?''*
+	- *"Is the "public trust'' of the urban waterway as an environmental resource being protected as a ==common good==? Is the ==[[right to the city]]=='' of urban residents being enabled through waterfront land uses?''*
 	- Tendency to favour *"established economic interests"* over grass-roots, community stakeholders
 
 - Economic justice: entrepreneurial/neoliberal context makes it harder for local, small businesses and projects to take root; there's a need to protect affordable housing, empower local entrepreneurs, support minimum wage standards, divert from revenue intensive ideology

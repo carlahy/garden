@@ -321,17 +321,56 @@ Challenges from **arrival practices**
 
 ## social innovation
 
-*"[[social innovation]] is **people-led** in its essence, addressing **social inequalities** through a variety of (bottom-up) practicies which change the relations amongst involved actors. Based on this notion, SI is characterised by three core content and process dimensions: **meeting needs, creating new forms of social relations and collectively empowering people**"* (Moulaert and MacCallum, 2019)
+*"[[social innovation]] is **people-led** in its essence, addressing **social inequalities** through a variety of (bottom-up) practicies which change the relations amongst involved actors. Based on this notion, SI is characterised by three core content and process dimensions: **meeting needs, creating new forms of social relations and collectively empowering people**"* (Moulaert and MacCallum, 2019) [[@schnelzer2021book]]
 
 ### territorial innovation models (TIMs)
 Frank Moulaert, University of Leuven
 
 -  Deregulation is re-regulation for the benefit of the market
 
-**Research trajectory**
+**research trajectory**
 - From [[territorial innovation models]] to integrated area development and the social region
 
-ontological perspectives
+building bridges between **two ontological perspectives**
+- 1. model based on the logic of private capital (gray)
+- 2. model based on community behaviours, eg. solidatority, cultural exchang, demogratic decision making, etc. (white)
+- Exchange between models, based on language - normative language? (ref. [[hermeneutical justice]]) 
+
+**territorial innovation models +**
+- can a community logic be reconciliated with a regional innovation logic?
+- $\rightarrow$ what is [[territory]]? there are different meanings between the community and the region; the community's meaning of territyory is wider than regional meaning, because takes into account culture, exchange, etc.; territory is:
+	- **social relations** - but what are they? TIM defines them as economic relations, vs. community defines them as human exchange
+	- **socio-political relations** 
+	- **administrative territorial 'organisation'** 
+	- **power**
+	- **diversity** of culture, population, economic activities, civility, associativity, cooperation...
+	- eg. of territory: neighbourhood, urban villages, rural areas...
+- $\rightarrow$  how to build socially innovative territorial communities?
+	- what is a community (spatially)?
+	- [[integrated area development]] research
+
+**consequences for co-learning**
+- deconstruct 'stakeholder' and 'agent': no elite experts
+- role of **multivocality**
+- neutralising or redirecting **power inequalities**: eg. not giving all the power to land owners (-> is collective land ownership a solution?)
+- **leadership**: collective, charismatic, etc. how does leadership emerge?
+- co-constructing **values and images**: different sources, methodologies, processes (role of senses, tangibility, pilot projects); be conservative by keeping the good human values and (re) introduced into processes
+- power of **imaginaries**: avoiding risk of disillusion, the imaginary is not a utopia and includes dystopian visions (risk assessment)
+- knowledge democracy: which knowledge, whose knowledge?
+- co-learning: co-construction of new modes of governance
+
+Need to devote huge amount of time to create connections between actors, and focus on governance aspects in the host communities and how it integrates with the administrative institutions
+
+$\Rightarrow$ ref. advanced introduction to social innovation
+
+qs:
+- how to evaluate strength of social relationships? by being part of them, collective process self-evaluation; strength wrt what we want to do, and how we want to do it; with open conversations and not questionnaires, unless they are made collectively (or risk portraying the reality of the questionnaire makers)
+- can the word 'innovation' still be used since it is appropriated by neoliberals?
+
+### social city wien
+"independent platform for [[social innovation]] in Vienna"
+
+
 
 
 

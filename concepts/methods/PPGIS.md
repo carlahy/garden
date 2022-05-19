@@ -1,4 +1,4 @@
-# Public Participation GIS
+# Public Participation [[GIS]]
 
 #spring-school #methods #gis #ppgis
 
