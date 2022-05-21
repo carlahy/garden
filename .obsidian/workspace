@@ -7,12 +7,8 @@
         "id": "8f30b2f6a5007d43",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "modules/vienna/socio-spatial diversity.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modules/vienna/socio-spatial diversity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,14 +85,14 @@
   "active": "8f30b2f6a5007d43",
   "lastOpenFiles": [
     "modules/vienna/socio-spatial diversity.md",
+    "modules/vienna/urban sustainabe transformations.md",
+    "concepts/general/leverage points.md",
     "concepts/general/territorial innovation models.md",
     "concepts/general/integrated area development.md",
     "concepts/general/justice.md",
     "concepts/methods/PPGIS.md",
     "concepts/methods/GIS.md",
     "concepts/general/hermeneutical justice.md",
-    "readings/@wessells2014urban.md",
-    "readings/@schnelzer2021book.md",
-    "concepts/general/arrival cities.md"
+    "readings/@wessells2014urban.md"
   ]
 }
