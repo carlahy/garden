@@ -7,8 +7,12 @@
         "id": "8f30b2f6a5007d43",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "readings/@lin2020water.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 203.5,
+    "collapsed": true
   },
   "right": {
     "id": "3815cde1029a3eab",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readings/@lin2020water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +90,15 @@
   },
   "active": "8f30b2f6a5007d43",
   "lastOpenFiles": [
-    "modules/vienna/socio-spatial diversity.md",
-    "modules/vienna/urban sustainabe transformations.md",
-    "concepts/general/leverage points.md",
-    "concepts/general/territorial innovation models.md",
-    "concepts/general/integrated area development.md",
-    "concepts/general/justice.md",
-    "concepts/methods/PPGIS.md",
-    "concepts/methods/GIS.md",
-    "concepts/general/hermeneutical justice.md",
-    "readings/@wessells2014urban.md"
+    "readings/@lin2020water.md",
+    "modules/thesis/literature review.md",
+    "urban planning.md",
+    "concepts/bodies/Pearl River Delta.md",
+    "concepts/general/nature-based solutions.md",
+    "Pasted image 20220511095524.png",
+    "Pasted image 20220511095501.png",
+    "concepts/general/urban heat island.md",
+    "readings/@britton2020blue.md",
+    "readings/@anguelovski2021green.md"
   ]
 }

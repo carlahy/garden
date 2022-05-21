@@ -1,7 +1,6 @@
-# Environmental Justice
 
 
-### Dimensions of Environmental Justice
+### dimensions of environmental justice
 
 - [[PPUE|Perceived problems and unpleasant experiences]] (ref. [[@raymond2016integrating]])
 - Diversity of users and diversity of uses (ref. [[@raymond2016integrating]])
