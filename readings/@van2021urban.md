@@ -5,7 +5,7 @@ year: 2021
 ---
 #thesis-reading 
 
-- Access to *"attractive, safe and inclusive blue spaces"* heightens people's psychological wellbeing, and especially that of those living in *==deprived urban areas==
+- Access to *"attractive, safe and inclusive [[blue space|blue spaces]]"* heightens people's psychological wellbeing, and especially that of those living in *==deprived urban areas==
 - The first study to evaluate the impact of small scale interventions (where the built environment was altered) in a deprived urban area, on the psychological wellbeing of the residents/users. The well being of the residents and visitors was assessed (by self reporting) before and after the intervention. Community was involved in the project
 	- BlueHealth did *"urban blue acupuncture"* interventions, to evaluate the extent to which small scale/modest intervention can positively impact mental health
 	- Hypothesis was three fold (p. 3), importance of site quality, feelings of personal safety, and community belonging

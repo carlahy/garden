@@ -5,7 +5,7 @@ year: 2019
 ---
 #thesis-reading 
 
-- What are the potential health benefits of being near to, seeing, using blue spaces? The study looks are the perceived well-being of elderly in Hong-Kong
+- What are the potential health benefits of being near to, seeing, using [[blue space]]? The study looks are the perceived well-being of elderly in Hong-Kong
 - The benefits of green spaces in urban environments are known. Dense, stressful, polluted urban environments can cause physical and mental illnesses, and green spaces can help reduce these symptoms. Three main ways in which green and health are linked (according to Markevych et al., (p. 100)):
 	- *"Reducing environmental harms (eg. mitigating noise pollution)"* $\rightarrow$ environment
 	- *"Supporting emotion regulation and the restoration of depleted cognitive capacities (eg. through stress alleviation)"* $\rightarrow$ social

@@ -1,0 +1,1 @@
+The idea that [[blue space|blue spaces]] are natural carbon stores

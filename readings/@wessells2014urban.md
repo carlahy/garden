@@ -7,7 +7,7 @@ year: 2014
 
 - Brings together four perspectives of "doing justice" in the waterfront area: ==economic justice, [[environmental justice]], social justice, tribal justice==. Each dimension comes with a its own challenges. The paper defines the scale of blue spaces as local and regional, and asks how waterfront revitalisation projects can address public trust, public spaces as common goods, and right to the city
 	- This demonstrates that the challenge is to *"construct a place that works to counter established patterns of local and regional injustice"* (p. 764)
-	- Blue space is conceived as a *"shared public and environmental good"*, and is as important as green space, *"constituting their own species of urban space, whose urban political ecology is essential to the sustainable development of cities and urban regions"* (p. 765)
+	- [[blue space]] is conceived as a *"shared public and environmental good"*, and is as important as green space, *"constituting their own species of urban space, whose urban political ecology is essential to the sustainable development of cities and urban regions"* (p. 765)
 	- Seattle branded as a progressive and inclusionary place but still follows the pattern of high-growth, creative class, inequitable cities (p. 776)
 	- *"In order to do justice on the waterfront, it may be more effective and efficient to identify the dynamics and outcomes that reinforce patterns of privilege and discrimination and proactively convene the leaders, groups and activists most impacted by such patterns and best poised to devise alternative paths forward"* (p. 776)
 - Physical setting and built environment

@@ -63,7 +63,7 @@ Ref: #thesis-method
 
 ### objectives
 
-Ideas to analyse blue space and EJ:
+Ideas to analyse [[blue space]] and EJ:
 
 1. ==distributional EJ== the location of the project in the city - the surrounding neighbourhoods and who lives there, accessibility by public transport/walking/cycling and time required to reach the water from different parts of the city
 - YES/NO?

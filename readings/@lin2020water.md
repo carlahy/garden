@@ -5,8 +5,8 @@ year: 2020
 ---
 
 ### notes
-- tldr; green spaces are renowned nature-based strategies to combat heat stress in cities, but the potential of blue spaces hasn't been as widely researched and utilised; the objective is to demonstrate and measure the extent to which blue spaces can mitigate surface urban heat islands, by studying [[Pearl River Delta|Shenzen-Hong Kong]] agglomeration
-	- conclusion is that morphology and density of blue space changes the impact of BS on mitigating SUHI (large bodies like oceans, lakes, reservoirs have greater impact); green islands help mitigate inland UHI 
+- tldr; green spaces are renowned nature-based strategies to combat heat stress in cities, but the potential of blue spaces hasn't been as widely researched and utilised; the objective is to demonstrate and measure the extent to which blue spaces can [[climate mitigation|mitigate]] surface urban heat islands, by studying [[Pearl River Delta|Shenzen-Hong Kong]] agglomeration
+	- conclusion is that morphology and density of [[blue space]] changes the impact of BS on mitigating SUHI (large bodies like oceans, lakes, reservoirs have greater impact); green islands help mitigate inland UHI 
 - [[urban heat island]] (UHI) is *"the most conspicuous and widely perceived impact of urban climate change caused by human activities"* (p. 1)
 	- three types of urban heat islands: surface UHI, boundary layer HI, canopy layer HI
 - blue and green spaces have ecosystems that naturally alleviate climate change impacts on cities, and are considered [[nature-based solutions]] 

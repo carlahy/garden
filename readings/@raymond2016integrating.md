@@ -5,7 +5,7 @@ year: 2016
 ---
 #thesis-reading 
 
-- Uses PPGIS (Public Participation Geographic Information System) method for *"spatially identifying and assessing multiple elements of environmental justice in urban blue space"* Using Finland as a case study, it looks for:
+- Uses PPGIS (Public Participation Geographic Information System) method for *"spatially identifying and assessing multiple elements of environmental justice in urban [[blue space]]"* Using Finland as a case study, it looks for:
 	- *"Diversity and spatial distribution of clusters based on the activities undertaken in urban blue space"*. A cluster is an area defined by the type of activity carried out there
 	- *"Diversity of users in each cluster, representing a composite measure of income, age and family income"*, also race, gendre, disabilities. How facilities and services influence who uses the space
 	- *"Extent of perceived problems and unpleasant experiences in each cluster"
