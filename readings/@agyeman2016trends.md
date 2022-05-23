@@ -52,7 +52,7 @@ year: 2016
 	- The inter-cultural city is a place that is designed and developed by everyone, where everyone has something to contribute and it is a joint endeavour (p. 333) (ref. [[@van2021urban]] who talks engaging the local community in a revitalisation project)
 	- Sharing: moving beyond the shared economy, towards understanding cities in their entirety as shared spaces, and acting sharing them fairly; sharing economy should not ignore equity and justice
 	- Urban renewal causes displacement and gentrification; health food movements causes gentrification and ==environmental privilege== $\rightarrow$ ecological, green, environmental gentrification
-	- If people are attached to a particular environment, and that attachment is disrupted, then individual and collective wellbeing is damaged; people lose their sense of self as actors and do-ers in the places they inhabit
+	- If people are attached to a particular environment, and that attachment is disrupted, then individual and collective well-being is damaged; people lose their sense of self as actors and do-ers in the places they inhabit
 
 
 ## Thesis relevance

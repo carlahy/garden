@@ -374,3 +374,12 @@ Many ideas from the inter-war period (1920s-30s) gain momentum after WWII.
 
 ### urban planning type V: the sustainable city
 
+
+
+## readings
+
+### Schorske, *The Ringstrasse, its critics and the birth of urban modernism*,  (1980)
+- Two considerations:
+	1. "the Ringstrasse itself as a visual expression of the values of a social class" (p. 25), planning projecting of values into space
+	2.  "undramatic technical work" that provided health and safety for growing Viennese population, thanks to the liberal political environment - eg. hospitals, public health system, Danube regulation to prevent floods, parks, utilities, public services... BUT not yet the social/low cost housing that Vienna is famous for
+- 

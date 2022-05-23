@@ -5,12 +5,12 @@ year: 2021
 ---
 #thesis-reading 
 
-- Access to *"attractive, safe and inclusive [[blue space|blue spaces]]"* heightens people's psychological wellbeing, and especially that of those living in *==deprived urban areas==
+- Access to *"attractive, safe and inclusive [[blue space|blue spaces]]"* heightens people's psychological [[health and well-being|well-being,]] and especially that of those living in *==deprived urban areas==
 - The first study to evaluate the impact of small scale interventions (where the built environment was altered) in a deprived urban area, on the psychological wellbeing of the residents/users. The well being of the residents and visitors was assessed (by self reporting) before and after the intervention. Community was involved in the project
 	- BlueHealth did *"urban blue acupuncture"* interventions, to evaluate the extent to which small scale/modest intervention can positively impact mental health
 	- Hypothesis was three fold (p. 3), importance of site quality, feelings of personal safety, and community belonging
 	- The renovation included: a theatre with seating facing the water, removing parking on the access path, renovating the "slipway" (access path), improving the playground (p. 3, 2.1)
-	- They emphasise the importance of involving the residents in the renovation, and acknowledge that doing so makes it hard to understand whether the increase in wellbeing is due to the renovated infrastructure, or the experience of being involved in a community project
+	- They emphasise the importance of involving the residents in the renovation, and acknowledge that doing so makes it hard to understand whether the increase in [[health and well-being|well-being]] is due to the renovated infrastructure, or the experience of being involved in a community project
 - Result was a greater sense of wellbeing due to a feeling of community belonging; and a greater sense of life satisfaction due to "greater satisfaction with personal safety and community belonging"
 
 - Challenges in upscaling/upgrading green and blue spaces

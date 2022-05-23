@@ -35,7 +35,7 @@ year: 2020
 ### benefits of urban greening
 - Economic development: green spaces make neighbourhoods more attractive which raises property value
 - Ecological benefits: diversity of ecosystems, reduced air pollutions, carbon sequestration,...
-- Health benefits: perceived wellbeing, etc.
+- Health benefits: perceived [[health and well-being|well-being]], etc.
 
  ### justice
  

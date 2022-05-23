@@ -170,7 +170,7 @@ In area development, there are many ideals, but how do you decide what should be
 
 ...
 
-How do you recognise social sustainability in the built environment? There are tangible and intangible ways. Tangible: decent housing, transport, daily facilities, recreation, jobs, schools, public spaces, healthcare, urban design. Intangible: social interaction, social networks, cultural expression, feeling of belonging, feeling of community, safety, wellbeing, existence of informal groups and associations, representation by local governments.
+How do you recognise social sustainability in the built environment? There are tangible and intangible ways. Tangible: decent housing, transport, daily facilities, recreation, jobs, schools, public spaces, healthcare, urban design. Intangible: social interaction, social networks, cultural expression, feeling of belonging, feeling of community, safety, [[health and well-being|well-being]], existence of informal groups and associations, representation by local governments.
 
 ## gentrification
 *Fieldwork at MuseumQuartier $\rightarrow$ Westbahnhof

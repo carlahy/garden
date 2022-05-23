@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8f30b2f6a5007d43",
+        "id": "c67197ad9a166fe3",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "modules/todos.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"blue space\"",
+                "query": "norm",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -45,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 203.5,
+    "collapsed": true
   },
   "right": {
     "id": "3815cde1029a3eab",
@@ -65,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "modules/todos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +89,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8f30b2f6a5007d43",
+  "active": "c67197ad9a166fe3",
   "lastOpenFiles": [
-    "concepts/general/blue carbon.md",
-    "modules/vienna/urban analysis.md",
-    "modules/thesis/thesis.md",
-    "modules/thesis/literature review.md",
+    "modules/todos.md",
+    "modules/vienna/principles of planning and urbanism.md",
+    "concepts/urban dynamics/social production of space.md",
     "readings/@wessells2014urban.md",
-    "readings/@van2021urban.md",
-    "readings/@raymond2016integrating.md",
-    "readings/@manteghi2015water.md",
-    "readings/@lin2020water.md",
-    "readings/@gascon2017outdoor.md"
+    "readings/@agyeman2016trends.md",
+    "readings/@britton2020blue.md",
+    "concepts/general/health and well-being.md",
+    "modules/thesis/thesis meetings.md",
+    "modules/vienna/socio-spatial diversity.md",
+    "modules/thesis/literature review.md"
   ]
 }
