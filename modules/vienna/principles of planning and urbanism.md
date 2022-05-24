@@ -25,11 +25,17 @@
 	- [[#notes#urban planning type I: urban engineering and fin de siècle urbanism|urban planning type I: urban engineering and fin de siècle urbanism]]
 		- [[#urban planning type I: urban engineering and fin de siècle urbanism#urban planning types|urban planning types]]
 	- [[#notes#urban planning type II: reformist urbanism pre WWII|urban planning type II: reformist urbanism pre WWII]]
+		- [[#urban planning type II: reformist urbanism pre WWII#garden cities and settlers' movement|garden cities and settlers' movement]]
+		- [[#urban planning type II: reformist urbanism pre WWII#public and social housing|public and social housing]]
+		- [[#urban planning type II: reformist urbanism pre WWII#urban planning type 2: zoning|urban planning type 2: zoning]]
+		- [[#urban planning type II: reformist urbanism pre WWII#beginnings of regional planning|beginnings of regional planning]]
 	- [[#notes#urban planning type II: reformist urbanism post WWII|urban planning type II: reformist urbanism post WWII]]
 	- [[#notes#modernism, under both capitalism and socialism|modernism, under both capitalism and socialism]]
 	- [[#notes#the local welfare state|the local welfare state]]
 	- [[#notes#the neoliberal city and its limits|the neoliberal city and its limits]]
 	- [[#notes#urban planning type V: the sustainable city|urban planning type V: the sustainable city]]
+- [[#readings|readings]]
+	- [[#readings#Schorske, *The Ringstrasse, its critics and the birth of urban modernism*,  (1980)|Schorske, *The Ringstrasse, its critics and the birth of urban modernism*,  (1980)]]
 
 
 
@@ -264,6 +270,7 @@ An era with little urban planning.
 #### tenement housing
 - Paris
 - New York: thin and high housing
+- Pure grid pattern planning without facilities (eg. toilets or running water)
 
 ### urban planning type I: urban engineering and fin de siècle urbanism
 Urban planning type 1, the beginning of "planning as we know it"
@@ -323,6 +330,7 @@ Vienna- stages of incorporation, 1850-1910
 
 The ills of the industrial city and urbanisation should be alleviated by separating the uses (ref. Athens Charter published by Le Corbusier, describing the Ville Radieuse).
 Cities are growing and urbanising, we need some organisation $\rightarrow$ conurbation
+Reconfiguration of places and borders
 
 **Political and scientific framing of reformist urbanism**
 *In the 1920s*
@@ -332,7 +340,7 @@ Cities are growing and urbanising, we need some organisation $\rightarrow$ conur
 	- education- abundance of new teaching material, books, graphics, cartography, new ambition to visualise things
 	- health system
 	- social work- upgrading and ambitious, eg. orphenage homes
-- Parllel to garden city and settlers' movement, first phase of social housing, zoning replaces set-back (alignment) plans, beginning regional planning (US, GB, DE)
+- Parallel to garden city and settlers' movement, first phase of social housing, zoning replaces set-back (alignment) plans, beginning regional planning (US, GB, DE)
 - Scientific method and belief in prognosis
 - Democratic participation formally granted
 
@@ -344,32 +352,97 @@ Cities are growing and urbanising, we need some organisation $\rightarrow$ conur
 	- 1908-19130- Dresden, Germany's first garden suburb of Hellerau,
 	- 1912- Essen, garden village of Margarethenhöhe built by philanthropist
 	- ... many more- cités jardins in Paris, social democrat build state-run garden cities in Frankfurt...
-- Post WWI- people stayed on allotment gardens and established houses (eg. cabins) $\rightarrow$ garden settlements
+- **Settlers movement** coming out of post-war economy created allotment gardens -> people were given land to grow food for themselves; **subsistence wartime economy**; people stayed on the allotments, creating more substantial houses
 - Otto Wagner hospital (1910)- upgarded allotment gardens in suburbs into 'spontaneous' housing established by the people (~1910s-20s), contrast to 1930s garden settlements, more organised, led by the city council $\rightarrow$ in a brief period of <30 years, three planning styles manifest - hospital vs. allotment gardens vs. garden settlements
-
 
 #### public and social housing
 
+Fostered by nationalist socialist authoritarian government, who wanted to safely house workers for the war effort; not keen on high rise because easy target when engaged in war
+
+Start of social housing in Vienna from 19180 to 1939, signfiicantly slowing during WWII but starting again post-WWII when economy picks up
+
+![[vienna_housing_builds.png]]
+
+
+Housing problems during WWI
+- Cessation of **housing investment** $\rightarrow$ opposite from today, where investment/private market is huge driver of housing landscape
+- Collapse of new housing finance, but hyper-inflation destroyed value of loans
+- Rapid rent increases resisted by tenants
+- Large urban industrial centers particularly affected
+- Housing problems also in rural areas with war industry
+
+[[social housing]] is an upgrade from [[tenement housing]]:
+- Inner court yards and green spaces 
+- Kindergartens built in to the housing complex
+
 #### urban planning type 2: zoning
+
+[[zoning|Zoning]] is something new in Vienna and in other European cities, but was in the making in previous phases of urban planning. In Vienna we can see this in the areas delimited as parks or industrial areas, for eg.
+
+The aim of zoning is to control the use of plots, and zoning the city is a long process.
+
+- **Height regulations** $\rightarrow$ inhibits high-rise buildings, but allows most kind of land use within height and street width limits
+	- 1829: explicit height regulations, 5 storeys
+	- 1859: regulation of 25 meters 
+	- 1893: concentric height limitations established, special zones for heavy industry (Bauzonenplan)
+- 1905: Vienna Green Belt (green zones)
+- 1916: zoning is an innovation in NYC
+- 1929: Vienna building code detailed height and width regulation, plus **permitted land use**
+	- Mixed [[land use]] is incrementally reduced over decades
+- 1930s: first high-rises permitted in most European cities
+
 
 #### beginnings of regional planning
 
+Incorporation: explanding the borders of the city to wider and wider territory
 
-### urban planning type II: reformist urbanism post WWII
+- Limits to continuing incorporation, resistance from people (19th century)
+- "Conurbation" and "survey before plan"
+- ... 
+- Berlin: incorporation stopped in 1861, "Greater Berlin Planning" competition in 1910 led to incorporation of Gross-Berlin in 1920
+- Vienna urban region: core (contiguous settlement) and outer zone (travel-to-work area); central conurbation larger than city
+	- Putting pressure on transport logistics
+
+![[vienna_connurbation.png]]
+
+
+### urban planning type II: modernist urbanism post WWII
+
+*Framed by a variety of welfare regimes, emerging after 1945, under both capitalism and socialism*
+
 Many ideas from the inter-war period (1920s-30s) gain momentum after WWII.
+What happened to garden cities, social housing, zoning and regional planning after 1945?
+
+#### new towns and garden cities
+
+- Debate density: high rises, low rise takes up more land, single houses need significant distance to neighbour - what is most economical? very dense medium-rise 
 
 
+#### social housing
+- Mass production of good quality social housing
 
-### modernism, under both capitalism and socialism
-
-
-
-### the local welfare state
+#### zoning continued, improved, extended
 
 
+#### regional planning is rare and difficult
 
-### the neoliberal city and its limits
 
+#### welfare and housing regimes
+
+
+#### stages of urban development
+
+
+#### socialist and post-socialist urbanism
+
+### urban planning type III: urban development plans
+
+
+(*the local welfare state*
+*the neoliberal city and its limits*)
+
+
+### urban planning type IV: urban management, collaborative planning
 
 
 ### urban planning type V: the sustainable city

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readings/@anguelovski2021green.md",
+            "file": "modules/vienna/principles of planning and urbanism.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readings/@anguelovski2021green.md",
+                "file": "modules/vienna/principles of planning and urbanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "c67197ad9a166fe3",
   "lastOpenFiles": [
+    "modules/vienna/principles of planning and urbanism.md",
+    "zoning.md",
+    "concepts/general/commons.md",
+    "concepts/general/social housing.md",
+    "concepts/general/land use.md",
+    "concepts/general/tenement housing.md",
     "readings/@anguelovski2021green.md",
     "readings/@anguelovski2020expanding.md",
-    "greening.md",
-    "modules/todos.md",
-    "readings/@toomey2021place.md",
-    "readings/@wessells2014urban.md",
-    "readings/@van2021urban.md",
-    "readings/@agyeman2016trends.md",
-    "modules/vienna/principles of planning and urbanism.md",
-    "concepts/urban dynamics/social production of space.md"
+    "concepts/general/greening.md",
+    "modules/todos.md"
   ]
 }
