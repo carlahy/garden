@@ -21,7 +21,7 @@ year: 2020
 
 ## notes
 ### urban greening interventions
-- Cities employ urban greening internventions to address socio-environmental and health challenges
+- Cities employ urban [[greening]] interventions to address socio-environmental and health challenges
 - Urban greening interventions: nature-based projects that provide green infrastructures or amenities like parks, greenbelts, green roofs...
 - Greening projects supported by policies and research (eg. [[U.S. Envrionmental Protection Agency]], [[SDG]] 11, green branding ...) and are often unquestioned. It is assued that greening projects do not have any negative economic, ecological, social or health side effects (p. 2-3)
 - BUT these measures seldom include the dimension of **equity**, and do not account for communities and residents who are *"historically vulnerable to envrionmental racism, displacement, or both. .... For the most part, there is an implicit assumption of "green" [[tricke down effects]] "* (p. 2)

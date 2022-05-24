@@ -5,7 +5,7 @@ year: 2021
 ---
 
 ### notes
-- Explores people's perception of blue spaces, how people have a sense of space associated to blue spaces particularly in degraded spaces or those located in marginalised communities. Revitalisation projects risk disturbing
+- Explores people's perception of blue spaces, how people have a sense of space associated to blue spaces particularly in degraded spaces or those located in marginalised communities. Revitalisation projects risk disturbing connections
 
 #### revitalisation of waterfronts
 - New developments and new kind of public demand have put the focus of urban planning on sustainability, revitalisation and resilience
@@ -31,4 +31,4 @@ year: 2021
 
 ### thesis relevance
 - What about "social assessment methods" mixed with short interviews?
-
+- Understanding uses, perceptions and meanings associated to Copenhagen's blue spaces, using observations, rapid interviews with waterfront users, and semi-structured interviews with experts

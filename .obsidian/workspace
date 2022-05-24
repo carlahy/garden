@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "modules/todos.md",
+            "file": "readings/@anguelovski2021green.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "norm",
+                "query": "greening",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "3815cde1029a3eab",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modules/todos.md",
+                "file": "readings/@anguelovski2021green.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,15 +90,15 @@
   },
   "active": "c67197ad9a166fe3",
   "lastOpenFiles": [
+    "readings/@anguelovski2021green.md",
+    "readings/@anguelovski2020expanding.md",
+    "greening.md",
     "modules/todos.md",
-    "modules/vienna/principles of planning and urbanism.md",
-    "concepts/urban dynamics/social production of space.md",
+    "readings/@toomey2021place.md",
     "readings/@wessells2014urban.md",
+    "readings/@van2021urban.md",
     "readings/@agyeman2016trends.md",
-    "readings/@britton2020blue.md",
-    "concepts/general/health and well-being.md",
-    "modules/thesis/thesis meetings.md",
-    "modules/vienna/socio-spatial diversity.md",
-    "modules/thesis/literature review.md"
+    "modules/vienna/principles of planning and urbanism.md",
+    "concepts/urban dynamics/social production of space.md"
   ]
 }

@@ -3,7 +3,7 @@ Uni to do list:
 - [ ] UA - literature review
 - [x] UST - fill in table for city
 - [x] PUPU - complete quiz 
-- [ ] Contemporary Challenges - schedule meeting???
+- [x] Contemporary Challenges - schedule meeting
 - [ ] SSUD - schedule meeting for podcast
 - [ ] SSUD - read Roda Roda paper
 
