@@ -1,6 +1,6 @@
 Uni to do list:
 - [ ] 中文作则
-- [ ] UA - literature review
+- [x] UA - literature review
 - [x] UST - fill in table for city
 - [x] PUPU - complete quiz 
 - [x] Contemporary Challenges - schedule meeting

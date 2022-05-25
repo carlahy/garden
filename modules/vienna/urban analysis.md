@@ -68,6 +68,35 @@ axiology: 5 (critical)
 - **Abductive**: incomplete observations $\leftarrow$ hypotheses $\rightarrow$ theory elaboration
 
 
+### literature review / problem statement
+
+1. **Context and relevant background info** - 2 paragraphs
+	1. Blue spaces, and natural spaces in general, are good for people and the environment
+	2. EJ emerged in the 19XX and advocates for sharing envrionmental benefits (and burdens)
+	3. Reality is that not everyone can benefit equally from blue spaces in the city
+2. **Critical review, comparison, summary of literature** - 1-1.5 pages
+	1. Despite the benefits on blue space, many consequences on peple and environment
+		1. Discrimination, exclusion, gentrification displacement, biodiversity loss... 
+		2. People of lower SES have less access
+	2. . Summary of EJ: 
+		1. "environmental equity concerns"
+		2. three aspects of EJ need to be covered: distributional, procedural and recognition
+	3. (Limits of distribution) Even when there is a fair distribution of natural spaces in a neighbourhood/city, proximity to natural spaces doesn't always correlate with usage. Residents in deprived neighbourhoods tend to use green space less, even when physical access to blue space is comparable to wealthier neighbourhoods
+		1. Accessibility is more closely correlated to self-reported use, rather than objective measures like distribution or availability of green space (Wang)
+	4. Branch of literature that claims that green space usage is more closely correlated to people's perception of a place, than proximity - therefore, perceived accessibility is most important
+3. **Limitations of previous studies and gaps in knowledge** 1-2 paragraphs
+	1.  Many studies on accessibility look at physical access, ie. proximity to natural space
+	2. However, accessibility is a multidimensional and complex concept which cannot be reduced to the spatial distribution of natural spaces. 
+	3. There is an acknowledged gap in research on the non-physical, social factors which influence blue space use. Relating this idea to green space, Wang writes that *"the advantage of physical proximity to parks and green spaces may be offset by the quality, diversity , and size of the green spaces or by socio-personal characteristics including age, income, safety, and cultural concerns"* 
+	   These cannot be quantified in the same way as physical proximity. It is a subjective measure based on qualitative data
+4. **Knowledge that your research will add** 1 paragraph
+5. **RQ**
+	1. To what extent are blue space (un)fairly accessible throughout the city, in terms of perceived accessibility?
+	2. To what extent is perceived accessibility to urban blue space fairly distributed throughout the city?
+
+
+ ![[thesis_literature_review.png]]
+
 
 ## assignments
 

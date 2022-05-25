@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "modules/vienna/principles of planning and urbanism.md",
+            "file": "readings/@wang2015physical.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "505d1a7aff670382",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "modules/vienna/urban analysis.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 203.5,
+    "collapsed": true
   },
   "right": {
     "id": "3815cde1029a3eab",
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modules/vienna/principles of planning and urbanism.md",
+                "file": "modules/vienna/urban analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c67197ad9a166fe3",
+  "active": "505d1a7aff670382",
   "lastOpenFiles": [
+    "modules/vienna/urban analysis.md",
+    "readings/@wang2015physical.md",
+    "concepts/general/environmental justice.md",
+    "multidimensionality.md",
+    "concepts/experience/accessibility.md",
+    "modules/todos.md",
     "modules/vienna/principles of planning and urbanism.md",
     "zoning.md",
     "concepts/general/commons.md",
-    "concepts/general/social housing.md",
-    "concepts/general/land use.md",
-    "concepts/general/tenement housing.md",
-    "readings/@anguelovski2021green.md",
-    "readings/@anguelovski2020expanding.md",
-    "concepts/general/greening.md",
-    "modules/todos.md"
+    "concepts/general/social housing.md"
   ]
 }
