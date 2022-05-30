@@ -34,7 +34,7 @@ year: 2016
 
 - Expansion of concept of EJ: as the term gained popularity and became inter-disciplinary, it was expanded by some to consider wider aspects of justice (ref [[@toomey2021place]]! )
 	- ==Three conceptions of [[justice]]: distributive, procedural, recognition-based== (Walker)
-		-  *"expand beyond the unequal distributions of impacts and/or responsibilities to include the processes of disrespect, devaluation, degradation, or insult of some people versus others; inclusion or exclusion in participation and procedure; and the provision and protection of the basic capabilities or needs of everyday life"* (in quote)
+		-  *"expand beyond the unequal distributions of impacts and/or responsibilities to include the processes of disrespect, devaluation, degradation, or insult of some people versus others; inclusion or exclusion in participation and procedure; and the provision and protection of the basic capabilities or needs of everyday life"* (p. 327)
 
 - Inextricable connection of individual and community identity to place, means that stigmatisation and degradation of places is obligatorily linked to people
 - Globalisation

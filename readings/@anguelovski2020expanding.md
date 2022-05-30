@@ -77,6 +77,7 @@ Two analytical goals:
 
 ### research questions for critical envrionmental justice
 - ***"how do people's experiences of place shape their perception of access?"***
+	- ref [[recognition justice]]
 	- how history, race, domination, power dynamics inhibit people's ability from emancipating; "how historical pervasive inequalities, relations of domination and historical, ongoing experiences of place complicate a sense of space and therefore access to green space and amenities"
 	- *"new green amenities and spaces might not be seen as integrated, welcoming and convivial amenities for minorities or immigrants, especially so when minorities are or were exposed to racist (immatieral) discourses and (material) practicies about who and what nature is"* $\rightarrow$ could this be the case in my case study?  how to tell if a space is inclusive etc. (how to measure inclusivity/access, ref. above)?
 	- [[justice#hermeneutical justice|hermeneutical injustice]] 
@@ -90,7 +91,7 @@ Two analytical goals:
 	- consider how (racial) minorities can be excluded politically, socially, culturally, physically
 
 - ~~***"who pays for and maintains new "accessible" green space?"***~~
-	- how they're financed, unequal distribution of resources and investments accross the city #distributional-justice
+	- how they're financed, unequal distribution of resources and investments accross the city [[distributional justice]]
 	- lack of political and individual power in minorities; lack of money, time, ability or desire from residents to maintain green spaces
 
 - ***"whose uses and needs are protected or sacrificed in order to create new access?"***

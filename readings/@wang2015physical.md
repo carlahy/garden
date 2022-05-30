@@ -13,8 +13,9 @@ year: 2015
 	- Size
 - What is [[accessibility]]? *"the ease with which a site may be reached, providing a measure that evaluates the relative opportunity for contact or use"*  (p. 54)
 	- Access was traditionally only about physical distance or proximity, and research emphasises the spatial-physical aspects of accessibility. 
+		- Refers to [[distributional justice]]
 		- Quantitative studies, distance to parks, park area per capita, number of parks
-		- But this ignores the fact that...	
+		- But this ignores the fact that:	
 	- Accessibility is a [[multidimensionality|multidimensional]] and complex concept which cannot be reduced to the physical aspects only
 		- Encompasses both the physical and non-physical, the geographic and social
 	- Socio-personal aspects of accessibility: *"language and cultural barriers, gender ideologies, skills, information, and other socio-economic barriers"* (p. 54)
@@ -26,8 +27,13 @@ year: 2015
 	- quality, diversity, size, socio-personal
 
 #### non-physical accessibility
+- refers to [[recognition justice]]
 - *"The advantage of physical proximity to parks and green spaces may be offset by the quality, diversity , and size of the green spaces or by socio-personal characteristics including age, income, safety, and cultural concerns"*
 - Accessibility is more closely correlated to self-reported use, rather than objective measures like distribution or availability of green space
+
+- What influences [[perceived accessibility]]?
+	- 1. park-based factors: features inside a park area, lighting, signage, locations of facilities, programs, activities, landscape design, maintenance frequency
+	- 2. user-based factors: socio economic conditions (income, education), socio demographic (ethnicity, age, sex), neighbourhood characteristics, perception of safety, peresonal sense of belonging to community
 
 ## thesis
 

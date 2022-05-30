@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c67197ad9a166fe3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "readings/@wang2015physical.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "505d1a7aff670382",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "modules/vienna/urban analysis.md",
+            "file": "readings/@agyeman2016trends.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "greening",
+                "query": "distribu",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -61,11 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
+    "width": 429.5019226074219,
     "collapsed": true
   },
   "right": {
@@ -82,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modules/vienna/urban analysis.md",
+                "file": "readings/@agyeman2016trends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +91,15 @@
   },
   "active": "505d1a7aff670382",
   "lastOpenFiles": [
-    "modules/vienna/urban analysis.md",
+    "readings/@agyeman2016trends.md",
+    "readings/@anguelovski2020expanding.md",
     "readings/@wang2015physical.md",
+    "distributional justice.md",
     "concepts/general/environmental justice.md",
-    "multidimensionality.md",
-    "concepts/experience/accessibility.md",
+    "recognition justice.md",
+    "readings/@anguelovski2021green.md",
+    "modules/vienna/urban analysis.md",
     "modules/todos.md",
-    "modules/vienna/principles of planning and urbanism.md",
-    "zoning.md",
-    "concepts/general/commons.md",
-    "concepts/general/social housing.md"
+    "readings/@van2021urban.md"
   ]
 }
