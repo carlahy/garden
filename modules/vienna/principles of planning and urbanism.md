@@ -1,47 +1,52 @@
 - [[#notes|notes]]
-	- [[#notes#planning the ancient city|planning the ancient city]]
-		- [[#planning the ancient city#Greek Urban Planning|Greek Urban Planning]]
-		- [[#planning the ancient city#Roman Urban Planning|Roman Urban Planning]]
+- [[#planning the ancient city|planning the ancient city]]
+		- [[#Greek Urban Planning|Greek Urban Planning]]
+		- [[#Roman Urban Planning|Roman Urban Planning]]
 			- [[#Roman Urban Planning#Pompeii|Pompeii]]
 			- [[#Roman Urban Planning#Novaesium, a Legion's Camp|Novaesium, a Legion's Camp]]
 			- [[#Roman Urban Planning#Ancient cities in contemporary knowledge|Ancient cities in contemporary knowledge]]
-	- [[#notes#planning the medieval city|planning the medieval city]]
-		- [[#planning the medieval city#From the Roman Empire to the Middle Ages|From the Roman Empire to the Middle Ages]]
-		- [[#planning the medieval city#Early Middle Ages|Early Middle Ages]]
-		- [[#planning the medieval city#High Middle Ages|High Middle Ages]]
-		- [[#planning the medieval city#Characteristics of Medieval Cities|Characteristics of Medieval Cities]]
+- [[#planning the medieval city|planning the medieval city]]
+		- [[#From the Roman Empire to the Middle Ages|From the Roman Empire to the Middle Ages]]
+		- [[#Early Middle Ages|Early Middle Ages]]
+		- [[#High Middle Ages|High Middle Ages]]
+		- [[#Characteristics of Medieval Cities|Characteristics of Medieval Cities]]
 			- [[#Characteristics of Medieval Cities#High Medieval City|High Medieval City]]
 			- [[#Characteristics of Medieval Cities#Mediterranean City|Mediterranean City]]
 			- [[#Characteristics of Medieval Cities#North of the Alps|North of the Alps]]
-		- [[#planning the medieval city#Timeline of Medieval Cities|Timeline of Medieval Cities]]
-	- [[#notes#renaissance: planning the absolutist city|renaissance: planning the absolutist city]]
-		- [[#renaissance: planning the absolutist city#ideal cities|ideal cities]]
-		- [[#renaissance: planning the absolutist city#fortification towns|fortification towns]]
-		- [[#renaissance: planning the absolutist city#baroque|baroque]]
-	- [[#notes#early capitalism: industrial city miseries, early reforms|early capitalism: industrial city miseries, early reforms]]
-		- [[#early capitalism: industrial city miseries, early reforms#manchester|manchester]]
-		- [[#early capitalism: industrial city miseries, early reforms#Glasgow|Glasgow]]
-		- [[#early capitalism: industrial city miseries, early reforms#tenement housing|tenement housing]]
-	- [[#notes#urban planning type I: urban engineering and fin de siècle urbanism|urban planning type I: urban engineering and fin de siècle urbanism]]
-		- [[#urban planning type I: urban engineering and fin de siècle urbanism#urban planning types|urban planning types]]
-	- [[#notes#urban planning type II: reformist urbanism pre WWII|urban planning type II: reformist urbanism pre WWII]]
-		- [[#urban planning type II: reformist urbanism pre WWII#garden cities and settlers' movement|garden cities and settlers' movement]]
-		- [[#urban planning type II: reformist urbanism pre WWII#public and social housing|public and social housing]]
-		- [[#urban planning type II: reformist urbanism pre WWII#urban planning type 2: zoning|urban planning type 2: zoning]]
-		- [[#urban planning type II: reformist urbanism pre WWII#beginnings of regional planning|beginnings of regional planning]]
-	- [[#notes#urban planning type II: reformist urbanism post WWII|urban planning type II: reformist urbanism post WWII]]
-	- [[#notes#modernism, under both capitalism and socialism|modernism, under both capitalism and socialism]]
-	- [[#notes#the local welfare state|the local welfare state]]
-	- [[#notes#the neoliberal city and its limits|the neoliberal city and its limits]]
-	- [[#notes#urban planning type V: the sustainable city|urban planning type V: the sustainable city]]
+		- [[#Timeline of Medieval Cities|Timeline of Medieval Cities]]
+- [[#renaissance: planning the absolutist city|renaissance: planning the absolutist city]]
+		- [[#ideal cities|ideal cities]]
+		- [[#fortification towns|fortification towns]]
+		- [[#baroque|baroque]]
+- [[#early capitalism: industrial city miseries, early reforms|early capitalism: industrial city miseries, early reforms]]
+		- [[#manchester|manchester]]
+		- [[#Glasgow|Glasgow]]
+		- [[#tenement housing|tenement housing]]
+- [[#urban engineering and fin de siècle urbanism|urban engineering and fin de siècle urbanism]]
+		- [[#urban planning types|urban planning types]]
+- [[#reformist urbanism (pre WWII)|reformist urbanism (pre WWII)]]
+		- [[#garden cities and settlers' movement|garden cities and settlers' movement]]
+		- [[#public and social housing|public and social housing]]
+		- [[#urban planning type 2: zoning|urban planning type 2: zoning]]
+		- [[#beginnings of regional planning|beginnings of regional planning]]
+- [[#modernist urbanism (post WWII)|modernist urbanism (post WWII)]]
+		- [[#new towns and garden cities|new towns and garden cities]]
+		- [[#social housing|social housing]]
+		- [[#zoning continued, improved, extended|zoning continued, improved, extended]]
+		- [[#regional planning is rare and difficult|regional planning is rare and difficult]]
+		- [[#welfare and housing regimes|welfare and housing regimes]]
+		- [[#stages of urban development|stages of urban development]]
+		- [[#socialist and post-socialist urbanism|socialist and post-socialist urbanism]]
+- [[#urban planning type III: urban development plans|urban planning type III: urban development plans]]
+- [[#urban planning type IV: urban management, collaborative planning|urban planning type IV: urban management, collaborative planning]]
+- [[#urban planning type V: the sustainable city|urban planning type V: the sustainable city]]
 - [[#readings|readings]]
 	- [[#readings#Schorske, *The Ringstrasse, its critics and the birth of urban modernism*,  (1980)|Schorske, *The Ringstrasse, its critics and the birth of urban modernism*,  (1980)]]
 
 
-
 ## notes
 
-### planning the ancient city
+## planning the ancient city
 
 #### Greek Urban Planning
 
@@ -85,9 +90,7 @@ Outside the camp, there were civilian settlements around, which ca be seen in Vi
   
 What is the point of this knowledge nowadays? Tourism and events, but also urban imaginaries. Knowledge is being recycled to create importance and awareness in the city.
 
-### planning the medieval city
-
-  
+## planning the medieval city
 
 #### From the Roman Empire to the Middle Ages
 The Dark Ages lasted between 500-1000 AD, and was a period of time between the Roman Empire and the Middle Ages. During the Dark Ages, much of the former powers disappeared (the Roman Empire disintegrated, which cut off trade routes and information flows except for the oriental merchants\alignedmarginparOrient = non-Latin speaking), technologies were lost, cities shrank and disappeared (eg. Trier, Cologne, Avenches). 
@@ -182,7 +185,7 @@ Similar to Ancient cities, from "geomorphic'' unplanned cities (type 1), evolvin
 6. Rebirth of the grid city
 7. The grid-shaped town (13th century)
 
-### renaissance: planning the absolutist city
+## renaissance: planning the absolutist city
 
 15th-16th century
 
@@ -204,7 +207,7 @@ baroque, renaissance
 - Praterstern, en étoile
 - baroque zoo of Vienna
 
-### early capitalism: industrial city miseries, early reforms
+## early capitalism: industrial city miseries, early reforms
 
 Previously, cities were not built for industries but for handicrafts (eg. vineyards in Vienna). 
 An era with little urban planning.
@@ -272,7 +275,7 @@ An era with little urban planning.
 - New York: thin and high housing
 - Pure grid pattern planning without facilities (eg. toilets or running water)
 
-### urban planning type I: urban engineering and fin de siècle urbanism
+## urban engineering and fin de siècle urbanism
 Urban planning type 1, the beginning of "planning as we know it"
 
 The beginning of serious urban planning, focusing on massive infrastructure to make cities safe $\rightarrow$ **averting risks or adaptation planning**
@@ -323,7 +326,7 @@ Vienna- stages of incorporation, 1850-1910
 **Reserve areas**
 - Otto Wagner hospital was built on the outskirts of the city, in anticipation for the expected 4 million residents mid-20th century
 
-### urban planning type II: reformist urbanism pre WWII
+## reformist urbanism (pre WWII)
 1920s-1930s
 
 4 typical movements and policies $\rightarrow$ garden cities and settlers' movement; public and social housing; zoning; regional planning
@@ -406,47 +409,135 @@ Incorporation: explanding the borders of the city to wider and wider territory
 ![[vienna_connurbation.png]]
 
 
-### urban planning type II: modernist urbanism post WWII
+## modernist urbanism (post WWII)
 
 *Framed by a variety of welfare regimes, emerging after 1945, under both capitalism and socialism*
 
 Many ideas from the inter-war period (1920s-30s) gain momentum after WWII.
 What happened to garden cities, social housing, zoning and regional planning after 1945?
 
-#### new towns and garden cities
 
-- Debate density: high rises, low rise takes up more land, single houses need significant distance to neighbour - what is most economical? very dense medium-rise 
+#### compared to reformist urbanism
 
+**new towns and garden cities**
+- Debate on housing density: high rises, low rise takes up more land, single houses need significant distance to neighbour - what is most economical? very dense medium-rise 
 
-#### social housing
-- Mass production of good quality social housing
+**social housing
+-  Mass production of good quality social housing
 
-#### zoning continued, improved, extended
-
-
-#### regional planning is rare and difficult
-
+**zoning**
+- continued, improved, extended
+- 
+**regional planning**
+- is rare and difficult
 
 #### welfare and housing regimes
+In old planning interventions, planning was a technical task, done by civil engineers/experts removed from the city (eg. sewage, electricity, public transport systems, flood protection...)
+Some interventions were shortsighted and had to be improved shortly after. 
+There weren't many links with **social policy**, except maybe social hospitals (which is also technical) but there were no social housing, for example. 
 
+In 1920s in the post-war period, planners broadened field of intervention from purely technical (which already included beautification) to broader social policies. Emergence of schools, kindergartens, health and social institutions, social housing... 
+
+Post WWII, the nationalisation of different sectors and the abolition of strict national borders, led to the blossoming of ideas (?). The "melting away of boxes" (ie. strict nations) created a European-wide and global competition, making variations of the welfare state more difficult.
+
+Move towards post-socialist society, but there is an echo effect: old social housing (even the housing stock sold to private tenants), district heating, still exist. The built fabric still exists even if doesn't belong to/maintained by the state.
+
+This shows that history is relevant for understanding modernist urbanism and onwards. 
+
+![[urban_planning_social_policy.png]]
 
 #### stages of urban development
+
+- **Suburbanisation**
+	- In Austria, suburbanisation started in the 1960s, with arrival of volkswage
+	- In central-European cities like Prague, Brno, started much later (2000s)
 
 
 #### socialist and post-socialist urbanism
 
-### urban planning type III: urban development plans
+(NOT AT CORE OF COURSE)
+
+Key elements of [[post-socialism|post-socialist]] city (Sonia Hirt, 2013): 
+
+- **Overall spatial articulation**
+	- Sharp edges of formerly compact cities are eroded
+	- Suburban sprawl exceeding western suburbanisation
+	- Forests and farmland around cities built over
+- **Scale of urban development**
+	- End of spatial generosity
+	- Building projects much smaller
+	- Building on once public and green space
+	- EU members benefit from EU funding 
+- **Functional balance**
+	- Huge share of socialist industrial land
+	- Vast brown fields to be converted
+	- Retail revolution, new kiosks, shopping malls, until saturation
+- **Building typologies**
+	- Segregation on the rise
+	- Single family homes, gated communities in suburbs
+	- Information settlements sprawling 
+- **Urban aesthetics**
+	- End of grayness, boredom, uniformity
+	- Eclectic mix retro/ethno architecture
+	- Copy-paste of western models
+	- Investor-led urban planning
+
+##  urban development planning
+$\rightarrow$ urban planning type III
+*the local welfare state*
+
+Try to coordinate multitude of investments, look at the whole city, and don't refrain from steering the market. They are setting up private loan companies, from the city, who are making money/doing business.
+
+Planning for:
+- coordinated developments
+- coordinating public actors
+- comprehensive, area-wide, project oriented
+- influencing markets
+
+Using [[urban development]] plans as a tool. 
+
+#### the golden age of welfare
+
+**Sweden housing welfare**
+- Pre-WWII: poor housing quality, 
+- 1930s: state housing loans
+- 1946: housing policy package, considered a pillar of the welfare state
+- 1946-1980: 87% of housing construction is state-subsidised
+- 1945-1975: majority housing is public, followed by private and coop
+- 1980s: Sweden is leader in housing budget (3.9% GDP), declined since (2% GDP in 2000)
+- Public land banking meant the land cost was very low
+- 1942-1969: rent control, locally negotiated afterwards
+
+**Sweden development plans**
+- 1928: general plan, suggesting an underground
+- 1945: master plan
+- 1952: general plan, proposes new susurban districts for 10-15k inhabitants each, along subway stops
+- 1950s: opening of subways, earlier than most European expansions
+- 1960s: huge vacant areas in the city centre; becoming renowned amongst modernist planners
+	- Pedestrian/cycling bridges over car roads
+	- Escalators in open air
+- Redevelopment of city centre (from run down "slum" )
+
+#### urban development planning
+
+- The tool for the time of the "golden age" of the welfare state
+- **Urban development plan**: a massive, all embracing documents to guide development
+	- 1984: Vienna's first urban development plan
+- Idea isn't that other tools aren't in use anymore, but that there is a *new* tool (think of tools as staircase, accumulating, rather than replacement)
+- This type of planning came to an end because many plans didn't become reality
+	- eg. "finger plans" (eg. in Copenhagen) predicting that populations will grow along linear 'fingers', which hasn't materialised; in reality grew between fingers
+- Need to **collaborate** with external organisations who are infringing on urban planning like never before 
+	- eg. Droitwich, Worcestershire: government departments, county and borough departments, appointed agencies, private enterprises, community interests
+- Technocrats in expanded definition of the term
+	- 
+
+## urban governance, collaborative planning
+$\rightarrow$ urban planning type IV
+*the neoliberal city and its limits*
 
 
-(*the local welfare state*
-*the neoliberal city and its limits*)
-
-
-### urban planning type IV: urban management, collaborative planning
-
-
-### urban planning type V: the sustainable city
-
+## planning the sustainable city
+$\rightarrow$ urban planning type V
 
 
 ## readings

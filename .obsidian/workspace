@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readings/@agyeman2016trends.md",
+            "file": "modules/vienna/principles of planning and urbanism.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readings/@agyeman2016trends.md",
+                "file": "modules/vienna/principles of planning and urbanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,15 +90,15 @@
   },
   "active": "505d1a7aff670382",
   "lastOpenFiles": [
-    "readings/@agyeman2016trends.md",
-    "readings/@anguelovski2020expanding.md",
+    "modules/vienna/principles of planning and urbanism.md",
+    "post-socialism.md",
+    "urban development.md",
+    "imgs/urban_planning_social_policy.png",
     "readings/@wang2015physical.md",
-    "distributional justice.md",
-    "concepts/general/environmental justice.md",
-    "recognition justice.md",
-    "readings/@anguelovski2021green.md",
-    "modules/vienna/urban analysis.md",
-    "modules/todos.md",
-    "readings/@van2021urban.md"
+    "readings/@kohsaka2021urban.md",
+    "readings/@manteghi2015water.md",
+    "readings/@schnelzer2021book.md",
+    "readings/@simonsen2008practice.md",
+    "readings/@agyeman2016trends.md"
   ]
 }
