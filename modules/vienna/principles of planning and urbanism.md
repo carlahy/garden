@@ -276,12 +276,12 @@ An era with little urban planning.
 - Pure grid pattern planning without facilities (eg. toilets or running water)
 
 ## urban engineering and fin de siècle urbanism
-Urban planning type 1, the beginning of "planning as we know it"
+Urban planning type I, the beginning of "planning as we know it"
 
 The beginning of serious urban planning, focusing on massive infrastructure to make cities safe $\rightarrow$ **averting risks or adaptation planning**
 
 #### urban planning types
-Four phases on Planning Cultures
+Phases of Planning Cultures
 1. Adaptation planning (anpassungsplanung)
 2. ??? (Auffangplanung)
 3. Innovation planning (Entwicklungsplanung)
@@ -291,7 +291,7 @@ Four phases on Planning Cultures
 Administrative and engineering challenge arose when Vienna expanded in the 20th century. Only on top of a technical foundation was Red Vienna possible (eg. all the social housing, kindergartens...).
 
 Vienna- stages of incorporation, 1850-1910
-![[Vienna - stages of incorporation 1850-1910.png]]
+te
 
 **Building codes**
 - Minimum width as to not be able to touch both sides of housing with armspan; medieval buildings can stay but new construction must follow width guidelines
@@ -300,13 +300,29 @@ Vienna- stages of incorporation, 1850-1910
 	- Grid originated in New York City and became a planning norm
 	- In Vienna, see the outer ring neighbourhoods: new housing in outer districts (10th, 16th...) built in strict grids 
 
+**Risk aversion**
+- Flooding preventions for the Donau: building kanal, diverting and closing streams
+
 ![[Vienna- grid pattern.png]]
 
-7x7x7 inch pavement stone 
+
 
 **Defortification**
 - defortification was delayed in Vienna, which means it could be done in a well thought-out way
 - Vienna organised an urban planning competition, and a committee voted on the best solution by combining suggestions
+
+**Technical infrastructures (and some beautification)**
+- Height zoning
+- Outer suburbs incorporated
+- Trees planted along boulevards
+- Electricity in the homes
+- Gas lights in the streets
+- Bridges for metropolitan rail road
+- Electric street-cars
+- Granite pavements (7x7x7 inch pavement stones)
+- New sewers
+
+**Tenement housing**
 - Luxury tenement housing ("plalace") opened on Ringstrasse opposite the opera #ringstrasse
 - Buildings built in different styles (neo-gothic, neo-baroque, neo-renaissance (eg. University in neo-renaissance represents the rise of learning/knowledge))
 
@@ -315,6 +331,8 @@ Vienna- stages of incorporation, 1850-1910
 - World exhibitions as mega-events and drivers of innovations
 	- London 1851, 1862 - Paris 1855, 1867 - Vienna 1873
 	- Countries exhibiting innovations, eg. corrugated iron that can be wrapped around material and be used to make secure shutters to shut shops at night
+
+**Engineering with *beautification***
 - City parks- it was clear that cities could not be built over completely
 	- Ringstrasse planned for parks (Rathaus, Volksgarten, Augarten, Stadtpark...) #ringstrasse
 	- Standardised public toilets- should look nice, eg. steel framed pissoir
@@ -329,7 +347,7 @@ Vienna- stages of incorporation, 1850-1910
 ## reformist urbanism (pre WWII)
 1920s-1930s
 
-4 typical movements and policies $\rightarrow$ garden cities and settlers' movement; public and social housing; zoning; regional planning
+4 typical movements and policies $\rightarrow$ garden cities; settlers' movement; public and social housing; zoning; regional planning
 
 The ills of the industrial city and urbanisation should be alleviated by separating the uses (ref. Athens Charter published by Le Corbusier, describing the Ville Radieuse).
 Cities are growing and urbanising, we need some organisation $\rightarrow$ conurbation
@@ -347,7 +365,7 @@ Reconfiguration of places and borders
 - Scientific method and belief in prognosis
 - Democratic participation formally granted
 
-#### garden cities and settlers' movement
+#### garden cities
 - 1904- first garden city established in Letchworth, north of London, terraced houses with shops on the main streets, supposed to be a solution to mass housing, considered successful; 1901- Hampstead garden suburb established
 - Garden cities materialised in many 'new towns' in the UK
 - Idea internationalises- garden city association organises meetings and conferences across the channel
@@ -355,56 +373,86 @@ Reconfiguration of places and borders
 	- 1908-19130- Dresden, Germany's first garden suburb of Hellerau,
 	- 1912- Essen, garden village of Margarethenhöhe built by philanthropist
 	- ... many more- cités jardins in Paris, social democrat build state-run garden cities in Frankfurt...
-- **Settlers movement** coming out of post-war economy created allotment gardens -> people were given land to grow food for themselves; **subsistence wartime economy**; people stayed on the allotments, creating more substantial houses
-- Otto Wagner hospital (1910)- upgarded allotment gardens in suburbs into 'spontaneous' housing established by the people (~1910s-20s), contrast to 1930s garden settlements, more organised, led by the city council $\rightarrow$ in a brief period of <30 years, three planning styles manifest - hospital vs. allotment gardens vs. garden settlements
+
+#### settlers' movement
+- **Settlers movement** coming out of post-war economy created allotment gardens -> people were given land to grow food for themselves, there were no plans (ie. legalisation on shanti towns); **subsistence wartime economy**; people stayed on the allotments, creating more substantial houses
+- Became a cooperative, grass-roots movement, progressively overtaken by public housing
+- Otto Wagner hospital area (1910)- upgarded allotment gardens in suburbs into 'spontaneous' housing established by the people (~1910s-20s), contrast to 1930s garden settlements, more organised, led by the city council $\rightarrow$ in a brief period of <30 years, three planning styles manifest - hospital vs. allotment gardens vs. garden settlements
 
 #### public and social housing
 
-Fostered by nationalist socialist authoritarian government, who wanted to safely house workers for the war effort; not keen on high rise because easy target when engaged in war
-
-Start of social housing in Vienna from 19180 to 1939, signfiicantly slowing during WWII but starting again post-WWII when economy picks up
-
-![[vienna_housing_builds.png]]
-
-
 Housing problems during WWI
-- Cessation of **housing investment** $\rightarrow$ opposite from today, where investment/private market is huge driver of housing landscape
+- No more **housing investment** (opposite from today, where investment/private market is huge driver of housing landscape)
 - Collapse of new housing finance, but hyper-inflation destroyed value of loans
-- Rapid rent increases resisted by tenants
+- Rapid rent increases resisted by tenants, because of **unregulated rental market** led to the rent freeze in 1917
 - Large urban industrial centers particularly affected
 - Housing problems also in rural areas with war industry
 
-[[social housing]] is an upgrade from [[tenement housing]]:
-- Inner court yards and green spaces 
+Public/social housing fostered by nationalist socialist authoritarian government, who wanted to safely house workers for the war effort; not keen on high rise because easy target when engaged in war
+
+Ways of **regulating the [[housing market]]**
+- Rent control in form of rent freeze
+- Social housing
+- Today in Vienna, the **private market is smaller than social housing** sector, due to:
+	- Merging former small rented apartments to bigger apartments fit to contemporary uses (reverse of subdivision)
+	- Same number of people living in Vienna in 2020 as in 1910 - where did these people live before when there were 500k dwellings? 4 people lived per dwelling on average, compared to today with 2 people in much more spacious dwelling $\rightarrow$ increasing prosperity, reduction in household sizes
+
+[[social housing|Social housing]] is an **upgrade** from [[tenement housing]]:
+- Inner court yards and more green spaces 
 - Kindergartens built in to the housing complex
+
+
+![[Vienna_housing_sub_markets.png]]
+
+Start of social housing in Vienna from 1918 to 1939, signfiicantly slowing during WWII but starting again post-WWII when economy picks up
+
+![[vienna_housing_builds.png]]
 
 #### urban planning type 2: zoning
 
-[[zoning|Zoning]] is something new in Vienna and in other European cities, but was in the making in previous phases of urban planning. In Vienna we can see this in the areas delimited as parks or industrial areas, for eg.
+[[zoning|Zoning]] is something new in Vienna and in other European cities, but was in the making in previous phases of urban planning. In previous plans for Vienna (ie. urban engineering phase) we can see this in the areas delimited as parks or industrial areas.
 
 The aim of zoning is to control the use of plots, and zoning the city is a long process.
 
-- **Height regulations** $\rightarrow$ inhibits high-rise buildings, but allows most kind of land use within height and street width limits
+- **Height regulations** $\rightarrow$ inhibits high-rise buildings, but allows most kind of **land-use** within height and street width limits
 	- 1829: explicit height regulations, 5 storeys
 	- 1859: regulation of 25 meters 
 	- 1893: concentric height limitations established, special zones for heavy industry (Bauzonenplan)
-- 1905: Vienna Green Belt (green zones)
+- **Green Belt** around Vienna defined in 1905 (green zones)
+- **Industrial building zones** (blue zones)
 - 1916: zoning is an innovation in NYC
-- 1929: Vienna building code detailed height and width regulation, plus **permitted land use**
+- Regulations on **permitted land-use** detailed in 1929 Vienna building code: ****
+	- Height and width regulations
 	- Mixed [[land use]] is incrementally reduced over decades
-- 1930s: first high-rises permitted in most European cities
+- 1930s: first **high-rises** permitted in most European cities
 
+![[Vienna_zoning_plan.png]]
 
 #### beginnings of regional planning
 
-Incorporation: explanding the borders of the city to wider and wider territory
-
-- Limits to continuing incorporation, resistance from people (19th century)
+**Incorporation**
+- Limits to continuing incorporation (explanding the borders of the city to wider and wider territory), because of resistance from people (19th century)
 - "Conurbation" and "survey before plan"
-- ... 
+- Greater London: 
+	- Proposed: orbital parkways, satellite/garden cities
+	- Greater London plan: road hierarchy (A-E ring roads), neighbourhood principle, green belt, 8 New Towns
 - Berlin: incorporation stopped in 1861, "Greater Berlin Planning" competition in 1910 led to incorporation of Gross-Berlin in 1920
-- Vienna urban region: core (contiguous settlement) and outer zone (travel-to-work area); central conurbation larger than city
-	- Putting pressure on transport logistics
+- 
+**Regional planning**
+- Need for **regional planning** to:
+	- Link recreation areas
+	- Need to link transport systems (eg. highways)
+- Regional planning started at the same time as when the **suburban move** started
+- How to **coordinate** these urban regions? (core and outer regions?) There are bodies who...
+	- Coordinate transport systems $\rightarrow$ *verkersverbung* traffic organisation which combines tickets and timetables for suburban trains
+	- Coordinate recreational areas $\rightarrow$ try to attract recreational parts of the region so people stay within the region
+
+Vienna's urban region: 
+- **Core** (orange)
+- **Outer zone** (blue): where 30% of workforce travel to Vienna core to work; travel-to-work area
+	- Putting pressure on transport logistics in the inner city
+- Contiguous settlement from core to outer zones, doesn't look 'rural'
+- The central conurbation is larger than city
 
 ![[vienna_connurbation.png]]
 
@@ -455,7 +503,7 @@ This shows that history is relevant for understanding modernist urbanism and onw
 
 #### socialist and post-socialist urbanism
 
-(NOT AT CORE OF COURSE)
+(NOT AT CORE OF COURSE?)
 
 Key elements of [[post-socialism|post-socialist]] city (Sonia Hirt, 2013): 
 

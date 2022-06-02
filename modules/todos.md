@@ -1,7 +1,10 @@
 Uni to do list:
-- [ ] 中文作则
-- [ ] UA - re literature review
-- [ ] UST - Orléans city profile
+- [ ] PUPU - assignment 3
+- [x] UA - abstract draft
+- [x] 中文作则
+- [x] UA - re literature review
+- [x] UST - Orléans city profile
+- [x] UST - evaluate framework
 - [ ] Podcast - work on intro
 - [x] UA - literature review
 - [x] UST - fill in table for city

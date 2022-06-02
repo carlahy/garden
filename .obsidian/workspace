@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "505d1a7aff670382",
+        "id": "192772cbb68bbf71",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "distribu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -88,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "505d1a7aff670382",
+  "active": "192772cbb68bbf71",
   "lastOpenFiles": [
     "modules/vienna/principles of planning and urbanism.md",
+    "imgs/Vienna_zoning_plan.png",
+    "housing market.md",
+    "Vienna_housing_sub_markets.md",
+    "imgs/Vienna_housing_sub_markets.png",
+    "Pasted image 20220511095501.png",
     "post-socialism.md",
-    "urban development.md",
-    "imgs/urban_planning_social_policy.png",
-    "readings/@wang2015physical.md",
-    "readings/@kohsaka2021urban.md",
-    "readings/@manteghi2015water.md",
-    "readings/@schnelzer2021book.md",
-    "readings/@simonsen2008practice.md",
-    "readings/@agyeman2016trends.md"
+    "Pasted image 20220511095524.png",
+    "modules/todos.md",
+    "urban development.md"
   ]
 }
