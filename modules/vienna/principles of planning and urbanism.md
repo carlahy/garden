@@ -461,23 +461,77 @@ Vienna's urban region:
 
 *Framed by a variety of welfare regimes, emerging after 1945, under both capitalism and socialism*
 
-Many ideas from the inter-war period (1920s-30s) gain momentum after WWII.
+Post-WWII, planning has been reconstructed with new democratic times, and is infused with economic and social policies. The welfare state develops post-1945 and was not there before, as such priorities/focus shifts from reformist urbanism.
+
+#### concepts from reformist urbanism
+
+Many ideas from the inter-war Reformist period (1920s-30s) gain momentum after WWII.
 What happened to garden cities, social housing, zoning and regional planning after 1945?
 
-
-#### compared to reformist urbanism
-
 **new towns and garden cities**
-- Debate on housing density: high rises, low rise takes up more land, single houses need significant distance to neighbour - what is most economical? very dense medium-rise 
+- New Towns and Garden Cities are run by the State (eg. in UK, Vienna)
+- How should cities destroyed after WWII be rebuilt?
+	- Debate on **housing density**: high rises vs. low rise; what is most economical? very dense medium-rise?
+	- Low rise requires more land that spills into rural areas, single houses need significant distance to neighbourhoods
+
+![[building_density_debate.png]]
 
 **social housing
--  Mass production of good quality social housing
+- After WWII there was a consensus across political party on social housing (historical comprise!)
+- *Mass production* of good quality social housing/council housing; standards are simply, but improve over time (size, bathroom, central heating, even saunas/pools)
+- The "*golden age*" of social housing peaking in early 1970s (DE/AU), which extended to be the major force of housing supply in some countries (eg. Netherlands), until social housing was sold off and transformed into market supply (not in all countries, there are places of resistance!) due to neoliberalism
+	- 1970s: over production and lack of demand! (DE/AU)
+- Rent liberalisation (rent control phased out) starting in ~1960s
+- Public subsidies distributed for
+	- Private construction, State contributes to paying morgage (aide à la pierre)
+	- Production subsidies, State offered morgages, people repaid the State, ie. outside banking system (aide à la pierre)
 
 **zoning**
-- continued, improved, extended
-- 
+- Continued, improved, and extended to the whole urban area
+- First was only about height/width, not about land-use, but gradually changed in inter-war period to include land-use regulation
+- What type of uses should be allowed next to each other? Careful planning done
+- The end of **mixed zoning**
+- Zoning is a continuous process, every 10-12 years in Vienna zoning is reviewed
+ 
 **regional planning**
-- is rare and difficult
+- It is necessary to plan beyond the city limits
+- But, in democratic times there is strong *resistance* to incorporation. Thus, regional planning remains rare and difficult in urban agglomerations
+- But it is needed, so other planning idea is required: 
+	- eg. coordinating cycling paths, public transport systems (with uniform tarrif system), planning recreational/protected areas
+
+#### new frameworks in post-1945 era
+
+New frameworks in the post-1945 era
+
+- **Nation states** 
+	- Becoming ambitious, the state steps in to build basic heavy industry as a precondition to economic growth
+	- States embarque in the supply of health system, social security coverage, etc.
+	- Most welfare policies/frameworks are a result of this post-war redesign
+- **Stages of urbanisation**
+	- Urbanisation/suburbanisation/deurbanisation/reurbanisation are forces which have to be tamed and managed by urban planners
+- **Socialist/post-socialist urbanism**
+	- Political systems impact on urban development
+	- Plan communist economies of USSR produced "tamed" cities, produced urbanisation and not suburbanisation (which arrived in 1990s with capitalist system)
+
+![[urban_planning_social_policy.png]]
+
+**Urban social policies**
+- 19th century: limited social policies; insurance only for elite social groups
+- 20th century: emergence of urban social policies, introduced by pioneer welfare cities/states
+	- Inter-war pioneering systems: includes health, education, housing system before it popularised post-war
+	- Post-war: new type of welfare regime/capitalism, as a system to organise social services; impinges on housing and planning
+- Peak/decline of welfare policies
+	- Housing welfare regime peak in 1970s, b/c of over supply
+	- Empty hospital beds become debate
+
+**Urban economic policy**
+- 19th century: urban economic policy non-existant or laissez-faire, investors could do what they wanted and State allowed major works
+- 20th century:
+	- 1920s: private supply of infrastructure questionned at end of liberal era; people became aware to private supply of elementary infrasturcture (eg. gas) was problematic because it was not efficient, cheap or reliable (eg. explosions, not always working, investors withdrew...)
+	-  1945+: State focused on rebuilding heavy industry for economic growth; controlled by state in many countries (France, Italy, Austria had national gas and metal industries)
+	- 1970s: State sells off parts of industry but States are also busy in attracting private investors, so they set up locational agencies and policies to attract investments or political institutions
+		- UN city in Vienna to attract political institutions during Cold War
+	- Today: neoliberalism, importance of world wide competition with investors, attracting tourists, etc.
 
 #### welfare and housing regimes
 In old planning interventions, planning was a technical task, done by civil engineers/experts removed from the city (eg. sewage, electricity, public transport systems, flood protection...)
@@ -490,18 +544,46 @@ Post WWII, the nationalisation of different sectors and the abolition of strict 
 
 Move towards post-socialist society, but there is an echo effect: old social housing (even the housing stock sold to private tenants), district heating, still exist. The built fabric still exists even if doesn't belong to/maintained by the state.
 
-This shows that history is relevant for understanding modernist urbanism and onwards. 
+This shows that history is relevant for understanding modernist urbanism and onwards.
 
-![[urban_planning_social_policy.png]]
+***WELFARE REGIMES***
+
+3 regimes organising their welfare systems different:
+1. **Liberal regime**, centered upon market supply
+2. **Social democratic regime**, centered upon state supply
+3. **Conservative regime**, centered upon extended family supply (particularly path-dependent)
+
+Welfare regimes geographically positioned in Europe:
+![[welfare_regimes_europe.png]]
+- These three points can be applied to health care, housing organisations...
+
+***HOUSING REGIMES***
+- 2 diverging thoughts: unitary and dualist systems
+- **Unitary**: there is overlap between social and private system of housing; social housing has enough influence to indirectly regulate private market price, because market cannot be attractive if price is too high
+- **Dualist**: free rental market, where private can ask as much as it wants; those who cannot afford (the very poor) there is a residual housing system with very low rents set by legislation, nothing to do with the market values; "either or"
 
 #### stages of urban development
+- Phases of urban development look different in cities across Europe: **urbanisation, suburbanisation, desuburbanisation, reurbanisation**
+- Function urban region has two elements:
+	- **Core**, the contiguous built-up area
+		- How is the core defined? City borders?
+		- But to be comparable, cities across world need to define "city limits" in the same way 
+		- Can do this by looking at built form and find the cut-off of continuous settlement, eg. no more than X meters between settlements
+	- **Ring**, the commuter belt
+		- Originally small, population declined (until [[suburbanisation]], used only by elite with summer-time villas outside city or by shop-keepers and servants commuting into core; 
+- Population development over time in urban cores and rings; rate of growth/decline:
+![[dynamics_urban_growth.png]]
 
 - **Suburbanisation**
 	- In Austria, suburbanisation started in the 1960s, with arrival of volkswage
 	- In central-European cities like Prague, Brno, started much later (2000s)
 
 
+..... ==ref slides on population changes.... can't stand it anymore at this point==
+
 #### socialist and post-socialist urbanism
+
+- How cities are developing is nfluenced by political systems around it
 
 (NOT AT CORE OF COURSE?)
 
