@@ -25,7 +25,7 @@ year: 2021
 --> observations, rapid interviews with waterfront users, and semi-structured interviews with "experts"
 
 #### findings
-- *"demonstrate a wide range of uses and perceptions as well as deep place attachments held by local users with regard to CIC [the case study], which give insight into understanding how the meanings associated with the waterfront have changed over time"* (p. 8)
+- *"demonstrate a wide range of uses and perceptions as well as deep place attachments held by local users with regard to CIC, which give insight into understanding how the meanings associated with the waterfront have changed over time"* (p. 8)
 - promoting language like "place-disruption" and "place-protection" can help marginalised communities articulate their feelings and relationship to a waterfront (referring to [[justice#hermeneutical justice|hermeneutical justice]])
 - It is assumed that places degraded by pollution or industry hold no values for the local communities
 

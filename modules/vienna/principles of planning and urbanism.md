@@ -20,44 +20,108 @@
 		- [[#baroque|baroque]]
 - [[#early capitalism: industrial city miseries, early reforms|early capitalism: industrial city miseries, early reforms]]
 		- [[#manchester|manchester]]
+		- [[#philanthropist reforms|philanthropist reforms]]
 		- [[#Glasgow|Glasgow]]
 		- [[#tenement housing|tenement housing]]
 - [[#urban engineering and fin de siècle urbanism|urban engineering and fin de siècle urbanism]]
 		- [[#urban planning types|urban planning types]]
 - [[#reformist urbanism (pre WWII)|reformist urbanism (pre WWII)]]
-		- [[#garden cities and settlers' movement|garden cities and settlers' movement]]
+		- [[#garden cities|garden cities]]
+		- [[#settlers' movement|settlers' movement]]
 		- [[#public and social housing|public and social housing]]
 		- [[#urban planning type 2: zoning|urban planning type 2: zoning]]
 		- [[#beginnings of regional planning|beginnings of regional planning]]
 - [[#modernist urbanism (post WWII)|modernist urbanism (post WWII)]]
-		- [[#new towns and garden cities|new towns and garden cities]]
-		- [[#social housing|social housing]]
-		- [[#zoning continued, improved, extended|zoning continued, improved, extended]]
-		- [[#regional planning is rare and difficult|regional planning is rare and difficult]]
+		- [[#concepts from reformist urbanism|concepts from reformist urbanism]]
+		- [[#new frameworks in post-1945 era|new frameworks in post-1945 era]]
 		- [[#welfare and housing regimes|welfare and housing regimes]]
 		- [[#stages of urban development|stages of urban development]]
 		- [[#socialist and post-socialist urbanism|socialist and post-socialist urbanism]]
-- [[#urban planning type III: urban development plans|urban planning type III: urban development plans]]
-- [[#urban planning type IV: urban management, collaborative planning|urban planning type IV: urban management, collaborative planning]]
-- [[#urban planning type V: the sustainable city|urban planning type V: the sustainable city]]
+- [[#urban development planning|urban development planning]]
+	- [[#urban development planning#the golden age of welfare|the golden age of welfare]]
+		- [[#the golden age of welfare#housing welfare|housing welfare]]
+		- [[#the golden age of welfare#urban development planning|urban development planning]]
+		- [[#the golden age of welfare#mass social housing|mass social housing]]
+		- [[#the golden age of welfare#state driven urban renewal|state driven urban renewal]]
+- [[#urban governance & collaborative planning|urban governance & collaborative planning]]
+		- [[#the golden age of welfare#collaborative|collaborative]]
+		- [[#the golden age of welfare#welfare restructuring/retrenchment|welfare restructuring/retrenchment]]
+		- [[#the golden age of welfare#negative Characteristics of planning culture|negative Characteristics of planning culture]]
+		- [[#the golden age of welfare#entrepreneurialism|entrepreneurialism]]
+		- [[#the golden age of welfare#Growth machines and pro-growth coalitions|Growth machines and pro-growth coalitions]]
+		- [[#the golden age of welfare#visionary plans|visionary plans]]
+		- [[#the golden age of welfare#festivalisation of urban planning|festivalisation of urban planning]]
+		- [[#the golden age of welfare#Summary of Urban Planning Type IV:|Summary of Urban Planning Type IV:]]
+- [[#planning the sustainable city|planning the sustainable city]]
 - [[#readings|readings]]
 	- [[#readings#Schorske, *The Ringstrasse, its critics and the birth of urban modernism*,  (1980)|Schorske, *The Ringstrasse, its critics and the birth of urban modernism*,  (1980)]]
 
 
+
 ## notes
+
+
+What is a city? Gordon Childe's 10 traits:
+1. population size, 
+2. division of labour, 
+3. agriculture surplus, 
+4. monumnental buildings, 
+5. existence of ruling class, 
+6. existence of writing and numbers, 
+7. predictive sciences, 
+8. existence of artisan class, 
+9. long distance trade, 
+10. 'organic solidarity' based on interdependency
 
 ## planning the ancient city
 
+#### mesopotamia
+
+One of the earliest urban settlements
+
 #### Greek Urban Planning
 
-...
+**Styles of planning in Ancient Greece**
+- old style until 480 BC: "growing together" of earlier settlements, creating irregular layout, but paying attention to views (eg. Olympia, Athens)
+- new style until 335 BC: "Hippodamian" style, grid-pattern layout with main streets North-South, strict zoning, plots completely built over, court houses
+
+**Athens**
+- Golden Age is short-lived and elusive, but is the first metropolis
+- Largest polis with 275,000 inhabitants (citizens, metics, slaces), on 1000sqmi
+- Cosmopolitan culture was crucial, a melting pot that arose in connection with trade and colonies
+- Precarious agricultural basis, depending on imports
+- Poor manufacturing, low esteem of craftsmen
+- Exceptional state patronage
+
+
+**Athen's culture**
+- Cumulative innovations, a pioneer in many ways
+- Democracy introduced
+- Individualism, but also collective and civic goals
+- Written history
+- Philosophy, rationalism, utilitarianism
+- Audiovisuals and drama
+- Naturalisatic art
+- "Modest" architecture (compared to pyramids), obsessed with correct proportions
+
+**Athens' urban structure**
+- Public buildigns, above all: akropolis with Parthenon, Propylaea, etc
+- Water pipelines, some sewers, few public baths
+- Trading space around agora
+- Homes were tiny and primitive, no gardens, but many had court yards
+- Socialist minimalist state
+- Primitive way of financing, no budget
+- Very public life
+- Had money for trading
+
+**The rise and fall of Ancient Greece** 
+A unique ethnic and cultural melting pot, but the Athenian Golden Age depended on exploitation. There were huge sums of *tribute payments*, it was an *aristocratic* society with abundant time for leisure, and *metics or resident 'aliens' are running the economy* (half inside, half outside mainstream society).
 
 #### Roman Urban Planning
-*March 15th 2022*
 
 Volterra, Tuscany: an Etruscan city in 7th century BC shows a grid system with large avenues.
 
-Rome's Golden Age lasted 200 years, from 50BCE to 150CE\alignedmarginpar(Before) Common Era. It was an unplanned city which gradually improved. The site of Rome was on hills in a flood-prone low-land, and flooding levels were engraved on building walls.
+Rome's Golden Age lasted 200 years, from 50BCE to 150CE (Before Common Era). It was an unplanned city which gradually improved. The site of Rome was on hills in a flood-prone low-land, and flooding levels were engraved on building walls.
 
 The first priority for such a large city as Rome, was to get rid of the sewage which is a health hasard. *Cloaca Maxima was introduced as the sewer of Rome.
 
@@ -93,12 +157,13 @@ What is the point of this knowledge nowadays? Tourism and events, but also urban
 ## planning the medieval city
 
 #### From the Roman Empire to the Middle Ages
-The Dark Ages lasted between 500-1000 AD, and was a period of time between the Roman Empire and the Middle Ages. During the Dark Ages, much of the former powers disappeared (the Roman Empire disintegrated, which cut off trade routes and information flows except for the oriental merchants\alignedmarginparOrient = non-Latin speaking), technologies were lost, cities shrank and disappeared (eg. Trier, Cologne, Avenches). 
-
-The "Ancient World" was fragmented into islands of small-scale, manorial feudalism, protected by fortifications and castles. $\rightarrow$ shrinkage, caused by ch
+The Dark Ages lasted between 500-1000 AD, and was a period of time between the Roman Empire and the Middle Ages. During the Dark Ages, much of the former powers disappeared (the Roman Empire disintegrated, which cut off trade routes and information flows except for the oriental merchants (Orient = non-Latin speaking), technologies were lost, cities shrank and disappeared (eg. Trier, Cologne, Avenches). 
 
 #### Early Middle Ages
-...
+
+The "Ancient World" was fragmented into islands of small-scale, manorial feudalism, protected by fortifications and castles (eg. Tower of London, Ljubljana castle) $\rightarrow$ shrinkage
+
+The manor was an economic, judicial, military unit
 
 #### High Middle Ages
 Cities in the High Middle Ages have 6 origins:
@@ -131,7 +196,7 @@ Almost all European cities date from the High Middle Ages, and European city tou
 
 \includegraphics[width=\textwidth]leading_cities_1500
 
-There is an upswing around 1200 AD (eg. Notre Dame 1163-1345). New Towns are founded and Ancient Towns are renewed. There is a strict separation of urban and rural functions\alignedmarginparref. Max Weber. There are two types of urban places:
+There is an upswing around 1200 AD (eg. Notre Dame 1163-1345). New Towns are founded and Ancient Towns are renewed. There is a strict separation of urban and rural functions (ref. Max Weber). There are two types of urban places:
 
 -  Natural settlements: local market based central places, and
 -  Systemic settlements: long distance trade based, with varying degree of freedom from Feudal powers
@@ -145,11 +210,11 @@ There are two basic types of architecture:
 -  Mediterranean: uninterrupted urban tradition
 -  North of the Alps: new foundations and many new settlers
 
-##### Mediterranean City
-
 Unlike the ancient city, housing combines work and home due to a scarcity of space in the Medieval City. The houses are narrow burgher house-shops, or even house-towers built from local materials (stone, timber, adobe, studwork).
 
 Conflicts between factions meant that structures like house-towers were built.
+
+##### Mediterranean City
 
 Remains of previous architecture can be traded as vernacular architecture (concerned with domestic and functional, and not public and monumental). Places like amphitheatres are recycled, along with their building materials.  
 
@@ -163,7 +228,7 @@ The city North of the Alps is a city of **guilds**. 
 
 There are no City-States bordering each other, but (temporarily) Free Cities surrounded by feudal countryside. There is a stark contrast between urban and rural society.
 
-There are two settlement systems, "central-place'' and "mercantile''. There's functional segregation based on guilds (unlike Mediterranean cities of `factions').
+There are two settlement systems, "central-place'' and "mercantile''. There's functional segregation based on guilds (unlike Mediterranean cities of factions).
 
 Merchants are clustering at "portus'' and then expanding.
 
@@ -189,6 +254,10 @@ Similar to Ancient cities, from "geomorphic'' unplanned cities (type 1), evolvin
 
 15th-16th century
 
+Renaissance marks the transition between middle ages to modernity in 15th-16th century. A period of demographic and economic recovery after Black Death pandemic. Royal powers consolidated and absolutist regimes emerge. Medieval localism is replaced by Baroque centralism, focusing on capital/residential cities of unifying states. Beginning of colonial empires.
+
+There are no Renaissance cities, only ideal designs, absolutist cities grow to sizes far beyond Medieval cities. Origins of office buildings and tenement housing. Military innovations involve engineers in fortified city planning; walled cities cannot expand horizontally, only in height and density
+
 #### ideal cities
 
 Architectural proposals for ideal cities, safe, that were never built. 
@@ -210,7 +279,7 @@ baroque, renaissance
 ## early capitalism: industrial city miseries, early reforms
 
 Previously, cities were not built for industries but for handicrafts (eg. vineyards in Vienna). 
-An era with little urban planning.
+Industrial is an era with little urban planning.
 
 #### manchester
 *Hall chapter 10*
@@ -252,7 +321,6 @@ An era with little urban planning.
 		8. Water supply
 		9. Funderal services
 		10. Specific taxes and levies
-		- $\rightarrow$ when was this introduced in a city of your choice??
 - Prison reforms
 - Poor Law Reforms
 - Public Health Act
@@ -260,6 +328,9 @@ An era with little urban planning.
 
 
 *$\Rightarrow$ Cities were not prepared for influx of people and industries $\rightarrow$ **no planning yet*** 
+
+#### philanthropist reforms
+Private investments into housing and social conditions, eg. Familistere or Bournville, 'utopias'
 
 #### Glasgow
 - A city on the European periphery, not even a sea-port
@@ -283,7 +354,7 @@ The beginning of serious urban planning, focusing on massive infrastructure to m
 #### urban planning types
 Phases of Planning Cultures
 1. Adaptation planning (anpassungsplanung)
-2. ??? (Auffangplanung)
+2. Catchment planning (Auffangplanung)
 3. Innovation planning (Entwicklungsplanung)
 4. Perspective planning (Perspektivplanung)
 5. New phase: sustainability planning
@@ -572,14 +643,14 @@ Welfare regimes geographically positioned in Europe:
 	- **Ring**, the commuter belt
 		- Originally small, population declined (until [[suburbanisation]], used only by elite with summer-time villas outside city or by shop-keepers and servants commuting into core; 
 - Population development over time in urban cores and rings; rate of growth/decline:
-![[dynamics_urban_growth.png]]
+![[urban_planning_dynamics_urban_growth.png]]
 
 - **Suburbanisation**
 	- In Austria, suburbanisation started in the 1960s, with arrival of volkswage
 	- In central-European cities like Prague, Brno, started much later (2000s)
 
 
-..... ==ref slides on population changes.... can't stand it anymore at this point==
+..... ==ref slides on population changes.... can't stand it anymore at this point== 
 
 #### socialist and post-socialist urbanism
 
@@ -614,7 +685,10 @@ Key elements of [[post-socialism|post-socialist]] city (Sonia Hirt, 2013):
 
 ##  urban development planning
 $\rightarrow$ urban planning type III
-*the local welfare state*
+
+A period after the reconstruction post-WWII, in the 1960s-1980s. The comprehensive plannings come to an end and are superseeded by these urban plans.
+
+The urban development plans are focused on planning per se, but this instrument is embedded in a broader, fully-developed national welfare state (not the embrionic welfare city of the 1920s, but on the state level). They are later resized in scope
 
 Try to coordinate multitude of investments, look at the whole city, and don't refrain from steering the market. They are setting up private loan companies, from the city, who are making money/doing business.
 
@@ -625,10 +699,21 @@ Planning for:
 - influencing markets
 
 Using [[urban development]] plans as a tool. 
+Emerge in the 1960s-70s, the plans have many ambitions, a 'super zoning' tool to try to steer everything in the city that can relate to urban interests.
 
-#### the golden age of welfare
+Planning in a systematic way comes from **project management**, a tool to plan everything from individual building to urban development planning --> transported into the whole city
+
+### the golden age of welfare
+
+Sweden is poor in the 1970s, late industrialisation and urbanisation, 1.25 million emigrants to the US. 
+Pensions introduced early on, before WWI - so, it has some **Bismarckian** rules, ie. early welfare state systems, introduced 100 years before the comprehensive welfare state of post WWII era.
+First nation state where Social Democracy entered government
+Financed by high taxes, developed a high-quality welfare system (kindergardens, housing, health care, etc.)
+
+#### housing welfare
 
 **Sweden housing welfare**
+- Important social element of post-war Sweden
 - Pre-WWII: poor housing quality, 
 - 1930s: state housing loans
 - 1946: housing policy package, considered a pillar of the welfare state
@@ -638,19 +723,36 @@ Using [[urban development]] plans as a tool.
 - Public land banking meant the land cost was very low
 - 1942-1969: rent control, locally negotiated afterwards
 
+Housing is a pillar of social state, but not only a social policy: also a regional policy (steer in what direction developments take place), an energy policy, an economic policy (housing determines where jobs)
+
+**Housing subsidies**
+- Direct housing subsidies: reduced rents and housing costs, direct investments from government into housing stock; aide a la pierre, ie. subsidising cost of building dwellings
+- Some countries have indirect housing subsidies, for example giving **tax cuts/rebates**  (eg. Germany, Sweden, has done this)
+
+**Market-state mixes in housing provision**
+- Liberal cluster (UK, Ireland, Switzerland): builders deriving profits from land speculation
+
+![[imgs/housing_welfare_state_market_mixes.png]]
+
 **Sweden development plans**
-- 1928: general plan, suggesting an underground
-- 1945: master plan
+- Stockholm's development plans were ambitious for the time, embedded in the 1920s reforms;
+- 1928: general plan, from reformist government, suggesting an underground plan
+- 1945: war time boosted comprehensive planning, and new master plan for Stockholm was decided
 - 1952: general plan, proposes new susurban districts for 10-15k inhabitants each, along subway stops
 - 1950s: opening of subways, earlier than most European expansions
 - 1960s: huge vacant areas in the city centre; becoming renowned amongst modernist planners
 	- Pedestrian/cycling bridges over car roads
 	- Escalators in open air
 - Redevelopment of city centre (from run down "slum" )
+- Satellite towns: increasing opposition because of overproduction of standardised prefab dwellings, increasing vacancies, and immigrants move in 
+
+
+==> In golden years of welfare, state takes the task of urban renewals, not private investors; this is the case in many cities, beginnings of urban renewal is state led, and only later investors take over and develop luxurious infrastructure in the city centre.
 
 #### urban development planning
 
 - The tool for the time of the "golden age" of the welfare state
+- ==coordination==
 - **Urban development plan**: a massive, all embracing documents to guide development
 	- 1984: Vienna's first urban development plan
 - Idea isn't that other tools aren't in use anymore, but that there is a *new* tool (think of tools as staircase, accumulating, rather than replacement)
@@ -659,11 +761,113 @@ Using [[urban development]] plans as a tool.
 - Need to **collaborate** with external organisations who are infringing on urban planning like never before 
 	- eg. Droitwich, Worcestershire: government departments, county and borough departments, appointed agencies, private enterprises, community interests
 - Technocrats in expanded definition of the term
-	- 
+- Goal is to maximise choice in welfare supply: public *and*  private transport, subway *and* highway
+- Reintroducing more mixed zoning
+....
 
-## urban governance, collaborative planning
+City developments
+- high rise buildings appear in 70s, strong integration with urban development plannings because require agreement of cities. Preconditions to high-rises are superb public-transport location
+
+
+#### mass social housing
+
+
+#### state driven urban renewal
+- state created historic preservation zones (nothing can be done without approval of "heritage patrol"), lowered densities in certain districts, introduced parking management
+
+## urban governance & collaborative planning
 $\rightarrow$ urban planning type IV
 *the neoliberal city and its limits*
+
+Period from 1990s to today
+
+Many names for this period of planning, urban governance and collaborative planning but also:
+- **Commodified cities in competition**
+- The market economy plays an increased role in planning, compared to during the welfare states of the past; state not longer plays the Leviathan role it used to, its role is more modest, but nonetheless still there. The pandemic has led to a resurgence of the state
+
+Main themes:
+- **Restructuring** and resistence
+- **Commodification** of urban development since the 1980s
+- **EU** integration and enlargement
+- European cities in **competition**
+- Urban **entrepreneurialism**: rban entrepreneurs making use of dense networks of cities for tourism and attraction of new classes
+- Mega-events: tradition from world exhibition rebranded into eg. cultural capitals, sports events kicking off projects
+- Project planning: working with investors for the development of complex projects (eg. Seestadt Aspern), on a much bigger scale and complexity than in previous chapter (Urban Development Plans)
+- The challenge of social cohesion and sustainability
+- Urban imagineering and **branding**: what ideas of cities are transported, enhanced or reduced, with the help of media and social media
+
+**6 stages of planning** in Vienna (Suitner)
+![[urban_planning_stages_vienna.png]]
+
+**Projects**
+- based on strategic projects, selective deregulation through urban development corporations and PPP contracts
+- Planning is locally focused on one area, and thus pays less attention to the rest of the urban area.
+
+**ASID**
+- Agency, Structure, Institutions, Discourse;
+
+#### collaborative
+- Increasing collaboration between markets, states and individuals --> many **perspectives**. The number of relevant actors are increasing, as well as interactions and complexity.
+- Where is the welfare triangle??
+
+![[urban_planning_collaboration_actors.png]]
+
+
+**Many names** for collaborative planning: communicative, negotiation, strategic, project planning...
+
+#### welfare restructuring/retrenchment
+
+The golden age of welfare is over, states become more greedy and distributes benefits only after proof of need, and these requirements are more and more restrictive.
+
+#### negative Characteristics of planning culture
+- More secrecy and **less democracy**, elete-drive priorities
+- Growth coalitions, growth machines, 
+- Shift from **social to economic** policy
+- Selective **deregulation** (eg. urban development corporations, PPP contract planning)
+- Flagship projects (eg. Donau-City, Seestadt, IBA in Vienna)
+- National and/or EU co-funding or large urban projects
+-  Sustainability as a buzzword, but present in every planning document, ("circular city")
+- "Smart city" 
+
+#### entrepreneurialism
+- Harvey 1989
+- an emerging type of urban governance, in which comprehensive urban development planning is taken over by planned urban "fragments"
+- Inter-urban competition reduces relative autonomy of local states, fosters growth coalitions/machines and PPPs, and competition regulations make it necessary to enter in EU/global market
+- Urban entrepreneurs are making use of dense networks of cities for tourism and attraction of new classes, and urban spectacles are important
+
+#### Growth machines and pro-growth coalitions
+- Broad consensus on growth in US
+- Boosterism in 19th century: railways (1950s), highways driven by 'town boosters', often bankers and real estate agents
+- Today: more subtle and complex strategies, less by individuals than institutions
+- income of local authorities is dependent on local population, because real estate can be taxed. Thus, it is in city governments' interest to attract businesses and wealthy inhabitants, which feed local government funds - this is referred to as growth machines, local boosterism.
+- Importance of press and information offices
+
+
+- Cultural events instrumentalised (eg. St Patricks Day, xmas markets, NYE concerts), urban **marketing and branding**
+- Urban media carry symbolic policy (eg. crime rates, quality of life, financially important decisions receiving less attention)
+- Growth coalitions include not only local business but also politicians, local media, urban services, universities, cultural institutions
+- **Visionary "plans"** instead of urban development plans
+
+#### visionary plans
+- Include phrases like: vision, strategic pprojects, PPP, knowledge clusters, synergies, social balance, equality of life changes, balance cooperation/competition, sustainability, best practice of urban technology, clusters of bio/medical technology
+- In Vienna: 'zielgebiete' as imprecise project areas where investments should go into
+
+
+#### festivalisation of urban planning
+- A way to show-off plans and projects (eg. Donau-Insel, Seestadt...)
+- eg. Seestadt opening in June 2010, with no connecting metro and no buildings; an event to create enthusiasm in the project
+
+
+#### Summary of Urban Planning Type IV:
+- Urban governance, Collaborative planning
+- Welfare restructuring/retrenchment
+- Neoliberalisation, Commodification, Financialisation
+- Entrepreneurialism
+- Starchitects, project planning
+- Mega-events
+- Festivalisation
+- Urban branding and urban imagineering
+- Sustainability
 
 
 ## planning the sustainable city

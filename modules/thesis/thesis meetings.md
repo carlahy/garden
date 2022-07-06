@@ -16,8 +16,7 @@
 ### may 11th - josh
 
 General questions:
-- I'm mostly interested in the opinions of the people who are not in the space i'm studying; concerned about having to infer who they are and why they're not present, without actually speaking to them.
-- I don't feel fluent/eloquent with the concepts I'm using; feeling like an imposter, pretending i know the frameworks...
+- I'm mostly interested in the opinions of the people who are not in the space i'm studying; concerned about having to infer who they are and why they're not present, without actually speaking to them
 - Research "nature" explanatory- explaining why a phenomenon occurs; but what if we don't know whether said phenomenon occurs, when we need to figure out if it occurs before we answer why or why not? --> eg. "why are blue spaces unfairly accessible in Copenhagen" assumes that there is unfair access; is "what is the accessibility of blue spaces in Copenhagen, and why are they or why are they not fairly accessible?"
 - Can we put our case study within the RQ, or should the case city be abstracted away from the RQ ?
 - Why does it matter that I study perceptions/experiences/values/identities, rather than eg. distributional justice?
