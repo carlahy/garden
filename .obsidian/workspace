@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readings/@noel2021social.md",
+            "file": "concepts/methods/PPGIS.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "afford",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readings/@noel2021social.md",
+                "file": "concepts/methods/PPGIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "8570aa0530ea29b3",
   "lastOpenFiles": [
+    "concepts/methods/PPGIS.md",
+    "readings/@van2021urban.md",
+    "readings/@wang2015physical.md",
     "readings/@noel2021social.md",
-    "integrality of use.md",
-    "public green space.md",
-    "helloworld.md",
-    "qualitative.md",
-    "social barriers.md",
+    "readings/@toomey2021place.md",
     "readings/@phillips2021use.md",
-    "Untitled.md",
-    "modules/thesis/thesis meetings.md",
-    "concepts/general/distributional justice.md"
+    "readings/@kohsaka2021urban.md",
+    "readings/@kimic2021assessment.md",
+    "readings/@ghofrani2017comprehensive.md",
+    "readings/@o2020sustainable.md"
   ]
 }

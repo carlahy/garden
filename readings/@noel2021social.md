@@ -8,7 +8,7 @@ PGS = [[public green space]]
 
 ### notes
 - Barriers or constraints previously identified in research:
-	*- Intrapersonal, interpersonal, and structural barriers*
+	- Intrapersonal, interpersonal, and structural barriers*
 		- Intrapersonal: psychological state, like lack of interest or meaningfulness in PGS visits, language barriers making it difficult to communicate with others, personal safety concerns, physical/health contraints, preferences for other activities
 		- Interpersonal: relationships between individuals, no one to go with , not knowing other users, dificulty in mixing with others, too many male visitors
 		- Structural: lack of accessible PGS, not having enough money, poor park management quality, having other options, lack of information, overcrowding, not wanting to disrupt daily routines, weater #observations
