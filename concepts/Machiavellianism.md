@@ -1,0 +1,1 @@
+*"Machiavellianismis characterized by manipulating and deceiving others to further one’s own interests, indifference to morality, and obsession with achieving power or wealth."* [EA](https://forum.effectivealtruism.org/posts/LpkXtFXdsRd4rG8Kb/reducing-long-term-risks-from-malevolent-actors)

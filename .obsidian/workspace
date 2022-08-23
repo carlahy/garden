@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "concepts/methods/PPGIS.md",
+            "file": "thesis-interviews/0816SAND3.md",
             "mode": "source",
             "source": false
           }
@@ -40,21 +40,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "afford",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 194.50192260742188
+    "width": 194.50192260742188,
+    "collapsed": true
   },
   "right": {
     "id": "3815cde1029a3eab",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/methods/PPGIS.md",
+                "file": "thesis-interviews/0816SAND3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "8570aa0530ea29b3",
   "lastOpenFiles": [
-    "concepts/methods/PPGIS.md",
-    "readings/@van2021urban.md",
-    "readings/@wang2015physical.md",
-    "readings/@noel2021social.md",
-    "readings/@toomey2021place.md",
-    "readings/@phillips2021use.md",
-    "readings/@kohsaka2021urban.md",
-    "readings/@kimic2021assessment.md",
-    "readings/@ghofrani2017comprehensive.md",
-    "readings/@o2020sustainable.md"
+    "Untitled 1.md",
+    "thesis-interviews/0816SAND3.md",
+    "thesis-interviews/0816SAND2.md",
+    "thesis-interviews/0816SAND1.md",
+    "modules/todos.md",
+    "thesis-interviews/0814AMAG5.md",
+    "thesis-interviews/0814AMAG4.md",
+    "thesis-interviews/0814AMAG3.md",
+    "thesis-interviews/0814AMAG2.md",
+    "thesis-interviews/0818SLUS1.md"
   ]
 }

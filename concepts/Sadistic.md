@@ -1,0 +1,1 @@
+*"Sadism involves deriving pleasure from inflicting suffering and pain on others."* [EA](https://forum.effectivealtruism.org/posts/LpkXtFXdsRd4rG8Kb/reducing-long-term-risks-from-malevolent-actors)

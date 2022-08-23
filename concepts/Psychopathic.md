@@ -1,0 +1,1 @@
+*"Psychopathy is characterized by boldness, callousness, impulsiveness, a lack of empathy and guilt, and antisocial behavior, including violence and crime."* [EA](https://forum.effectivealtruism.org/posts/LpkXtFXdsRd4rG8Kb/reducing-long-term-risks-from-malevolent-actors)

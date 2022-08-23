@@ -1,0 +1,1 @@
+*"Narcissism involves an inflated sense of one’s importance and abilities, an excessive need for admiration, a lack of empathy, and obsession with achieving fame or power."* [EA](https://forum.effectivealtruism.org/posts/LpkXtFXdsRd4rG8Kb/reducing-long-term-risks-from-malevolent-actors)
