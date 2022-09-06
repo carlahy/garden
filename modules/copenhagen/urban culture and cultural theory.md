@@ -6,6 +6,11 @@
 
 The course establishes the basic principles of a humanistic ([[humanities]]) approach to the city, and uses [[cultural theory]] from the 1850s to today in order to understand the city as an **[[urbanity]]**
 
+I. ???
+II. Urban culture
+III. Cultural theory
+
+
 
 ### (intro) function and signification in modern urban culture
 
@@ -18,11 +23,24 @@ What is [[culture]]?
 - Widespread word, also in urban planning: **cultural planning** organise their development around art museums, artists, experiences, in order to [[city branding|brand]] the city
 - Culture is between art and the everyday (which are not complete opposites)
 
-Aspects of culture
+Aspects of culture: culture as **cultivation, as habit, and as reflexivity**. Culture is all of these concepts at the same time.
+
 1.  **[[cultivation]]** of the soul; from 'soil' to 'soul'
 2. **habits**: an important in the welfare state in Denmark, culture is defined by a social democratic politician as "*culture is habit taken in the most basic sense of the word*"; culture should be for **everybody**, not the few but the many; it isn't something that has nothing to do with the way people live, where you go to a specific place (eg. theatre) to find it; rather, culture is what happens in the mundane everyday life; an **inclusive** point of view
-3. i
-4. 
+	1. **historical self reflection**: why are habits as they are? they are related to the way we think, socially determined patterns, that could be questioned (eg. why do we sit and the lecturer stands? why do we close the door? these are habits, that can change very easily when reflected upon; eg. during corona, no one was in classroom)
+3. **reflexivity**: an artist represents reality with their own interpretations
+	1. **Artists** painting in the street: eg. a woman painting in a public square, painting depicts child playing in street, with the Eiffel tower appearing in the back; public urban life is represented
+
+#### roland barthes
+
+*La Tour Eiffel, 1964* 
+- The Tower is "a naturalised component in the Parisian cityscape". It has become a way for people to orient themselves.
+- It is a particular kind of monumental architecture, an example of modern construction, "built with air", typical of modern times
+- Illustrates that architecture serves both as **use and function** , and as **fantasy and imagination**. Eiffel had to defend the tower as 'useful', because modern times were useful, functional times. 
+- The Tower is an **abstract form** with attracts a lot of **meaning**. Barthes analyses the Tower as a triangle: 
+	- at a **glance**: 'regard', gaze; as if you were climbing the Tower
+	- as an **object**: a major example of modern architecture; the function becomes a spectacle (eg. structure built by an engineer, the elevators operate on an oblique line and not directly vertical)
+	- as a **symbol**: 
 
 
 ### l2
