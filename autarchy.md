@@ -1,0 +1,1 @@
+An ideology or practice in which power is concentrated into the hands of a single person; autocracy; sovereign rule
