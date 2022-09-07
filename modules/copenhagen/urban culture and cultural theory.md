@@ -40,7 +40,31 @@ Aspects of culture: culture as **cultivation, as habit, and as reflexivity**. Cu
 - The Tower is an **abstract form** with attracts a lot of **meaning**. Barthes analyses the Tower as a triangle: 
 	- at a **glance**: 'regard', gaze; as if you were climbing the Tower
 	- as an **object**: a major example of modern architecture; the function becomes a spectacle (eg. structure built by an engineer, the elevators operate on an oblique line and not directly vertical)
-	- as a **symbol**: 
+	- as a **symbol**
+- This shows the potentials of *signification*
+- Space is more than function, it serves as **signification** 
+
+#### humanistic urban studies: the urban dimension
+
+In cities, you live in the midst of what may become your object of study. You are not at a distance from what you are studying, rather, you are embedded in it inevitably (subjectivity?).
+So how can you study something you are surrounded by? You cannot have a city as a totality in front of you, because you are inside, so you have to focus on a fragment of it.
+There is always an element of interpretation.
+
+Relevant strategies for delimiting an object of study: reconstruction of fragments
+
+Interpretation: a critical strategy in urban culture and societies
+
+### intro seminar
+
+SIGN = SIGNIFIANT / SIGNIFIÉ (signifier/signified)
+
+**Signifier**: what designates the idea of something (eg. 'apple', 'Eiffel Tower', a 'Ford T')
+**Signified**: that which the signifier signifies, a meaning, an idea; this can change overtime, metamophasises. It has a *historical* dimension (eg. what an apple means, what the Eiffel Tower represents, what a Ford T entails...)
+
+eg. 'Ford T' designates a car, but used to have a different signification than it does today. It used to *mean* modernity, but now is old fashioned. The *signifier* stayed the same, but the *signified* changed.
+
+
+
 
 
 ### l2
@@ -52,6 +76,15 @@ Aspects of culture: culture as **cultivation, as habit, and as reflexivity**. Cu
 ### l5
 
 
+## presentations
+
+WEEK 2
+
+c) Human scale vs. dimensions of architecture and public spaces (Chapter X)
+
+WEEK 3
+
+i) Analysis of urban culture at the Islands Brygge Havnebad (Harbout Bath)
 
 
 ## readings
