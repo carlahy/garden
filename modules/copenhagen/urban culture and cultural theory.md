@@ -63,7 +63,7 @@ SIGN = SIGNIFIANT / SIGNIFIÉ (signifier/signified)
 
 eg. 'Ford T' designates a car, but used to have a different signification than it does today. It used to *mean* modernity, but now is old fashioned. The *signifier* stayed the same, but the *signified* changed.
 
-
+A city is always moving, changing, evolving, even if it might look the same, because the built form does not change as fast as society may.
 
 
 

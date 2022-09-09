@@ -385,7 +385,7 @@ te
 **Technical infrastructures (and some beautification)**
 - Height zoning
 - Outer suburbs incorporated
-- Trees planted along boulevards
+- Trees. planted along boulevards
 - Electricity in the homes
 - Gas lights in the streets
 - Bridges for metropolitan rail road
@@ -398,8 +398,8 @@ te
 - Buildings built in different styles (neo-gothic, neo-baroque, neo-renaissance (eg. University in neo-renaissance represents the rise of learning/knowledge))
 
 **Transporting ideas, technologies, patents**
-- Theophil Hansen inspired by Athens to recycle ancient architectural styles in Vienna (ref. starchitects)
-- World exhibitions as mega-events and drivers of innovations
+- Theophil Hansen inspired by Athens to recycle ancient architectural styles in Vienna (ref. starchitects) 
+- [[World exhibitions]] as mega-events and drivers of innovations
 	- London 1851, 1862 - Paris 1855, 1867 - Vienna 1873
 	- Countries exhibiting innovations, eg. corrugated iron that can be wrapped around material and be used to make secure shutters to shut shops at night
 
@@ -791,7 +791,7 @@ Main themes:
 - **EU** integration and enlargement
 - European cities in **competition**
 - Urban **entrepreneurialism**: rban entrepreneurs making use of dense networks of cities for tourism and attraction of new classes
-- Mega-events: tradition from world exhibition rebranded into eg. cultural capitals, sports events kicking off projects
+- Mega-events: tradition from [[world exhibition]] rebranded into eg. cultural capitals, sports events kicking off projects
 - Project planning: working with investors for the development of complex projects (eg. Seestadt Aspern), on a much bigger scale and complexity than in previous chapter (Urban Development Plans)
 - The challenge of social cohesion and sustainability
 - Urban imagineering and **branding**: what ideas of cities are transported, enhanced or reduced, with the help of media and social media
