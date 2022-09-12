@@ -70,4 +70,11 @@ Aesthetics is about **scale reduction** (?)
 - **Invisibility** is a "crucial feature of modern inequality" (p. 158), where those in the suburbs/banlieues and out of sight of the wealthy inner-city residents, they are looking in 
 	- Characterising people are visible/invisible, goes back to the divide of the **public and private**, which is eroded by technology entering the home and advertising the rest of the world that is up for consumption
 	- And interesting that "public life" takes places in privately owned property and buildings (eg. malls), and publicly-owned does not mean there is public access (eg. municipal housing)
-- 
+
+#### møller, *the Parks of copenhagen 1850-1900*, 2010
+- Because parks do not generate any income, in cities where land prices are so high, why did city planners build parks at all?
+- The parks were built in the 1800s, after fires and wars destroyed the city and the medieval walls were no longer relevant. A movement considered dirty air as transmitting diseases (the theory of *miasma*) and thus clean-smelling, fresh air was regarded as healthy. Plus, cholera epidemics and the Public Health Act (1848) encouraged clean, open air spaces for recreation and exercise
+- Research into air quality revealed that decomposing organic matter, high levels of CO2, methane, nitrogen, were high in neighbourhoods with high mortality ratesi
+- Regimes
+	- Until 1848: absolutist regime
+	- 1848: constitutional monarchy
