@@ -97,7 +97,43 @@ Triangular composition: tourist / school children / observer-architect
 Eg. children playing with a ball against a wall, understanding the composition of the wall through the ball which acts as an extension of your body.
 
 
-#### II.
+#### II. rasmussen and theory: three spatial principles
+
+Three spatial principles
+- **Solids**: "legemer" (body)
+- **Voids**: negative forms in the sense that it is empty, but also positive forms that reinforce the architecture. Give a kind of bodily feeling
+	- vase or faces?
+- **Colour planes**: a depth added to the perspectives of solids and voids; it came into consciousness during time of Rasmussen
+
+eg. the ==Pantheon==, Rome:
+- A solid from the outside, a cylindrical volume
+- From the inside, the monument is a void "in the most liberal way" insofar as the roof has an opening where the sun and rain come down. A 'pantheist' monument in connection with nature
+- Voids are actually present on the outside too - indents and niches in the walls 
+- Floor is covered in coloured and patterned planes
+
+eg. ==St. Marc's square== and Basilica, Venice:
+- Array of coloured tiles and mosaics on the floors, and stones on the walls
+
+eg. Le Corbusier villa in Paris:
+- White and geometric from the outside, expects to be the same inside
+- However, inside has an array of colours and rooms with no white (rose floors, light yellow walls, dark brown or blue accent wall...)
+- Furniture rooted to the floor (immoveable?)
+- Ramp replacing stair cases
+
+From proportion via *scale* to *rhythms*
+- Rhythm in space, in human movements
+
+Architecture and human life:
+- Architecture can only be understood through the experience of human life. Architecture needs to understand the life style of the people who will use the space (from university to homes), and be determined by who will use the space and how
+- *Construction playgrounds*: playgrounds in Denmark with tools and materials for kids to explore with
+
+Architecture as a framework around human living
+- It isn't necessary to abandon rectangular forms, we need not get rid of them to support human life; it's easy to move through rectangular rooms and regular forms. 
+- *Even if life is chaotic and unpredictable, space doesn't need to be*
+
+
+
+
 
 
 ####  III.
