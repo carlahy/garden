@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "modules/copenhagen/urbanism & architecture.md",
+            "file": "modules/copenhagen/urban culture and cultural theory.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modules/copenhagen/urbanism & architecture.md",
+                "file": "modules/copenhagen/urban culture and cultural theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "8570aa0530ea29b3",
   "lastOpenFiles": [
+    "habits.md",
     "modules/copenhagen/urban culture and cultural theory.md",
+    "Steen Eiler Rasmussen.md",
+    "modules/copenhagen/urbanism & architecture.md",
     "Le Corbusier.md",
     "golden ratio.md",
     "cultural theory.md",
-    "modules/copenhagen/urbanism & architecture.md",
     "diversity.md",
     "uniformity.md",
-    "garden cities.md",
-    "postmodernism.md",
-    "modules/speakers/Urban Futures Studio.md"
+    "garden cities.md"
   ]
 }

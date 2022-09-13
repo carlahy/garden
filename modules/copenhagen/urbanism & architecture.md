@@ -73,8 +73,18 @@ Aesthetics is about **scale reduction** (?)
 
 #### møller, *the Parks of copenhagen 1850-1900*, 2010
 - Because parks do not generate any income, in cities where land prices are so high, why did city planners build parks at all?
-- The parks were built in the 1800s, after fires and wars destroyed the city and the medieval walls were no longer relevant. A movement considered dirty air as transmitting diseases (the theory of *miasma*) and thus clean-smelling, fresh air was regarded as healthy. Plus, cholera epidemics and the Public Health Act (1848) encouraged clean, open air spaces for recreation and exercise
-- Research into air quality revealed that decomposing organic matter, high levels of CO2, methane, nitrogen, were high in neighbourhoods with high mortality ratesi
+- The parks were built in the 1800s, after fires and wars destroyed the city and the medieval walls were no longer relevant. A movement considered dirty air as transmitting diseases (the theory of *miasma*) and thus clean-smelling, fresh air was regarded as healthy. Plus, cholera epidemics and the Public Health Act (1848) encouraged clean, open air spaces for recreation and exercise; plus, overcrowding was starting to become a problem - the population grew fast between 1850-1880, from 150k to 235k
+- Research into air quality revealed that decomposing organic matter, high levels of CO2, methane, nitrogen, were high in neighbourhoods with high mortality rates
+- To remedy the density and deaths from poor hygiene and air conditions, multiple ideas were brought forward by politicians, planners, thinkers:
+	- gardens as wide open spaces
+	- boulevards as large corridors for ventilation, with seaside parks
+	- a combination of squares, parks, streets, to resemble a "full pulmonary organs of a living creature" (p. 115)
+- *Demarcation line* --> where is this?? they mention it as like a line where the city... starts? stops? where the city walls were? the old defense wall? 
+- Ferdinand Meldahl proposed the plan to transform the old defence walls into a park
+- The Sanitary Movement lasted until 1870s; when bacteriology was becoming more accepted, the argument that parks were necessary for public health didn't stand, moreover cholera was shown to spread through contaminated sewers (water) and not through bad ventilation (air) (although this doesn't mean that bad ventilation is not harmful). Miamism was eventually ruled out after the end of the last cholera epidemic in the 1880s
+- in the 1900s, public parks were still perceived as essential to public health but for other reasons than clean air - for physical exercise and sports
+
+
 - Regimes
 	- Until 1848: absolutist regime
 	- 1848: constitutional monarchy

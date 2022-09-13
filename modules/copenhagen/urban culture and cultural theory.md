@@ -1,15 +1,30 @@
 - [[#notes|notes]]
+	- [[#notes#(intro) function and signification in modern urban culture|(intro) function and signification in modern urban culture]]
+		- [[#(intro) function and signification in modern urban culture#definitions and dimensions of the concept of culture|definitions and dimensions of the concept of culture]]
+		- [[#(intro) function and signification in modern urban culture#roland barthes|roland barthes]]
+		- [[#(intro) function and signification in modern urban culture#humanistic urban studies: the urban dimension|humanistic urban studies: the urban dimension]]
+	- [[#notes#(part 1) perception and lifeworld in copenhagen|(part 1) perception and lifeworld in copenhagen]]
+		- [[#(part 1) perception and lifeworld in copenhagen#the copenhagen school|the copenhagen school]]
+- [[#seminars|seminars]]
+	- [[#seminars#intro seminar|intro seminar]]
+	- [[#seminars#l2|l2]]
+	- [[#seminars#l3|l3]]
+	- [[#seminars#l4|l4]]
+	- [[#seminars#l5|l5]]
+- [[#presentations|presentations]]
 - [[#readings|readings]]
-
+		- [[#l5#*Semiology of the Urban*, Roland Barthes|*Semiology of the Urban*, Roland Barthes]]
+		- [[#l5#*Experiencing architecture*, steen eiler rasmussen, 1962|*Experiencing architecture*, steen eiler rasmussen, 1962]]
 
 ## notes
 
 The course establishes the basic principles of a humanistic ([[humanities]]) approach to the city, and uses [[cultural theory]] from the 1850s to today in order to understand the city as an **[[urbanity]]**
 
-I. ???
+Setup of the lectures:
+
+I. Topic
 II. Urban culture
 III. Cultural theory
-
 
 
 ### (intro) function and signification in modern urban culture
@@ -54,6 +69,41 @@ Relevant strategies for delimiting an object of study: reconstruction of fragmen
 
 Interpretation: a critical strategy in urban culture and societies
 
+### (part 1) perception and lifeworld in copenhagen
+
+*Architectural Perception and Experience in Steen Eiler Rasmussen*
+
+The argument: in order to understand, design, improve cities, you have to think about human factors. Things should *work* for people (function), but space must also have a signification (*meaning*). Roland Barthes = architecture is FUNCTION and FANTASY.
+
+#### I. the copenhagen school
+
+Culture is habits taken in the most simple sense of the word. It is not super defined things, nothing flashy. Architecture is an ingredient of our everyday life
+
+[[Steen Eiler Rasmussen]]: the most representative and pedagological of Danish architects. 
+
+Mobilising the amateurs of the lifeworld to the benefit of quality in architecture.
+- Critique of modern homes, people being "doomed to live in and gaze upon (houses which) are on the whole without quality"
+- Architects should not think of their own ambitions only, but think about the [[habits]] that are widespread amongst the general population
+
+But how is reality? 2 poles:
+- **Optical approach**: materialised in tourists constantly taking photos, of what is strange/new/different to you, in order to keep a trace. Consciously looking at built environmnet
+- **Tactical approach**: not a focus on the monument itself, but of the everyday practices there, 'habits'; an observation of how people can take monumental architecture and use it in their everyday, and in exchange learn about urban space/built environment around them; *playing* and learning *unconsciously*, feeling the elements without realising
+	- eg. observing children playing at the Santa Maria Maggiore church, the photo is of the kids, the steps on the back of the church, and how the space is used in everyday life; not a photo of the monument itself (Rasmussen, p. 16)
+	- Experience of the architect/observer: the architect observing and writing an inaccessible experience. "As I sat in the shade watching them, I sensed the whole three-dimensional composition as never before" (p. 17)
+
+Triangular composition: tourist / school children / observer-architect
+
+**Mimetic learning** by repeating what you learn, you transform it and translate it into knowledge that pushes yourself (mind and body) to a new, elevated stage. 
+Eg. children playing with a ball against a wall, understanding the composition of the wall through the ball which acts as an extension of your body.
+
+
+#### II.
+
+
+####  III.
+
+## seminars
+
 ### intro seminar
 
 SIGN = SIGNIFIANT / SIGNIFIÉ (signifier/signified)
@@ -67,7 +117,7 @@ A city is always moving, changing, evolving, even if it might look the same, bec
 
 
 
-### l2
+### Experiencing Architecture, Steen Eiler Rasmussen
 
 ### l3
 
