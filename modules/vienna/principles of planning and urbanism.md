@@ -256,7 +256,7 @@ Similar to Ancient cities, from "geomorphic'' unplanned cities (type 1), evolvin
 
 Renaissance marks the transition between middle ages to modernity in 15th-16th century. A period of demographic and economic recovery after Black Death pandemic. Royal powers consolidated and absolutist regimes emerge. Medieval localism is replaced by Baroque centralism, focusing on capital/residential cities of unifying states. Beginning of colonial empires.
 
-There are no Renaissance cities, only ideal designs, absolutist cities grow to sizes far beyond Medieval cities. Origins of office buildings and tenement housing. Military innovations involve engineers in fortified city planning; walled cities cannot expand horizontally, only in height and density
+There are no Renaissance cities, only ideal designs, absolutist cities grow to sizes far beyond Medieval cities. Origins of office buildings and tenement housing. Military innovations involve engineers in [[fortified city]] planning; walled cities cannot expand horizontally, only in height and density
 
 #### ideal cities
 
@@ -379,7 +379,7 @@ te
 
 
 **Defortification**
-- defortification was delayed in Vienna, which means it could be done in a well thought-out way
+- [[fortified city|defortification]] was delayed in Vienna, which means it could be done in a well thought-out way
 - Vienna organised an urban planning competition, and a committee voted on the best solution by combining suggestions
 
 **Technical infrastructures (and some beautification)**
@@ -394,20 +394,20 @@ te
 - New sewers
 
 **Tenement housing**
-- Luxury tenement housing ("plalace") opened on Ringstrasse opposite the opera #ringstrasse
+- Luxury tenement housing ("plalace") opened on [[Ringstrasse]] opposite the opera
 - Buildings built in different styles (neo-gothic, neo-baroque, neo-renaissance (eg. University in neo-renaissance represents the rise of learning/knowledge))
 
 **Transporting ideas, technologies, patents**
 - Theophil Hansen inspired by Athens to recycle ancient architectural styles in Vienna (ref. starchitects) 
-- [[World exhibitions]] as mega-events and drivers of innovations
+- [[world exhibitions]] as mega-events and drivers of innovations
 	- London 1851, 1862 - Paris 1855, 1867 - Vienna 1873
 	- Countries exhibiting innovations, eg. corrugated iron that can be wrapped around material and be used to make secure shutters to shut shops at night
 
 **Engineering with *beautification***
 - City parks- it was clear that cities could not be built over completely
-	- Ringstrasse planned for parks (Rathaus, Volksgarten, Augarten, Stadtpark...) #ringstrasse
+	- [[Ringstrasse]] planned for parks (Rathaus, Volksgarten, Augarten, Stadtpark...)
 	- Standardised public toilets- should look nice, eg. steel framed pissoir
-- Improving the design of the Ringstrasse #ringstrasse 
+- Improving the design of the Ringstrasse
 	- Camillo Sitte: idea to divide the street into multiple sectors so that traffic could be interrupted vs...
 	- Otto Wagner: designing new 22nd district of Vienna; grid district design with 30k buildings to house 150k inhabitants; tall and imposing architecture, which Camillo Sitte was against
 	- What is beautiful? naked technical necessity vs. iconic buildings
@@ -532,7 +532,7 @@ Vienna's urban region:
 
 *Framed by a variety of welfare regimes, emerging after 1945, under both capitalism and socialism*
 
-Post-WWII, planning has been reconstructed with new democratic times, and is infused with economic and social policies. The welfare state develops post-1945 and was not there before, as such priorities/focus shifts from reformist urbanism.
+Post-WWII, planning has been reconstructed with new democratic times, and is infused with economic and social policies. The [[welfare state]] develops post-1945 and was not there before, as such priorities/focus shifts from reformist urbanism.
 
 #### concepts from reformist urbanism
 
@@ -688,7 +688,7 @@ $\rightarrow$ urban planning type III
 
 A period after the reconstruction post-WWII, in the 1960s-1980s. The comprehensive plannings come to an end and are superseeded by these urban plans.
 
-The urban development plans are focused on planning per se, but this instrument is embedded in a broader, fully-developed national welfare state (not the embrionic welfare city of the 1920s, but on the state level). They are later resized in scope
+The urban development plans are focused on planning per se, but this instrument is embedded in a broader, fully-developed national [[welfare state]] (not the embrionic welfare city of the 1920s, but on the state level). They are later resized in scope
 
 Try to coordinate multitude of investments, look at the whole city, and don't refrain from steering the market. They are setting up private loan companies, from the city, who are making money/doing business.
 
@@ -706,7 +706,7 @@ Planning in a systematic way comes from **project management**, a tool to plan e
 ### the golden age of welfare
 
 Sweden is poor in the 1970s, late industrialisation and urbanisation, 1.25 million emigrants to the US. 
-Pensions introduced early on, before WWI - so, it has some **Bismarckian** rules, ie. early welfare state systems, introduced 100 years before the comprehensive welfare state of post WWII era.
+Pensions introduced early on, before WWI - so, it has some **Bismarckian** rules, ie. early [[welfare state]] systems, introduced 100 years before the comprehensive welfare state of post WWII era.
 First nation state where Social Democracy entered government
 Financed by high taxes, developed a high-quality welfare system (kindergardens, housing, health care, etc.)
 
@@ -751,13 +751,13 @@ Housing is a pillar of social state, but not only a social policy: also a region
 
 #### urban development planning
 
-- The tool for the time of the "golden age" of the welfare state
+- The tool for the time of the "golden age" of the [[welfare state]]
 - ==coordination==
 - **Urban development plan**: a massive, all embracing documents to guide development
 	- 1984: Vienna's first urban development plan
 - Idea isn't that other tools aren't in use anymore, but that there is a *new* tool (think of tools as staircase, accumulating, rather than replacement)
 - This type of planning came to an end because many plans didn't become reality
-	- eg. "finger plans" (eg. in Copenhagen) predicting that populations will grow along linear 'fingers', which hasn't materialised; in reality grew between fingers
+	- eg. "[[fingerplan]]" (eg. in Copenhagen) predicting that populations will grow along linear 'fingers', which hasn't materialised; in reality grew between fingers
 - Need to **collaborate** with external organisations who are infringing on urban planning like never before 
 	- eg. Droitwich, Worcestershire: government departments, county and borough departments, appointed agencies, private enterprises, community interests
 - Technocrats in expanded definition of the term

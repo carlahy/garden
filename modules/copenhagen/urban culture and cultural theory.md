@@ -30,7 +30,7 @@ III. Cultural theory
 ### (intro) function and signification in modern urban culture
 
 [[Urban culture]] - the object of analysis
-[[Cultural theory]] - the approach, or tool
+[[cultural theory]] - the approach, or tool
 
 #### definitions and dimensions of the concept of culture
 
@@ -41,7 +41,7 @@ What is [[culture]]?
 Aspects of culture: culture as **cultivation, as habit, and as reflexivity**. Culture is all of these concepts at the same time.
 
 1.  **[[cultivation]]** of the soul; from 'soil' to 'soul'
-2. **habits**: an important in the welfare state in Denmark, culture is defined by a social democratic politician as "*culture is habit taken in the most basic sense of the word*"; culture should be for **everybody**, not the few but the many; it isn't something that has nothing to do with the way people live, where you go to a specific place (eg. theatre) to find it; rather, culture is what happens in the mundane everyday life; an **inclusive** point of view
+2. **habits**: an important in the [[welfare state]] in Denmark, culture is defined by a social democratic politician as "*culture is habit taken in the most basic sense of the word*"; culture should be for **everybody**, not the few but the many; it isn't something that has nothing to do with the way people live, where you go to a specific place (eg. theatre) to find it; rather, culture is what happens in the mundane everyday life; an **inclusive** point of view
 	1. **historical self reflection**: why are habits as they are? they are related to the way we think, socially determined patterns, that could be questioned (eg. why do we sit and the lecturer stands? why do we close the door? these are habits, that can change very easily when reflected upon; eg. during corona, no one was in classroom)
 3. **reflexivity**: an artist represents reality with their own interpretations
 	1. **Artists** painting in the street: eg. a woman painting in a public square, painting depicts child playing in street, with the Eiffel tower appearing in the back; public urban life is represented
@@ -152,25 +152,33 @@ eg. 'Ford T' designates a car, but used to have a different signification than i
 A city is always moving, changing, evolving, even if it might look the same, because the built form does not change as fast as society may.
 
 
+### experiencing architecture, steen eiler rasmussen
 
-### Experiencing Architecture, Steen Eiler Rasmussen
+#### architecture and the layman
 
-### l3
+- Understanding architecture vs. experiencing architecture
+- Architecture has been elitist, and it is important to include everyday people to a discipline which tends to be *elitist and exclusionary* with a superiority complex
+- Treating architecture/buildings as a living being: the perspective of Houyem (architect) and Pepe (layman) in the VUB atrium, Black Diamond
+- How elitist is architecture as an art?
+	- Eg. music can be classical (more elitist) or pop rock (more casual). Is there the same in architecture?
+	- Architecture is probably the most expensive art you can have
+	- Copenhagen is a "playground for architects", where rather wild ideas can come to fruition. Eg. Copenhill, an incinerator/energy production plant with a ski lift and climbing wall
+- A layman vs. an amateur: the layman becomes an amateur when they invest time, energy, curiosity into observing and analysing architecture (or anything else)
+- [[informality]] in architecture
+
+#### human scale vs. dimensions of architecture and public space
+
+Ref. [presentation on human scale and architecture](https://docs.google.com/presentation/d/1KH4BfxA_ULWYbKdpOkx7s2KrNhUJ31uK12zEPc4-xcI/edit?usp=sharing)
+
+### life between buildings, jahn gehl
+
+i) Analysis of urban culture at the Islands Brygge Havnebad (Harbout Bath)
+
 
 ### l4
 
 ### l5
 
-
-## presentations
-
-WEEK 2
-
-c) Human scale vs. dimensions of architecture and public spaces (Chapter X)
-
-WEEK 3
-
-i) Analysis of urban culture at the Islands Brygge Havnebad (Harbout Bath)
 
 
 ## readings
@@ -186,7 +194,7 @@ i) Analysis of urban culture at the Islands Brygge Havnebad (Harbout Bath)
 	- Barthes says that the "language of the city" must move from the metophorical (eg. "language of flowers") to the real, for which we need the technique of **symbols**
 	- **Symbolism, signified and signifiers**
 	- The city center is an empty focal point
-	- 
+
 - *The Eiffel Tower*
 	- Speaks about the omnipresence of the Tower, which is seen from every angle in Paris but also *sees* everything. Barthes gives human-like qualities and senses to the Tower, "touch", "sees", is seen. Later, he also gives super-human or god-like qualities to the Tower (p. 170), it is "neither brain nor organ... the Tower is merely the witness, the gaze which discreetly fixes, with its slender signal, the whole structure - geographical, historical, and social - of Paris space" (p. 170)
 	- The Tower is also a *symbol*, "belongs to the universal language of travel". Everyone knows about the tower, it lives in our imaginations, its a "symbol of Paris, of modernity, of communication, of science or of the 19th century".

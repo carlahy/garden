@@ -129,7 +129,7 @@ How is the housing market related to urban diversity?
 
 Vienna ranks high in the liveable city rankings because of the affordable housing - but the target audience of the rankings, ie. high income expats, will not be the ones to benefit from the affordable or public housing.
 
-#### Social mix in a social welfare state
+#### Social mix in a social [[welfare state]]
 
 1230, Vienna: Alterlaa by Harry Glück, in Liesing. Built an alternative mode of living, with high rise buildings but that contain the elements that is important for our standards of living: balconies, private (outdoor) spaces, a swimming pool on the roof, surrounded by open space,  social infrastructure, commercial space (shopping mall) but now more a medical centre, to cater to the aging population in the building.
 

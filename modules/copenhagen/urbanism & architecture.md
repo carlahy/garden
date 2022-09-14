@@ -22,7 +22,7 @@ Analysing a plan of the Christiansen house
 - Children: in the 1930s (??), children are recognised as having their own phase of life and are not just "small adults"; 
 - The **bicycle** gave women a reason to dress in a way that allowed them to move (lol); so there is a relationship between the invention of the bicycle, and the women's liberation movement
 
-#### lecture
+#### seminar lecture
 
 A city is about density and encounters, which are embodied by [[world exhibitions]]. In 1851, the first world fair took place in the **Crystal Palace**, in London, a building which represented modernity.
 It uses steel, glass, curtain walls (steel frames on which windows and glass facades hang, which replace massive walls). 
@@ -88,3 +88,33 @@ Aesthetics is about **scale reduction** (?)
 - Regimes
 	- Until 1848: absolutist regime
 	- 1848: constitutional monarchy
+
+#### larsson and thomassen, *urban planning in denmark*
+- 
+
+#### kvorning, *copenhagen, formation, change and urban life*
+- Recap of Copenhagen's urban planning and development, including urban structural typologies and building typologies. Reminiscent of the planning stages in [[principles of planning and urbanism]]!
+- **Formation**
+	- City and landscape (rural?) are in a dialectic relationship, push and pull; the city 'eradicates' the landscape, and 'absorbs' it in built-up form
+	- Copenhagen was a [[fortified city]], with a strong military presence. Its medieval walls were doubly protected by Christianshavn, reclaimed land serving as a military base for protection (circa 1500?)
+	- Water was a key feature of the city, encircling it, and determining the logic of the city's growth
+	- Growth was *slow*: there was a lot of reclaimed, empty land for development but these areas were sparsely developed; "slowness became a characteristic feature in the process of Copenhagen's growth"
+	- A Renaissance to Baroque to Industrial phase (p. 117)
+		- Renaissance: "an abstract, preconceived ideal based on straight streets and a simple geometrical order"
+		- Baroque: "a highly developed hierarchisation, ordered systems based on great organising axes culminating at their point of intersection"
+	- 19th century
+		- Development of suburbs, of "summer residences mainly for the wealthy (in the north of Cph)... the king's summer palace"  (p. 119)
+		- Development similar to the [[Ringstrasse]], with monumental developments, catering to the social and cultural aspirations and trends of the (new) middle class: eg. Botanical Gardens "a combination of promenade and education"
+	- Early 20th century
+		- Increasing involvement of the state in urban planning
+		- [[Social Democratic]] influences and the welfare state
+			- Post-1930s housing crisis: emphasis on building social housing (with courtyards), gardens, kindergardens and child care...
+			- "Danish brick"
+			- "The good home with easy access to green spaces, with good new schools for the children, with the first creches, kindergartens and after-school insitutions, with common facilities for residents and with small local shops placed in various apartment buildings or in small local shopping centers formulated what is still today *the immediately appealing Social Democratic vision of a new future for the Danish worker - on the way to the [[welfare state]]*" (p. 122)
+			- Increasing prosperity and industrialisation, as well as standardisation, make it possible for the [[working class]] to purchase homes
+		- Mid-20th century
+			- Regional planning and the [[fingerplan]] arrive
+			- The car shapes regional planning, residentials areas do not have to be situated near a train station. New planning regulations are put in place to control development
+		- 1980s
+			- Focus goes away from the suburbs and returns to the city center, "to the classical city and classical urban life"
+			- 
