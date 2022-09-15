@@ -1,4 +1,77 @@
+- [[#notes|notes]]
+	- [[#notes#urban planning in copenhagen|urban planning in copenhagen]]
+		- [[#urban planning in copenhagen#the planner|the planner]]
+		- [[#urban planning in copenhagen#the planner|the planner]]
+		- [[#urban planning in copenhagen#summary|summary]]
+- [[#seminars|seminars]]
+	- [[#seminars#seminar 1|seminar 1]]
+		- [[#seminar 1#Nationalmuseets Klunkelejlighed|Nationalmuseets Klunkelejlighed]]
+		- [[#seminar 1#seminar lecture|seminar lecture]]
+- [[#readings|readings]]
+		- [[#seminar 1#elizabeth wilson, *The Rhetoric of Urban Space*, 1995|elizabeth wilson, *The Rhetoric of Urban Space*, 1995]]
+		- [[#seminar 1#møller, *the parks of copenhagen 1850-1900*, 2010|møller, *the parks of copenhagen 1850-1900*, 2010]]
+		- [[#seminar 1#larsson and thomassen, *urban planning in denmark*|larsson and thomassen, *urban planning in denmark*]]
+		- [[#seminar 1#kvorning, *copenhagen, formation, change and urban life*|kvorning, *copenhagen, formation, change and urban life*]]
+
 ## notes
+
+### urban planning in copenhagen
+
+#### the planner
+
+**19th century**: begin to see the contours of this new figure, the '[[planner]]'.  There is a new, widespread "belief in planning as an overall principle for ordering human affairs" (Ward, 1994). 
+
+The planner is there to "create new settlement forms, and perhaps to destroy the old, without interference or question" (Hall and Twedwr Jones).
+
+**20th century**: planning enters as a profession and in academies, and is not only an improvised practice. Plans must be *big* and aim high, a jump in scale; planners work on xl-xxl scales
+
+[[Le Corbusier]]: "without plan we have the sensation, so insupportable to man, of shapelessness, of disorder, of willfulness" (1923).
+- His Radiant City plan: buldose Paris and create a new city from scratch ('[[tabula rasa]]')
+
+Planners were
+- **Military** men (medieval, 1500s): first city planning was for fortification; military created walls, strategically designed the best ways to protect the city
+- **Medical** men (mid-1800s): planning for epidemics like cholera, density and crowdedness recognised as a public health issue. The cities were overpopulated because of the city walls preventing the spread, and encouraging density. 
+	- Need to create 'better air', which becomes a class symbol - well to-do classes were the first to choose to live in healthy surroundings.
+	- Still, there are socially conscious doctors (in Copenhagen) who realised they could not let this 'slumming' to happen, where the lower classes suffer from bad air quality
+- **Engineers** (end 1800s): focus not only on beauty, but on *[[function]]*. eg. the Eiffel Tower is the epitome of the engineer as the planner
+- **Architects**
+
+
+Planner as [[communication|communicator]]
+
+Planning trends in history
+- **Middle ages**: "the supreme science of governing a city is rhetoric"
+- **[[modernism|Modernity]]**: it isn't enough, or isn't the only way, to produce architecture through plans. As an architect (or planner) you must be able to write and argue your design, such that others understand and appropriate your design
+- **Post-modernity**: the work of an architect isn't to draw, but to *write*
+
+Planning and the public
+- Pre-modern times: planning was a hidden practice done by the military. In this scenario you do not want to share plans, in order to protect your city
+- Modernity (19th-20th century): cities are no longer fortified and controlled by a kingdom, medieval city walls are torn down
+	- Cities for industries and citizens. There is a *democratisation* of the city, the *public enters the discussion*
+- Increasing participation of the public in planning, private/public communication
+
+####  the planning
+
+Rise of urban planning (1860s)
+- "Down with walls": in Barcelona, people had come to despise the walls encircling the city. Ildefonso Cerda comes up with a "theory of urbanisation", with ideas to eg. destruct the walls
+- Cerda recognises the importance of the railroads and the masses moving across/in-out of the city through the city gates, in narrow streets, looking/going to work or home in the small dense city - recognises that nothing has been planned to *accomodate* the rapidly growing population
+
+The concept of urban planning
+- Cerda (Spanish): make the city a place where the engineer would create zoning, make circulation possible
+- Camillo Sitte (Viennese): critique of the new Ringstrasse, with squares that are too large, boulevard too wide, letting too much wind. We need to create a city that returns to the Renaissance ([[human scale|human]]?) scales
+
+
+Challenges: the nature of planning, there are problems that planners must find solutions for
+- **External enemies**: outsiders who wanted to invade
+- **Internal enemies**: crowding, classes; urban planning is class planning, making a place liveable for certain classes (ref. [[Friedrich Engels]]'s text on Manchester, Carl Schorske on Vienna); 
+- **Hygiene**: epidemics like cholera
+- **Traffic**: becomes a major challenge in planning with trains, cars, motorcycles, bikes; traffic is the 'great power of today', 
+- **Preservation** of the old city: planners must have the sensibility to determine what is worth preserving
+- Links between **old and new** city
+- **Greenery and parks**: [[sustainability]], adding green in the city center
+- **Scales**: ref. Koolhaas SMLXL
+
+#### summary
 
 
 ## seminars
@@ -49,7 +122,7 @@ Aesthetics is about **scale reduction** (?)
 
 ## readings
 
-#### Elizabeth Wilson, *The Rhetoric of Urban Space*, 1995
+#### elizabeth wilson, *The Rhetoric of Urban Space*, 1995
 - Talks about Jameson's postmodernism, "Postmodernism and The Cutlural Logic of Late Capitalism", where in [[postmodernism]] you are lost in a sense-less urban space with no center, the suburbs blend into endless same-ness, where places like Silicon Valley are ugly places empty of any soul
 - **Private spaces**
 	- The 'new indurstrial city' of the 21st century has created private spaces "as a refuge from public dirt and squalor" (p. 149). Instead of upgrading public space to be desirable, we privatise what is nice to keep away from others who might degrade our experience
@@ -71,7 +144,7 @@ Aesthetics is about **scale reduction** (?)
 	- Characterising people are visible/invisible, goes back to the divide of the **public and private**, which is eroded by technology entering the home and advertising the rest of the world that is up for consumption
 	- And interesting that "public life" takes places in privately owned property and buildings (eg. malls), and publicly-owned does not mean there is public access (eg. municipal housing)
 
-#### møller, *the Parks of copenhagen 1850-1900*, 2010
+#### møller, *the parks of copenhagen 1850-1900*, 2010
 - Because parks do not generate any income, in cities where land prices are so high, why did city planners build parks at all?
 - The parks were built in the 1800s, after fires and wars destroyed the city and the medieval walls were no longer relevant. A movement considered dirty air as transmitting diseases (the theory of *miasma*) and thus clean-smelling, fresh air was regarded as healthy. Plus, cholera epidemics and the Public Health Act (1848) encouraged clean, open air spaces for recreation and exercise; plus, overcrowding was starting to become a problem - the population grew fast between 1850-1880, from 150k to 235k
 - Research into air quality revealed that decomposing organic matter, high levels of CO2, methane, nitrogen, were high in neighbourhoods with high mortality rates
@@ -95,7 +168,7 @@ Aesthetics is about **scale reduction** (?)
 #### kvorning, *copenhagen, formation, change and urban life*
 - Recap of Copenhagen's urban planning and development, including urban structural typologies and building typologies. Reminiscent of the planning stages in [[principles of planning and urbanism]]!
 - **Formation**
-	- City and landscape (rural?) are in a dialectic relationship, push and pull; the city 'eradicates' the landscape, and 'absorbs' it in built-up form
+	- City and landscape (rural?) are in a [[dialectic]] relationship, push and pull; the city 'eradicates' the landscape, and 'absorbs' it in built-up form
 	- Copenhagen was a [[fortified city]], with a strong military presence. Its medieval walls were doubly protected by Christianshavn, reclaimed land serving as a military base for protection (circa 1500?)
 	- Water was a key feature of the city, encircling it, and determining the logic of the city's growth
 	- Growth was *slow*: there was a lot of reclaimed, empty land for development but these areas were sparsely developed; "slowness became a characteristic feature in the process of Copenhagen's growth"
@@ -117,4 +190,6 @@ Aesthetics is about **scale reduction** (?)
 			- The car shapes regional planning, residentials areas do not have to be situated near a train station. New planning regulations are put in place to control development
 		- 1980s
 			- Focus goes away from the suburbs and returns to the city center, "to the classical city and classical urban life"
-			- 
+- **Change**
+	- Change is about the *additions* that are made to the city in a new context, and the *departures* from existing forms --> dialectic relationship between the past and future
+	- "*For a period after its formation a district functions and develops in accordance with the ideas and needs on which it was based - it is inhabited by people who have the same ideas as those inscribed in the structure and expression of the district. But at some point the tension between the original needs and new needs becomes so great that the district breaks up*" (p. 125)

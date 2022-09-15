@@ -166,7 +166,7 @@ A city is always moving, changing, evolving, even if it might look the same, bec
 - A layman vs. an amateur: the layman becomes an amateur when they invest time, energy, curiosity into observing and analysing architecture (or anything else)
 - [[informality]] in architecture
 
-#### human scale vs. dimensions of architecture and public space
+#### [[human scale]] vs. dimensions of architecture and public space
 
 Ref. [presentation on human scale and architecture](https://docs.google.com/presentation/d/1KH4BfxA_ULWYbKdpOkx7s2KrNhUJ31uK12zEPc4-xcI/edit?usp=sharing)
 
@@ -222,7 +222,7 @@ i) Analysis of urban culture at the Islands Brygge Havnebad (Harbout Bath)
 	- "The box is divided into innumerable small cells, the apartments, consisting of small rooms with ceiling heights corresponding to the Modulor's raised arms height of 226cm, and larger living rooms double that height"
 	- --> extraordinarily low ceilings, narrow and long rooms, cannot be said harmonious
 	- Nonetheless, the building gives off a "real greatness" (keeping in mind that this is written in 1960s). "When you stand down there among these fantastic pillars you are made vividly aware that they were created to support a gigantic building" (p. 119). Feeling that it was built for 'giants' before normal people moved in
-- Besides wanting to build housing at human scale, what ever this means, there are technical constraints which shape the way homes are built - eg. the way the timber interacts or can be layed alongside bricks, calculating dimensions of material shipped in from elsewhere
+- Besides wanting to build housing at [[human scale]], what ever this means, there are technical constraints which shape the way homes are built - eg. the way the timber interacts or can be layed alongside bricks, calculating dimensions of material shipped in from elsewhere
 - Division between monumental and home architecture: monuments (eg. cathedrals) are built on much larger scales, with incredible materials in their size and weight and value; it isn't the same for domestic buildings, which are much more modest, for obvious practical matters
 - Klint working on the Hospital
 	- Impossible to make sense of the building by measuring in cms, but everything made sense in feet and inches; he also found that “many of the things we use in daily life were already standardised without our being aware of it. These included bed sheets, table cloths, napkins, plates, glasses…”

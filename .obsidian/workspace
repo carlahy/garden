@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "finger",
-                "matchingCase": true,
+                "query": "engels",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
@@ -91,15 +91,15 @@
   },
   "active": "8570aa0530ea29b3",
   "lastOpenFiles": [
-    "modules/vienna/principles of planning and urbanism.md",
+    "sustainability.md",
     "modules/copenhagen/urbanism & architecture.md",
-    "fingerplan.md",
-    "working class.md",
-    "Social Democratic.md",
-    "welfare state.md",
+    "modules/vienna/principles of planning and urbanism.md",
+    "Friedrich Engels.md",
     "modules/copenhagen/urban culture and cultural theory.md",
-    "modules/vienna/socio-spatial diversity.md",
-    "Ringstrasse.md",
-    "fortified city.md"
+    "human scale.md",
+    "communication.md",
+    "modernism.md",
+    "Modernity.md",
+    "function.md"
   ]
 }

@@ -297,7 +297,7 @@ Industrial is an era with little urban planning.
 - Putting-out system originally, drawn into vertical integration
 - Innovations (1700s): flying shuttle, spinning by rollers, carding machine, jenny
 
-*Friedrich Engels, 1820-1895*
+*[[Friedrich Engels]], 1820-1895*
 - Originally pubilshed *Condition of the Working Class in England (1845)* originally in German and banned in English
 - Observes deplorable living conditions in English cities: 
 	- death from starvation
@@ -420,7 +420,7 @@ te
 
 4 typical movements and policies $\rightarrow$ garden cities; settlers' movement; public and social housing; zoning; regional planning
 
-The ills of the industrial city and urbanisation should be alleviated by separating the uses (ref. Athens Charter published by Le Corbusier, describing the Ville Radieuse).
+The ills of the industrial city and urbanisation should be alleviated by separating the uses (ref. Athens Charter published by [[Le Corbusier]], describing the Ville Radieuse).
 Cities are growing and urbanising, we need some organisation $\rightarrow$ conurbation
 Reconfiguration of places and borders
 

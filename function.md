@@ -1,0 +1,1 @@
+In architecture: the **utility** of a construction, a building must first and foremost have a **funciton**
