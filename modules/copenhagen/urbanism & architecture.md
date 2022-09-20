@@ -71,8 +71,53 @@ Challenges: the nature of planning, there are problems that planners must find s
 - **Greenery and parks**: [[sustainability]], adding green in the city center
 - **Scales**: ref. Koolhaas SMLXL
 
-#### summary
+Interprative frames:
+- The city should be like a *house*, and a house should be like a city (Alberti)
+- The city is like a *machine* ([[Le Corbusier]]'s machine metaphore, "the house is a machine for living in")
+- The city is like a *museum* (Aldo Rossi)
+- The city is like a *theatre* (Lewis Mumford; encounters in public space are theatrical, there is front and backstage behaviours)
+- The city is like a *body* (lungs, arteries, health; city hall square (Radhusplads) as the heart of the city; Chicago School?)
+- The city is like a *book* (l'encyclopedie des Lumières, the city as a materialised encycloppedia)
+- The city is like a *jungle*
+- The city is like a *gambling machine* (production of experiences, the experienced city introduced by Florida, 'vibrancy')
 
+Goals 
+- Protection
+- Production (industry, capital)
+- Preservation (of space or ideals)
+- Self reflection
+- Health (eg. Howard's garden city ideal)
+- Ciculation
+- Legibility (ref. Kevin Lunch 'the image of the city')
+- Experiences (Richard Florida, 'vibrancy' of the city)
+- Entertainment (eg. Disneyland, city as an entertainment machine; post-modernism)
+
+**Broadacre City** 
+- Contrary to Le Corbusier's vertical, high-rise cities with 20+ level buildings, Lloyd Wright's broadacre city is a horizontal concept, with open highways dominating the city
+- Both recognise the *car* as the protagonist of the modern city, a dominating figure
+- "horizontality is the true line of human freedom on earth", with the car making this ideal possible; free movement across space
+
+**[[Robert Moses]] vs [[Jane Jacobs]]**
+- Moses: necessary to use a 'meat axe' to buldose through the city and make way for car lanes
+- Opposed by Jacobs, who organised demonstrations against Moses
+
+**Situationists**
+- A movement where the city was seen not as one totality, not one machine, but a *patchwork* of different situations, where the *mind* is more important than the *material world* 
+- Introduced the idea of psycho-geography, with improvised tours in the city that do not follow a straight line but follows desires
+
+
+#### trends in the history of urban planning
+
+- Modernisation and planning: Ildefonso Cerda
+- Conservatism: Camillo Sitte (fond of 'crooked lines' as a break from monotonous areas of the modern city)
+- Utopianism: Ebenezer Howard (garden city)
+- Futurism: Sant Elia
+- Modernism: Otto Wagner, Le Corbusier
+- From universalism to individualism: Jane Jacobs, Kevin Lynch (using mental maps to understand how people read the city), George Cullen, Jan Gehl (life *between* buildings is more important than what is *in* the buildings)
+- New urbanism: need to emphasise squares, streets, houses (the [[human scale]]), as the center of planning, using classic elements of city building
+- Postmodernism
+- Generic city: Koolhaas
+- Cultural planning: Richard Florida, the Bilbao effect (using culture as a catalyst for urban development)
 
 ## seminars
 
@@ -193,3 +238,27 @@ Aesthetics is about **scale reduction** (?)
 - **Change**
 	- Change is about the *additions* that are made to the city in a new context, and the *departures* from existing forms --> dialectic relationship between the past and future
 	- "*For a period after its formation a district functions and develops in accordance with the ideas and needs on which it was based - it is inhabited by people who have the same ideas as those inscribed in the structure and expression of the district. But at some point the tension between the original needs and new needs becomes so great that the district breaks up*" (p. 125)
+
+#### bloom, *superkilen: participatory park extreme!*
+- tlrd; Superkilen is supposed to represent the 'super'-diversity of the neighbourhood it is embedded in, Nørrebro. In a playful colour palette, with curiosities from around the world (from a trash can to a playground or bike parking), the park's narrative at home and internationally is about diversity and integration. 
+	- *'A big part of understanding Superkilen comes from online narratives or by using a smart phoen to decipher hidden park narratives'*
+	- However, its design from the start goes against the very principles it claims to uphold.
+	- No resident was consulted during the design of the park (no participation, no democracy), although *"Copenhagen wants to brand itself as a palce where the government and its people go hand in hand in making the city"*
+	- It is of poor quality, with plaques going missing and not being replaced, or the indoor flooring not being suitable for outdoors and being actually dangerous
+	- it is awkward, with many things that "do not sit comfortably together", with bike racks in places people would not park bikes, with benches facing a way people do not want to face
+	- It isn't suited to Denmark's climate and is an insult to enviromentalism and ecological concerns, eg. the red maples from China are not thriving and are growing fungus
+	- The soil uprooted from from the Ghaza strip and placed in Copenhagen is a violent theft from Palestine
+	- "*I am curious to know how diversity and integration are achieved with this park. What does it mean that a bunch of white people are making representations of diversity without really including the people they  are making them about except in perfunctory roles? Does it work by getting "the diverse people" to identify with inanimate objects from around the world, many of whicch were broken shortly after being put out?*" (p. 8) **diversity washing!**
+- **Public space** and life being increasingly controlled by **private enterprise** as public spending is reduced
+	- Realdania is the 'democratically run', 'philanthropic' business funding the park
+	- Branding the project with "[[public participation]] as the driving force of the design leading towards the maximum freedom of expression" but in reality no one was consulted, or only a select few individuals
+	- *"one way we can recognise that we are living in a neoliberal society is when corporations, high finance, and non-elected organisations and individuals start having an outsized role in shaping public life"* (p. 13)
+- Space dictates how one ought to behave, *"spacial configurations naturalize social relations by transforming contingent forms into a permanent landscape that appears as immutable rather than open to contestation. By providing a shared background, spatial forms serve the function of integrating individuals into a shared conception of reality"* (p. 4)
+	- when you enter a space, you recognise, or feel, how you are supposed to behave (eg. school vs. train ticket office), and not behaving as expected or desired by othes will engender consequences
+- Theory of [[governmentality]] , or the art of governing, is the power that an authority uses to exert control over its population, on all scales
+	- The park is heavily controlled, with graffiti being removed within 24h. This is a strong contrast to the reality in the nearby streets, where "*the city seems to stop caring*"
+- Norrebro as a particular neighbourhood, from gang violence to gentrification. Multiple stories of grassroots plans for parks, and push against cafes gentrifying the neighbourhood
+- City signs always show a *"sterile space"*, where dirt, homelessness, elderly and disabled, trash and can collecters are out of view
+
+#### daniela sandler, *incarnate politics: the rhetorics of german reunification in the architecture of berlin*
+- tldr

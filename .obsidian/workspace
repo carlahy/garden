@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8570aa0530ea29b3",
+        "id": "331d1806849e788d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "modules/copenhagen/urbanism & architecture.md",
+            "file": "modules/thesis/thesis meetings.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modules/copenhagen/urbanism & architecture.md",
+                "file": "modules/thesis/thesis meetings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,17 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8570aa0530ea29b3",
+  "active": "331d1806849e788d",
   "lastOpenFiles": [
-    "sustainability.md",
-    "modules/copenhagen/urbanism & architecture.md",
-    "modules/vienna/principles of planning and urbanism.md",
-    "Friedrich Engels.md",
     "modules/copenhagen/urban culture and cultural theory.md",
-    "human scale.md",
-    "communication.md",
-    "modernism.md",
-    "Modernity.md",
-    "function.md"
+    "modules/copenhagen/urbanism & architecture.md",
+    "concepts/communication.md",
+    "concepts/lifeworld.md",
+    "concepts/public participation.md",
+    "concepts/governmentality.md",
+    "modules/thesis/thesis meetings.md",
+    "modules/thesis/thesis.md",
+    "concepts/Urban culture.md",
+    "concepts/Jane Jacobs.md"
   ]
 }

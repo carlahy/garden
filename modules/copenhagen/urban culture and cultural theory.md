@@ -3,18 +3,24 @@
 		- [[#(intro) function and signification in modern urban culture#definitions and dimensions of the concept of culture|definitions and dimensions of the concept of culture]]
 		- [[#(intro) function and signification in modern urban culture#roland barthes|roland barthes]]
 		- [[#(intro) function and signification in modern urban culture#humanistic urban studies: the urban dimension|humanistic urban studies: the urban dimension]]
-	- [[#notes#(part 1) perception and lifeworld in copenhagen|(part 1) perception and lifeworld in copenhagen]]
-		- [[#(part 1) perception and lifeworld in copenhagen#the copenhagen school|the copenhagen school]]
+- [[#(part 1) perception and lifeworld in copenhagen|(part 1) perception and lifeworld in copenhagen]]
+	- [[#(part 1) perception and lifeworld in copenhagen#architectural perception and experience in Steen Eiler Rasmussen|architectural perception and experience in Steen Eiler Rasmussen]]
+		- [[#architectural perception and experience in Steen Eiler Rasmussen#I. the copenhagen school|I. the copenhagen school]]
+		- [[#architectural perception and experience in Steen Eiler Rasmussen#II. rasmussen and theory: three spatial principles|II. rasmussen and theory: three spatial principles]]
+	- [[#(part 1) perception and lifeworld in copenhagen#proximite and ocmmunity in jan gehl, life between buildings|proximite and ocmmunity in jan gehl, life between buildings]]
 - [[#seminars|seminars]]
 	- [[#seminars#intro seminar|intro seminar]]
-	- [[#seminars#l2|l2]]
-	- [[#seminars#l3|l3]]
+	- [[#seminars#experiencing architecture, steen eiler rasmussen|experiencing architecture, steen eiler rasmussen]]
+		- [[#experiencing architecture, steen eiler rasmussen#architecture and the layman|architecture and the layman]]
+		- [[#experiencing architecture, steen eiler rasmussen#human scale vs. dimensions of architecture and public space|human scale vs. dimensions of architecture and public space]]
+	- [[#seminars#life between buildings, jahn gehl|life between buildings, jahn gehl]]
 	- [[#seminars#l4|l4]]
 	- [[#seminars#l5|l5]]
-- [[#presentations|presentations]]
 - [[#readings|readings]]
 		- [[#l5#*Semiology of the Urban*, Roland Barthes|*Semiology of the Urban*, Roland Barthes]]
 		- [[#l5#*Experiencing architecture*, steen eiler rasmussen, 1962|*Experiencing architecture*, steen eiler rasmussen, 1962]]
+		- [[#l5#*life between buildings*, jan gehl, 2001|*life between buildings*, jan gehl, 2001]]
+
 
 ## notes
 
@@ -69,9 +75,9 @@ Relevant strategies for delimiting an object of study: reconstruction of fragmen
 
 Interpretation: a critical strategy in urban culture and societies
 
-### (part 1) perception and lifeworld in copenhagen
+## (part 1) perception and lifeworld in copenhagen
 
-*Architectural Perception and Experience in Steen Eiler Rasmussen*
+### architectural perception and experience in Steen Eiler Rasmussen
 
 The argument: in order to understand, design, improve cities, you have to think about human factors. Things should *work* for people (function), but space must also have a signification (*meaning*). Roland Barthes = architecture is FUNCTION and FANTASY.
 
@@ -131,12 +137,55 @@ Architecture as a framework around human living
 - It isn't necessary to abandon rectangular forms, we need not get rid of them to support human life; it's easy to move through rectangular rooms and regular forms. 
 - *Even if life is chaotic and unpredictable, space doesn't need to be*
 
+### proximity and ocmmunity in jan gehl, life between buildings
+
+signification and architecture: from Barthes to Rasmussen
+- how does architecture come to make sense to people, how is it sensed in the mind and bodies of people in the 20th century? (Rasmussen)
+
+living architecture, living the city?
+- how can the city be lived as a social and spatial entity?
+
+moving towards the urban as a [[lifeworld]]
+
+#### jahn gehl on urban culture
+
+In reponse to a disastrous functionalism: reinforcing human presence in urban spaces.
+
+Historic and ideological context of 1960s-70s in which Gehl is developing ideas
+- A period where progress is sensed by many
+	- Increasing use of cars, people move towards the suburbs (more space, green space) and commute
+	- Education is not necessarily linked to social privileges, scholarships are handed out
+	- Growth is a 'religious' goal persued without too much reflexion; virtually no one exploring environmental issues (like excessive use of cars)
+
+Gehl has the image of the city as a city of *destruction*
+- the Medieval city is closer to what Gehl considers the *ideal city*
+- medieval city centered around pedestrians
+- people are spread out in space due to division of labour, outdoor activities are spread out
+- in the city of functionalism, there is space between buildings in the sprawling city, but *life* between buildings is erased
+
+Experiments of dense and low cities: Tinggaarden and Galgebakken, DK
+- Idea is for residential environments to have urban life feel
+- Anti-urban life takes over when buildings are so tall that the top floors cannot communicate with the street
+
+Life between buildings is a dimension of architecture, urban design adn city planning to be carefully treated.
+The character of the life between buildings changes with *changes in the society* situation, but the essential principles and quality criteria to be used when working for human quality in the public realm have proven to be remarkably constant (2006, p. 7)
+
+Bodily practices of seeing, walking,...
+
+Experience ('oplevelse') after functionalism:
+- the scarcity of 'experiences'
+- modernity is taking experiences out of ordinary life, and people need to bring experiences - ie., bring people - back to the city
+
+#### small scale design
+
+- Walking, standing, sitting...
+- Life should be able to **flow**, buildings should foster **well-being**
+
+### xx
 
 
 
 
-
-####  III.
 
 ## seminars
 
@@ -165,14 +214,18 @@ A city is always moving, changing, evolving, even if it might look the same, bec
 	- Copenhagen is a "playground for architects", where rather wild ideas can come to fruition. Eg. Copenhill, an incinerator/energy production plant with a ski lift and climbing wall
 - A layman vs. an amateur: the layman becomes an amateur when they invest time, energy, curiosity into observing and analysing architecture (or anything else)
 - [[informality]] in architecture
+- 
 
-#### [[human scale]] vs. dimensions of architecture and public space
+#### human scale vs. dimensions of architecture and public space
+
 
 Ref. [presentation on human scale and architecture](https://docs.google.com/presentation/d/1KH4BfxA_ULWYbKdpOkx7s2KrNhUJ31uK12zEPc4-xcI/edit?usp=sharing)
 
 ### life between buildings, jahn gehl
 
-i) Analysis of urban culture at the Islands Brygge Havnebad (Harbout Bath)
+i) Analysis of urban culture at the Islands Brygge Havnebad (harbour bath)
+
+
 
 
 ### l4
@@ -228,4 +281,15 @@ i) Analysis of urban culture at the Islands Brygge Havnebad (Harbout Bath)
 	- Impossible to make sense of the building by measuring in cms, but everything made sense in feet and inches; he also found that “many of the things we use in daily life were already standardised without our being aware of it. These included bed sheets, table cloths, napkins, plates, glasses…”
 	- Furniture is also standardised to the human body
 	- Klint’s goal was “to determine, by scientific method, the natural dimensions of architecture and to find out how they could be made to harmonise with each other again - not accordion got any predetermined ratio but by simple division with nothing left over”
-- 
+
+ #### *life between buildings*, jan gehl, 2001
+- Three types of outdoor activities
+	- *Necessary, optional and social*; necessary activities will happen regardless of what the physical environment looks like (eg. going to school or work, to other past time activities, to groceries or appointments...) but optional activities are dependent on the physical environment and external factors like weather (eg. going to cafes, parks, strolling for pleasure)
+	- Social activities are "all activities that depend on the *presence of others* in public spaces", such as *passive contact* (seeing and hearing other people on the street). The more people spend time outside in public, the more frequently they meet and interact with others
+	- Architects and planners can design the physical space such that they increase social encounters by making people want to spend time outside
+- Outdoor activities and quality of outdoor space
+	- 
+- Spaces for walking, places for staying
+- Sitting
+- A pleasant place in every respect
+- Soft edges

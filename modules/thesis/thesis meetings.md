@@ -5,12 +5,48 @@
 
 ## meeting notes
 
+### september 20th - francesc
+- Previously done (august): 
+	- conducted 15 interviews at the waterfront, started hearing the same things over and over again. Population is rather homogenous, danish/white young adults in the sun
+	- Specific baths/beaches have a certain appeal
+	- Is there a problem? I saw one large park in a South-western neighbourhood that had a small beach, and there were many non-white/danish families having picnics/bbq's there
+	- Interesting that people at the waterfront don't perceive any issues that prevent some from using the space - they look around and say, no, this place is for everyone - but it is mainly young, white, tan, fit people who look like them, and they think 'this is everyone', because there might be some family or older couple on the other side of the harbour
+- Currently done (september)
+	- tweaked the interview guide to interview people away from the waterfront
+- Need to do:
+	- Get more interviews from the streets; there is a square behind my house where people sit and linger for ~10 minutes; there is a famous park nearby that is supposed to support "diversity" although in reality it doesn't do anything to address diversity and integration of immigrants
+	- haven't worked on it in the last couple weeks since the semester started here
+- What is missing?
+	- RQ: "what perceptions ..."
+	- Why is this important? --> most people interviewed want more spaces to be by the water and swim; especially as summers are getting hotter; however, the observed and interviewed population at the waterfront is homogeneous - white, danish, young. What about the rest of the population? The city is developing more opportunities to be near or in the water, notably in the Water Culture House development project which was decided after submission of ideas from the public. But this is located in the supercenter of the city, amongst the museums and monuments like the Opera house - no one from the more northern districts will go out of their way to visit this place, when they already don't go to the more intimiate, less show-y ones near their homes
+	- It also seems like the harbour baths and beaches are located near new developments (eg. Nordhavn, Sluseholmen). Were they done for the people and the climate, or for raising the attractivity of the new neighbourhoods?
+	- Furthermore, if the city is building more space but not understanding what it is people who are currently not using waterfronts, want from a waterfront, then the city will continue to exclude people in their (superficial?) efforts to democratise water
+	- If Denmark, and Copenhagen specifically, is branding itself as a welcoming city strong on integration policies (indeed, many immigrants speak danish within X years of arriving), then it should also push efforts to create public waterfronts that cater to those from a non-Danish background, in order to introduce the possibilities of the city to every
+- Actions
+	- don't have to focus on specific project liek water culture hosue, but speak to city developers in general to see how they manage waterfronts
+	- analysing and coding interviews
+		- need to look into this! *nvivo* link from francesc??
+		- and link from colleagues at VUB!
+		- analyse and code based on research questions, take out what the main statements that are relevant from the research (key words)
+		- in qualitative research, useful to identify quotes supporting thesis, (eg. people use the blue space)
+		- point was to identify social barriers to use the space - maybe conclusion is that no? but hard to be representative, especially with qualitative approach. BUT could be interesting to do more interviews to other public space users (eg. green spaces, or recreational spaces)
+		- and may be interesting to put questions in relation to green space - comparative between blue and green? BUT maybe people might not know about UBS, and just talk randomly if they haven't used them
+		- if people don't use waterfronts in summer time, dig in to that and ask why not, but why they use green spaces
+		- another option: interview people related to planning and management of blue spaces (eg. WCH); look at the policy, are there plans to expand the blue spaces?
+		- this topic is interesting and can lead to conflicts, eg. in brussels creating new park in south of the city with a pond for swimming in principle, but some neighbours are not in favour
+			- any conflicts? noise pollution; people swimming where it isn't allowed/delimited
+		- go to a random green space and ask the users if they use/how they use the blue space; 
+		- ==find residents of the neighbourhoods near the blue space and ask if they use it, or why/why not?==  are the UBS making the place more lively, insecure, trendy/attractive? --> focus on **residents!** 
+	- --> 10 to 15 RESIDENT interviews (keeping focus on users) and TRANSCRIBE and start ANALYSIS (identify key quotes, familiarise with literature, try to familiarise with social sciences process)
+	- POSTER SESSION - let know for feedback
+	- For transcription, coding, analysis should be finished by EOY
+	
 ### may
 - Comparative studies between two blue spaces in Copenhagen, in two distinct neighbourhoods, with blue spaces that have had different amounts of investments (large investment in centre, vs. less investment in outer neighbourhoods)
 	- Perceptions- who are the users (neighbourhood residents or visitors?), how do they identify with the space, why do they like, why do they come here...
 	- => Ultimately, how do perceptions of the two blue spaces differ, and what does that tell us about the accessibility of blue spaces in the city?
 
-### may ?? - francesc
+### may - francesc
 - Confused because everything seems to link back to distributional justice- eg. i study people who are using the space, their experiences, perceptions, that reveals a pattern of who they are and why they use it (eg. they live/work nearby, because they can afford to), and i just end up finding that those who use the space do so because it is near them and convenient. but of course that is true, and so the problem is that blue space conversion projects are concentrated in a certain area of the city, and not more disadvantaged/excentric neighbourhoods which might benefit more, and 
 
 ### may 11th - josh

@@ -83,7 +83,7 @@ Ideas to analyse [[blue space]] and EJ:
 
 $\rightarrow$ narrow down your specific objectives and already start thinking about the methods that you will use for each
 
-#### narrowed objective**s**
+#### narrowed objectives
 General:
 - understand people's perceptions and experiences of a blue space, in order to analyse whether the space is "environmentally just" #todo replace with a dimension of EV, eg. "whose uses and needs are supported", "who has access to the space"... maybe select an RQ from [[@anguelovski2020expanding]] 
 - method: community based PPGIS, which could give me spatial and experiential data 
