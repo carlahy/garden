@@ -1,0 +1,11 @@
+ #### *life between buildings*, jan gehl, 2001
+- Three types of outdoor activities
+	- *Necessary, optional and social*; necessary activities will happen regardless of what the physical environment looks like (eg. going to school or work, to other past time activities, to groceries or appointments...) but optional activities are dependent on the physical environment and external factors like weather (eg. going to cafes, parks, strolling for pleasure)
+	- Social activities are "all activities that depend on the *presence of others* in public spaces", such as *passive contact* (seeing and hearing other people on the street). The more people spend time outside in public, the more frequently they meet and interact with others
+	- Architects and planners can design the physical space such that they increase social encounters by making people want to spend time outside
+- Outdoor activities and quality of outdoor space
+	- 
+- Spaces for walking, places for staying
+- Sitting
+- A pleasant place in every respect
+- Soft edges

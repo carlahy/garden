@@ -1,5 +1,13 @@
 # literature review
 
+
+
+### literature
+- Environmental justice, welfare city
+- Urban transformation (water being a transformation)
+- Urban culture
+- Usability, accessibility
+
 ### draft (research proposal)
 
 1. Most large cities situated on bodies of water, whether it is inland like a river, lake, pond, or harbour, or salt water on the coasts.

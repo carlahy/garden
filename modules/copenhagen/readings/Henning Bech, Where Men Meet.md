@@ -1,0 +1,22 @@
+#### notes from the text
+- the '[[homosexual]]' form of existence (chapter IV)
+	- scientific and medical: homosexuality was something like an incurable disease; homosexuals could open up to physicians because they were the scientific, objective agent; this cannot be said for society
+	- policing: gays in the streets have to be aware of policing, by official forces or by passers-by; generally doing anything out of character or out of line with the status-quo can be dangerous
+	- gaze and cruising: a way to get other men's attention and consent when in public and looking for someone; in a gay bar, you share a gaze to know if the person is up for it or not. '*It is impossible to be homosexual without having a gaze*' (p. 108)
+		- '*the modern world is voyeuristic*' (p. 108) - gazing is democratic, allowed, cannot be repressed (or hardly) even under strict regimes
+	- signals: homosexuality is visually feminine, but also masculine; men will have a feminine detail like a scarf, or go fully into a masculine look but with so much attention to detail and so perfectly that it goes too far and 'gives it away' (~1970s); 
+		- '*he is an expert in the study of signs, a self-evident [[semiotics|semiologist]]*' (p. 110)
+	- the city is *the* place to meet. "The city is there. Instead of trying to get away from it, you can enter it; instead of closing your eyes to it, you can open them, and see what comes of it" (p. 112)
+	- talks about being '*camp*', or " something so outrageously artificial, affected, inappropriate, or out-of-date as to be considered amusing", "a style or mode of personal or creative expression that is absurdly exaggerated and often fuses elements of high and popular culture" (ref. merriam-webster)
+	- gender is problematic: "*Modern life invovles being gender and gender role at one and the same time ... the term sex role is an expression of the fact that gender is problematic*" (p. 131). If gender was not a problematic term, there would be no 'sex role' or expectations to act like your assigned sex/gender at birth - because there would be no notice of gender/sex
+		- so what enables a man to be a man, if everything is stripped down and societal expectations destroyed? -> the nakedness, "the male sez organ and its abilities, and the symbolism to which it gives rise, ahve no doubt always had their part in enabling a man to be a man" (p. 132)
+		- ie., male organs are the only 'manly' thing there is; but what does this mean for those with male organs who do not wish to be male? can this be reappropriated?
+		- "*a consequence of women advancing into all areas is thus that the man's sex organ, for him, is isolated and elevated into the exclusive center of manhood*" (p.  132)
+	- 
+#### summary of the book
+
+"what is it about the railway stations thatt draws the homosexual? first and foremost, that they concentrate the city. all the elements are there, compacted and condensed within a delimited space: the crowd, the constant flux of new people, the mutual strangeness and indifference; the feeling of motion, options, secual exctement, potential danger and surveillance; the possibilities for moving and following, for using gaze, sending signals, disappearing in the crowd, etc. In addition, the presence of facilities - public urinals, cafes, display windows - for variation, recreation and a little more stationary contact. Here, the homosexual can feel at home" (p. 159)
+ 
+#### comments
+- why is it that we only mention *men* when it comes to being gay, why are women never mentioned? i understand that from a societial/cultural point of view, the interpretation or stigma may be different, but why never mention women? gaze, cruising isn't a thing for women... why?
+- I kind of like how crude the language is sometimes (not when it describes sexual encounters but when the author speaks it how it is, eg. about men/women, simplistic straightforward terms, that could nowadays feel like they are ignorant/non-inclusive). Without being politically correct all the time (imo, although he is not incorrect) you get to the point and remove all the fluffiness that would be added if the author was trying to not offend anyone or trying to tell an objective truth 

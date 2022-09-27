@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "modules/thesis/thesis meetings.md",
+            "file": "modules/copenhagen/urban culture and cultural theory.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modules/thesis/thesis meetings.md",
+                "file": "modules/copenhagen/urban culture and cultural theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "331d1806849e788d",
   "lastOpenFiles": [
-    "modules/copenhagen/urban culture and cultural theory.md",
-    "modules/copenhagen/urbanism & architecture.md",
-    "concepts/communication.md",
     "concepts/lifeworld.md",
-    "concepts/public participation.md",
-    "concepts/governmentality.md",
-    "modules/thesis/thesis meetings.md",
+    "modules/copenhagen/urban culture and cultural theory.md",
+    "modules/copenhagen/readings/Henning Bech, Where Men Meet.md",
     "modules/thesis/thesis.md",
-    "concepts/Urban culture.md",
-    "concepts/Jane Jacobs.md"
+    "Urban culture.md",
+    "Roland Barthes, Semiology of the Urban.md",
+    "modules/copenhagen/readings/Steen Eiler Rasmussen, Experiencing Architecture.md",
+    "modules/copenhagen/readings/Jan Gehl, Life Between Buildings.md",
+    "homosexual.md",
+    "academic papers/@jensen2015harbour.md"
   ]
 }

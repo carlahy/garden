@@ -1,0 +1,23 @@
+**Scale and Proportion** (chap. V)
+- Humans like things that are *harmonious*, but what is harmony? Harmony relates to **scale and proportion**mathematics, (correct) proportions; harmony can be produced by following mathematical ratios, there is a rationale/explication behind harmony. People *want and love* harmony
+- Comparison of architecture to music: they both have simple dimensions (ie. the basics of what is harmonious). Archi is "frozen music"
+	- Two forces need to cooperate in order to be harmonious: in music, two waves with a frequency ratio of 15:16 will produce "weird, quavering, uneven sequence"; There are no wavelenghts in archi, so irregularities and unharmonious things must be discovered by careful **measuring**
+- [[golden ratio]] mathematical describes what is harmonious or beautiful, even "holy". eg. the pentagram
+- 1920s Scandanavia: move from "romantic tendencies in architecture of the previous generation and to **formulate clear aesthetic principles**"
+	- Formualte -> formula -> mathematics
+	- BUT, when a building is planned in perfect proportions (eg. Copenhagen philharmonic building), you can't experience the golden ratio and the "interrelationship in the proportions" like you can in progressive, **natural** phenomena like a snail shell
+- Everyone wants archi that is 'simple in proportions', and beautiful; the ==Palladio 'Villa Foscari'== is built with 3:4, 4:4, 4:6 proportions (often found in music) and this can be experienced in the villa - not the exact proportions but the idea behind them, of a "noble, firmly integrated composition in which each room presents and ideal form within a greater whole", everything is related in size
+- ==[[Le Corbusier]]'s Villa in Garches==: although proportions have been planned, the harsh horizontal and vertical divisions between floors and window panes remove harmony; "Le Corbusier himself has stressed the fact that the house is divided in the ratio 5:8, approximating the golden section, but he has hidden it so well that probably no one who has"
+- Study of the human body: "Le Modulor" is Le Corbusier's study of bodily proportions, the ideal height for a man and the proportions of body parts to height giving the golden ratio, have convinced architects of the importance of *height* . Le Corbusier determined 183cm as the ideal/average height, and from this designed his buildings (fearing that increasing height worldwide would increasingly make his buildings small - LOL)
+- BUT, simple proportions do not always mean harmonious proportions! By *simplifying* everything, you *lose harmony*
+- Employing Le Modulor to design a block in Marseilles:
+	- Height of smallest room is 226cm, which is 183cm (ideal height) + lenght of raised arms
+	- "The box is divided into innumerable small cells, the apartments, consisting of small rooms with ceiling heights corresponding to the Modulor's raised arms height of 226cm, and larger living rooms double that height"
+	- --> extraordinarily low ceilings, narrow and long rooms, cannot be said harmonious
+	- Nonetheless, the building gives off a "real greatness" (keeping in mind that this is written in 1960s). "When you stand down there among these fantastic pillars you are made vividly aware that they were created to support a gigantic building" (p. 119). Feeling that it was built for 'giants' before normal people moved in
+- Besides wanting to build housing at [[human scale]], what ever this means, there are technical constraints which shape the way homes are built - eg. the way the timber interacts or can be layed alongside bricks, calculating dimensions of material shipped in from elsewhere
+- Division between monumental and home architecture: monuments (eg. cathedrals) are built on much larger scales, with incredible materials in their size and weight and value; it isn't the same for domestic buildings, which are much more modest, for obvious practical matters
+- Klint working on the Hospital
+	- Impossible to make sense of the building by measuring in cms, but everything made sense in feet and inches; he also found that “many of the things we use in daily life were already standardised without our being aware of it. These included bed sheets, table cloths, napkins, plates, glasses…”
+	- Furniture is also standardised to the human body
+	- Klint’s goal was “to determine, by scientific method, the natural dimensions of architecture and to find out how they could be made to harmonise with each other again - not accordion got any predetermined ratio but by simple division with nothing left over”

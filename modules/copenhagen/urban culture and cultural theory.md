@@ -137,7 +137,7 @@ Architecture as a framework around human living
 - It isn't necessary to abandon rectangular forms, we need not get rid of them to support human life; it's easy to move through rectangular rooms and regular forms. 
 - *Even if life is chaotic and unpredictable, space doesn't need to be*
 
-### proximity and ocmmunity in jan gehl, life between buildings
+### proximity and community in jan gehl, life between buildings
 
 signification and architecture: from Barthes to Rasmussen
 - how does architecture come to make sense to people, how is it sensed in the mind and bodies of people in the 20th century? (Rasmussen)
@@ -181,11 +181,28 @@ Experience ('oplevelse') after functionalism:
 - Walking, standing, sitting...
 - Life should be able to **flow**, buildings should foster **well-being**
 
-### xx
+### the homosexual form of existence
 
+Series of *sites* where men meet
+![[Henning Bech, Where Men Meet#summary of the book]]
 
+**Train stations** are the entry gates to a city, and the city is a *refuge* for homosexuals. 
 
+**Community** is a kind of replacement for the family, and important for people to not be lonely
+- The city becomes the landscape because you don't have your own family (families live outside the city, in the suburbs). If you do not have a family, you are *lonely, or anonymous*.
+- Sites and aspects of community
+	- Pool tables, for example, as a place for gays/lesbians to meet and be in close proximity
 
+**Gay bars** are places where men can exercise their *gaze*, a visual reciprocity between people where consent is communicated. Gazing, visibility, is interesting because it is very un-restricted - it can see in far distances, and cannot (or hardly be) contained. 
+
+Ways of looking at others: from Gehl to Bech, from distraction to feitchisation
+
+Sociologist Georg Simmel *on the gaze as a source of reciprocity and social form*, gaze as the object of sociology (Soziologie, 1908).
+
+**The discotheque** is a concentration point for the *stagings* of the modern gay world, the homosexual existence is altogether a *staged* existence (p. 122). You feel like you are on a stage, and you play your part.
+In the 1960s-1970s, the disco is a mainstream culture, whereas homosexual culture is a counter-culture of some kind. Yet they intersect.
+
+Staging and **[[lifeworld]]**
 
 ## seminars
 
@@ -223,8 +240,21 @@ Ref. [presentation on human scale and architecture](https://docs.google.com/pres
 
 ### life between buildings, jahn gehl
 
-i) Analysis of urban culture at the Islands Brygge Havnebad (harbour bath)
+#### life between buildings: new haven and san salvador
 
+Quality of urban space
+- New Haven - seems like the quality is as bad as it could be for public life (wide, empty space, noisy, no human presence besides those who come with their cars specifically...), yet many people gather; so there is another force than urban space quality - a willingness? a tipping point/event? what is it? can low quality public spaces still harbour life?
+- eg in San Salvador in the middle of the highway, if food trucks decided to come, would people spend time there, at the fountain/park in the middle of the noisy round about?
+- Discussion points
+	- *Can urban life still happen in car dominated cities, or does it just happen in a different way?
+	- *Do Gehl's principles translate to every context, are they really that logical and obvious?*
+	- *Are high quality spaces really necessary for resultant activities?*
+	- *Are open shopping malls promoting or inhibiting contact*
+- Malls designed by Viennese architect wanting to recreate 'european' walkable streets in a car-centric American which had destroyed these spaces; Gehl took inspiration out of mall design, to relate them to phenomenons observed in (european/danish) city streets
+
+#### urban culture at Islands Brygge Havnebad
+ 
+ - ref. [slides][https://docs.google.com/presentation/d/18DoNCcJVZvoXUxRRIbQ0_3DvTIkhzlEKyKEerw9n0LM/edit?usp=sharing] 
 
 
 
@@ -236,60 +266,11 @@ i) Analysis of urban culture at the Islands Brygge Havnebad (harbour bath)
 
 ## readings
 
-#### *Semiology of the Urban*, Roland Barthes
-- [[Roland Barthes]] was a french philosopher, theorist, [[semiotics|semiotician]] 
-- *Semiology and the Urban*
-	- A text about the importance of semiology (the study of signs) in the city
-	- Qs: Signified and signifiers; Does [[signification]] mean the same thing as meaning?; Signifying spaces
-	- Introduces Kevin Lynch's way of interpreting a city, "in the same terms as the consciousness perceiving it" (p. 159). Lynch has semantic defintion of the urban based on discrete units (axes, nodes, edges, landmarks...)
-	- There is a conflict between the **rational** (scientific and calculated planning, utilitarian purposes, functional necessity reason) and **signification** (meaning assigned, subjectivity, 'semantic charge'). A city cannot be built on reason alone, there is another force out of the control of science and reason which shapes it. "it is growing daily more evident that a city is a tissue formed not of equal elements whose functions we can enumerate, but of strong and neutral elements, or ... of marked and unmarked elements" (p. 160)
-	- An example of the conflict between signification and reality: geographically, two neighbourhoods may be adjoining and share a physical border, thus be in proximity to one another; however in people's interpretations and imaginaries, these neighbourhoods are distinct and unrelated. 
-	- Barthes says that the "language of the city" must move from the metophorical (eg. "language of flowers") to the real, for which we need the technique of **symbols**
-	- **Symbolism, signified and signifiers**
-	- The city center is an empty focal point
+[[Roland Barthes, Semiology of the Urban]]
 
-- *The Eiffel Tower*
-	- Speaks about the omnipresence of the Tower, which is seen from every angle in Paris but also *sees* everything. Barthes gives human-like qualities and senses to the Tower, "touch", "sees", is seen. Later, he also gives super-human or god-like qualities to the Tower (p. 170), it is "neither brain nor organ... the Tower is merely the witness, the gaze which discreetly fixes, with its slender signal, the whole structure - geographical, historical, and social - of Paris space" (p. 170)
-	- The Tower is also a *symbol*, "belongs to the universal language of travel". Everyone knows about the tower, it lives in our imaginations, its a "symbol of Paris, of modernity, of communication, of science or of the 19th century".
-	- As a symbol, it is powerful. It is not purely **functional** (which was one of its critiques before/when/after it was built), and it does not have any material use. But, it has power through its symbolism. The meaning we (society) attaches to it changes, "who can say what the Tower will  be for humanity tomorrow?" (p. 166). The Tower then aquires a mythical quality ("the overwhelming muth of the Tower" (p. 166)). Having no use is rarely 'allowed', as all planned urban structures are meant to have a purpose
-	- Talks about the concept of **panorama**, which is "an image we attempt to decipher, in which we try to recognise known sites, to identify landmarks". The Tower offers a panorama (with itself at the center). When looking at a panorama, you see what yourself know, and "decipher" what you are looking at such that you "find signs within it" (p. 168)
-	- Gives distinct "functions of human life" starting from the level of the Eiffel tower, down to the ground level, functions ranging from "pleasure" of Montmartre to business at the center, and finally study, spreading into residential, green space, and blue-collar work (p. 170)
-	- The way he speaks of the Tower as an omnipresent figure seeing all and being seen by all reminds me of a type of surveillance state mechanism, 1984, dystopian Brave New World. Is this what he hints at, when he says "*the Tower ultimately reunites with the essential function of all major human sites: [[autarchy]]*" (p. 172) ?
-	
- #### *Experiencing architecture*, steen eiler rasmussen, 1962
+[[Steen Eiler Rasmussen, Experiencing Architecture]]
 
-**Scale and Proportion** (chap. V)
-- Humans like things that are *harmonious*, but what is harmony? Harmony relates to **scale and proportion**mathematics, (correct) proportions; harmony can be produced by following mathematical ratios, there is a rationale/explication behind harmony. People *want and love* harmony
-- Comparison of architecture to music: they both have simple dimensions (ie. the basics of what is harmonious). Archi is "frozen music"
-	- Two forces need to cooperate in order to be harmonious: in music, two waves with a frequency ratio of 15:16 will produce "weird, quavering, uneven sequence"; There are no wavelenghts in archi, so irregularities and unharmonious things must be discovered by careful **measuring**
-- [[golden ratio]] mathematical describes what is harmonious or beautiful, even "holy". eg. the pentagram
-- 1920s Scandanavia: move from "romantic tendencies in architecture of the previous generation and to **formulate clear aesthetic principles**"
-	- Formualte -> formula -> mathematics
-	- BUT, when a building is planned in perfect proportions (eg. Copenhagen philharmonic building), you can't experience the golden ratio and the "interrelationship in the proportions" like you can in progressive, **natural** phenomena like a snail shell
-- Everyone wants archi that is 'simple in proportions', and beautiful; the ==Palladio 'Villa Foscari'== is built with 3:4, 4:4, 4:6 proportions (often found in music) and this can be experienced in the villa - not the exact proportions but the idea behind them, of a "noble, firmly integrated composition in which each room presents and ideal form within a greater whole", everything is related in size
-- ==[[Le Corbusier]]'s Villa in Garches==: although proportions have been planned, the harsh horizontal and vertical divisions between floors and window panes remove harmony; "Le Corbusier himself has stressed the fact that the house is divided in the ratio 5:8, approximating the golden section, but he has hidden it so well that probably no one who has"
-- Study of the human body: "Le Modulor" is Le Corbusier's study of bodily proportions, the ideal height for a man and the proportions of body parts to height giving the golden ratio, have convinced architects of the importance of *height* . Le Corbusier determined 183cm as the ideal/average height, and from this designed his buildings (fearing that increasing height worldwide would increasingly make his buildings small - LOL)
-- BUT, simple proportions do not always mean harmonious proportions! By *simplifying* everything, you *lose harmony*
-- Employing Le Modulor to design a block in Marseilles:
-	- Height of smallest room is 226cm, which is 183cm (ideal height) + lenght of raised arms
-	- "The box is divided into innumerable small cells, the apartments, consisting of small rooms with ceiling heights corresponding to the Modulor's raised arms height of 226cm, and larger living rooms double that height"
-	- --> extraordinarily low ceilings, narrow and long rooms, cannot be said harmonious
-	- Nonetheless, the building gives off a "real greatness" (keeping in mind that this is written in 1960s). "When you stand down there among these fantastic pillars you are made vividly aware that they were created to support a gigantic building" (p. 119). Feeling that it was built for 'giants' before normal people moved in
-- Besides wanting to build housing at [[human scale]], what ever this means, there are technical constraints which shape the way homes are built - eg. the way the timber interacts or can be layed alongside bricks, calculating dimensions of material shipped in from elsewhere
-- Division between monumental and home architecture: monuments (eg. cathedrals) are built on much larger scales, with incredible materials in their size and weight and value; it isn't the same for domestic buildings, which are much more modest, for obvious practical matters
-- Klint working on the Hospital
-	- Impossible to make sense of the building by measuring in cms, but everything made sense in feet and inches; he also found that “many of the things we use in daily life were already standardised without our being aware of it. These included bed sheets, table cloths, napkins, plates, glasses…”
-	- Furniture is also standardised to the human body
-	- Klint’s goal was “to determine, by scientific method, the natural dimensions of architecture and to find out how they could be made to harmonise with each other again - not accordion got any predetermined ratio but by simple division with nothing left over”
+[[Jan Gehl, Life Between Buildings]]
 
- #### *life between buildings*, jan gehl, 2001
-- Three types of outdoor activities
-	- *Necessary, optional and social*; necessary activities will happen regardless of what the physical environment looks like (eg. going to school or work, to other past time activities, to groceries or appointments...) but optional activities are dependent on the physical environment and external factors like weather (eg. going to cafes, parks, strolling for pleasure)
-	- Social activities are "all activities that depend on the *presence of others* in public spaces", such as *passive contact* (seeing and hearing other people on the street). The more people spend time outside in public, the more frequently they meet and interact with others
-	- Architects and planners can design the physical space such that they increase social encounters by making people want to spend time outside
-- Outdoor activities and quality of outdoor space
-	- 
-- Spaces for walking, places for staying
-- Sitting
-- A pleasant place in every respect
-- Soft edges
+[[Henning Bech, Where Men Meet]]
+- why is it that we only mention *men* when it comes to being gay, why are women never mentioned? i understand that from a societial/cultural point of view, the interpretation or stigma may be different, but why never mention women? gaze, cruising isn't a thing for women... why?

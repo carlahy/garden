@@ -119,6 +119,54 @@ Goals
 - Generic city: Koolhaas
 - Cultural planning: Richard Florida, the Bilbao effect (using culture as a catalyst for urban development)
 
+### city squares
+
+*Place de la concorde*
+- "spirit of france, it is an x-ray of the french people" -Malaparte
+- it follows the principles of Descartes: cold, logical, rationalistic, mathematical, meticulous
+
+Perspectives on the city square
+- 'plaza' is always something characteristic of the city, and of *life* in the city
+- *analytical* perspectives: its history, sociology (social composition), anthropolgy (patterns on life), geography (location, topography), architecture, art (sculptures, screens), representations (in literature, paintings, movies), political functions (Ukrain, arab spring)
+- *aesthetical and cultural* perspectives: location (in the centre or periphery), scale (big (may represent agrophobio, or fear of open spaces), small, pocket square), stability/mobility, closed/open, homogeneous/heterogeneous, colour and light, name of the square (history puts its mark on names and reflects political objectives, eg. place Royale -> place de la Revolution -> place de la Concorde)
+
+*[[agora]]*, ancient greece
+- ways of articulating, or celebrating the square: 
+	- a procession
+	- a competition
+	- a dance
+
+*forum and imperial fora*, ancient rome
+- a new emphasis on the urban totality: an ensemble of squares
+- first treatise on urban architecture by Vitruvius
+
+*medieval market*, middle ages
+- fall of rome and into walled medieval cities
+- urban culture of antiquity disappeared, the forum (rome) is turned into a goat market
+- medieval market serves primarily useful functions, they are complex and intimate
+- there is an oral culture (when market starts and stops, what you are or aren't allowed to sell, there is a town crier)
+- increasing homogeneity, with an integration of the market square with surroundings through *arcades* for example
+
+17th century squares
+- Covent garden, London; Plaza Mayor, Spain; Place des Vosges, Paris
+- Emergence of 'royal' squares, for upper and royal classes who can enjoy the arcades around the square
+
+*residential* square, 18th century england
+- Soho Square; what is characteristic of residential squares is the private garden in the middle that is available for the residents of the square who have a key
+- it has no representative function
+
+*panorama* in the square
+- gives a 360 view of the cityscape ('I live there!') or landscapes (Alps), warns of danger (wars, fires)
+
+*[[postmodernism|postmodern]] square*
+- eg. Piazza d'Italia, New Orleans
+- eg. Las Vegas, a city of signs; the piazza is 'unamerican', americans feel awkward sitting in a square, and should instead be at home in front of the tv; public squares are meant for public and communal use, empty piazzas are eery
+- double coated square, *almost humoristic interplay between past and present models
+
+*city of the captive globe* Koolhas:
+- " a square is the opposite of a monument, it has no solidity, no volume. A kind of pure space with no event, almost nothing to name about it" - SMLXL
+
+
 ## seminars
 
 ### seminar 1
