@@ -20,6 +20,7 @@
 	- urban transition processes
 	- **green gentrification** - You cannot really speak about gentrification in Nordhavn, because the neighbourhood is being built from the ground up since the last decade. Thus, no one has been displaced, and the neighbourhood is built for middle and upper classes, meaning that there is no room for socially disadvantaged communities to be there.
 	- **governance** - from research proposal, "These barriers are influenced by institutional context, ie. the `formal and informal rules of a governance system that shapes human choices, behaviours and interactions` (Wolff et al. 2022)" ref [[@wolff2022conceptualizing]]
+	- why there is such a **uniform** vision
 - Nordhavn 
 	- Seeing a similar transformation as Islands Brygge, which was the first harbour bath to open in Copenhagen (2002, by the mayor who wanted to show the cleanliness of the water; people thought they wouldn't be used extensively (?)). An industrial site that transformed into an attractive neighbourhood
 	- "But this sustainable utopia isn’t without its flaws. Even with a small amount of social housing on offer, its sky-high property prices – around 3.5 times higher than the rest of Copenhagen – have earnt it the nickname `rich man’s ghetto`" - [independent article][https://www.independent.co.uk/climate-change/sustainable-living/copenhagen-nordhavn-neighbourhood-guide-sustainable-b1970816.html], ref. @ganatra_2021

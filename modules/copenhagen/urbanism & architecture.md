@@ -309,4 +309,11 @@ Aesthetics is about **scale reduction** (?)
 - City signs always show a *"sterile space"*, where dirt, homelessness, elderly and disabled, trash and can collecters are out of view
 
 #### daniela sandler, *incarnate politics: the rhetorics of german reunification in the architecture of berlin*
-- tldr
+
+
+#### lane, *national romanticism: new capitals*,
+
+- Need to create a national capital meant there as a need for a national architecture that was "modern, identified wiht history (but not with the history of the old nobility and old princedoms), and clearly sumbolic of a new unity in the modern era" 
+
+#### dovey and fisher, *designing for adaptation: the school as sociological spatial assemblage*
+- 

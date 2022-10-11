@@ -1,28 +1,34 @@
-- [[#notes|notes]]
-	- [[#notes#(intro) function and signification in modern urban culture|(intro) function and signification in modern urban culture]]
-		- [[#(intro) function and signification in modern urban culture#definitions and dimensions of the concept of culture|definitions and dimensions of the concept of culture]]
-		- [[#(intro) function and signification in modern urban culture#roland barthes|roland barthes]]
-		- [[#(intro) function and signification in modern urban culture#humanistic urban studies: the urban dimension|humanistic urban studies: the urban dimension]]
+- [[#(intro) function and signification in modern urban culture|(intro) function and signification in modern urban culture]]
+	- [[#(intro) function and signification in modern urban culture#definitions and dimensions of the concept of culture|definitions and dimensions of the concept of culture]]
+	- [[#(intro) function and signification in modern urban culture#roland barthes|roland barthes]]
+	- [[#(intro) function and signification in modern urban culture#humanistic urban studies: the urban dimension|humanistic urban studies: the urban dimension]]
 - [[#(part 1) perception and lifeworld in copenhagen|(part 1) perception and lifeworld in copenhagen]]
-	- [[#(part 1) perception and lifeworld in copenhagen#architectural perception and experience in Steen Eiler Rasmussen|architectural perception and experience in Steen Eiler Rasmussen]]
-		- [[#architectural perception and experience in Steen Eiler Rasmussen#I. the copenhagen school|I. the copenhagen school]]
-		- [[#architectural perception and experience in Steen Eiler Rasmussen#II. rasmussen and theory: three spatial principles|II. rasmussen and theory: three spatial principles]]
-	- [[#(part 1) perception and lifeworld in copenhagen#proximite and ocmmunity in jan gehl, life between buildings|proximite and ocmmunity in jan gehl, life between buildings]]
+- [[#(part 1) perception and lifeworld in copenhagen#architectural perception and experience in Steen Eiler Rasmussen|architectural perception and experience in Steen Eiler Rasmussen]]
+	- [[#architectural perception and experience in Steen Eiler Rasmussen#I. the copenhagen school|I. the copenhagen school]]
+	- [[#architectural perception and experience in Steen Eiler Rasmussen#II. rasmussen and theory: three spatial principles|II. rasmussen and theory: three spatial principles]]
+- [[#(part 1) perception and lifeworld in copenhagen#proximity and community in jan gehl, life between buildings|proximity and community in jan gehl, life between buildings]]
+	- [[#proximity and community in jan gehl, life between buildings#jahn gehl on urban culture|jahn gehl on urban culture]]
+	- [[#proximity and community in jan gehl, life between buildings#small scale design|small scale design]]
+- [[#(part 1) perception and lifeworld in copenhagen#the homosexual form of existence|the homosexual form of existence]]
+	- [[#the homosexual form of existence#I. empirical (urban culture)|I. empirical (urban culture)]]
+	- [[#the homosexual form of existence#II. form of existence and lifeworld (cultural theory)|II. form of existence and lifeworld (cultural theory)]]
+- [[#(part 1) perception and lifeworld in copenhagen#ramparts and reflections in the urban lifeworld|ramparts and reflections in the urban lifeworld]]
+	- [[#ramparts and reflections in the urban lifeworld#I. historicizing cultural representations (urban culture)|I. historicizing cultural representations (urban culture)]]
+	- [[#ramparts and reflections in the urban lifeworld#II.  XXX (cultural theory)|II.  XXX (cultural theory)]]
 - [[#seminars|seminars]]
-	- [[#seminars#intro seminar|intro seminar]]
-	- [[#seminars#experiencing architecture, steen eiler rasmussen|experiencing architecture, steen eiler rasmussen]]
-		- [[#experiencing architecture, steen eiler rasmussen#architecture and the layman|architecture and the layman]]
-		- [[#experiencing architecture, steen eiler rasmussen#human scale vs. dimensions of architecture and public space|human scale vs. dimensions of architecture and public space]]
-	- [[#seminars#life between buildings, jahn gehl|life between buildings, jahn gehl]]
-	- [[#seminars#l4|l4]]
-	- [[#seminars#l5|l5]]
+- [[#seminars#intro seminar|intro seminar]]
+- [[#seminars#experiencing architecture, steen eiler rasmussen|experiencing architecture, steen eiler rasmussen]]
+	- [[#experiencing architecture, steen eiler rasmussen#architecture and the layman|architecture and the layman]]
+	- [[#experiencing architecture, steen eiler rasmussen#human scale vs. dimensions of architecture and public space|human scale vs. dimensions of architecture and public space]]
+- [[#seminars#life between buildings, jahn gehl|life between buildings, jahn gehl]]
+	- [[#life between buildings, jahn gehl#life between buildings: new haven and san salvador|life between buildings: new haven and san salvador]]
+	- [[#life between buildings, jahn gehl#urban culture at Islands Brygge Havnebad|urban culture at Islands Brygge Havnebad]]
+- [[#seminars#l4|l4]]
+- [[#seminars#l5|l5]]
 - [[#readings|readings]]
-		- [[#l5#*Semiology of the Urban*, Roland Barthes|*Semiology of the Urban*, Roland Barthes]]
-		- [[#l5#*Experiencing architecture*, steen eiler rasmussen, 1962|*Experiencing architecture*, steen eiler rasmussen, 1962]]
-		- [[#l5#*life between buildings*, jan gehl, 2001|*life between buildings*, jan gehl, 2001]]
 
 
-## notes
+# notes
 
 The course establishes the basic principles of a humanistic ([[humanities]]) approach to the city, and uses [[cultural theory]] from the 1850s to today in order to understand the city as an **[[urbanity]]**
 
@@ -75,9 +81,9 @@ Relevant strategies for delimiting an object of study: reconstruction of fragmen
 
 Interpretation: a critical strategy in urban culture and societies
 
-## (part 1) perception and lifeworld in copenhagen
+# (part 1) perception and lifeworld in copenhagen
 
-### architectural perception and experience in Steen Eiler Rasmussen
+## architectural perception and experience in Steen Eiler Rasmussen
 
 The argument: in order to understand, design, improve cities, you have to think about human factors. Things should *work* for people (function), but space must also have a signification (*meaning*). Roland Barthes = architecture is FUNCTION and FANTASY.
 
@@ -137,7 +143,7 @@ Architecture as a framework around human living
 - It isn't necessary to abandon rectangular forms, we need not get rid of them to support human life; it's easy to move through rectangular rooms and regular forms. 
 - *Even if life is chaotic and unpredictable, space doesn't need to be*
 
-### proximity and community in jan gehl, life between buildings
+## proximity and community in jan gehl, life between buildings
 
 signification and architecture: from Barthes to Rasmussen
 - how does architecture come to make sense to people, how is it sensed in the mind and bodies of people in the 20th century? (Rasmussen)
@@ -181,7 +187,9 @@ Experience ('oplevelse') after functionalism:
 - Walking, standing, sitting...
 - Life should be able to **flow**, buildings should foster **well-being**
 
-### the homosexual form of existence
+## the homosexual form of existence
+
+#### I. empirical (urban culture)
 
 Series of *sites* where men meet
 ![[Henning Bech, Where Men Meet#summary of the book]]
@@ -200,13 +208,77 @@ Ways of looking at others: from Gehl to Bech, from distraction to feitchisation
 Sociologist Georg Simmel *on the gaze as a source of reciprocity and social form*, gaze as the object of sociology (Soziologie, 1908).
 
 **The discotheque** is a concentration point for the *stagings* of the modern gay world, the homosexual existence is altogether a *staged* existence (p. 122). You feel like you are on a stage, and you play your part.
-In the 1960s-1970s, the disco is a mainstream culture, whereas homosexual culture is a counter-culture of some kind. Yet they intersect.
+In the 1960s-1970s, the disco is a mainstream, consumer culture, whereas homosexual culture is a counter/sub-culture of some kind. Yet they intersect.
 
-Staging and **[[lifeworld]]**
+Staging and **[[lifeworld]]**: the disco is a "space of energy, high-energy, a space for discharging and recharging, for motoric activity"; not necessarily space of sexual energy, but of *sensual* energy; not explicitely sexuality, but the electric metaphore of '*energy*'. Discotheque is not only a commercial place. You are invited to *stylise yourself* and bring yourself to a higher level of intensity and energy.
 
-## seminars
+Meetings and groups: 
+- Plurality and urban life
 
-### intro seminar
+**Playing a role and condensing modernity**
+- a "born existentialist", a homosexual is always looking for himself. On one side, you are looking for an identity that is not stable, but on the other side, exploring many ways of being (eg. disco). If you cannot be in one single role, then might as well try out many roles.
+- People are not afraid of dressing up
+
+#### II. form of existence and lifeworld (cultural theory)
+
+Male homosexuality as a form of existence (lifeworld) 
+- Michel Foucault had an interesting view on the history of sexuality: it is not the history of repression, but of creation/realisation; the violence, policing, experiments and protesting have brough homosexuality into society's view
+
+An urban lifeworld?
+- The railway as the site of modernity and homosexuality
+- Bech Henning - the lifeworld in modern time is urban and spatial, and one of leisure
+
+
+## ramparts and reflections in the urban lifeworld
+
+Summary:
+- Roland Barthes: emphasis on signification
+	- Perception helps create more abstract ways of thinking
+- Jan Gehl: architect, moving into urban life
+
+#### I. historicizing cultural representations (urban culture)
+
+An image is a layer, that is not reality, but allows us to interpret and represent the city in a certain way. It's about *re*-presentation, not a reality, but an approximation and *interpretation*.
+
+The most interesting part of an image, is that the re-presentations that allow us to create some distance, while being part of the scene.
+
+
+### Urbanity and aesthetics: more than city and art
+
+- **Reality** -> re-presentation
+- **City** -> urbanity
+- **Art** -> aesthetic; to sense; it is not a judgement on beauty, but a human activity consisting in sensory impressions and the processing of these impressions
+
+How are senses used in the late urban modernity? (ref. [[Medsen and Plunz, The Urban Lifeworld]])
+
+Comparative literature and Modern culture (literature + trans-disciplinary arts and culture studies)
+
+### Tivoli
+A city within the city, a world within a world. Gated and guarded
+- Critiqued as being superficial, commercialised and nothing to do with Copenhagen
+- But from Martin Zerlang's analysis, this is not so, especially when it was just created. Tivoli was a place that taught you new manners about modernity, learning about new technologies, ways of living, being together with others, by way of entertainment and amusement 
+
+
+#### II.  Overlooking (cultural theory)
+
+Overlooking - what does it mean?
+- Surveying
+- Monitoring: a power dimension
+- Ignoring
+- Sensing otherwise
+
+
+Christiania ![[Medsen and Plunz, The Urban Lifeworld#against power]]
+
+
+
+# (part two) urbanising the concept of lifeworld
+
+
+
+# seminars
+
+## intro seminar
 
 SIGN = SIGNIFIANT / SIGNIFIÉ (signifier/signified)
 
@@ -218,7 +290,7 @@ eg. 'Ford T' designates a car, but used to have a different signification than i
 A city is always moving, changing, evolving, even if it might look the same, because the built form does not change as fast as society may.
 
 
-### experiencing architecture, steen eiler rasmussen
+## experiencing architecture, steen eiler rasmussen
 
 #### architecture and the layman
 
@@ -238,7 +310,7 @@ A city is always moving, changing, evolving, even if it might look the same, bec
 
 Ref. [presentation on human scale and architecture](https://docs.google.com/presentation/d/1KH4BfxA_ULWYbKdpOkx7s2KrNhUJ31uK12zEPc4-xcI/edit?usp=sharing)
 
-### life between buildings, jahn gehl
+## life between buildings, jahn gehl
 
 #### life between buildings: new haven and san salvador
 
@@ -258,13 +330,7 @@ Quality of urban space
 
 
 
-### l4
-
-### l5
-
-
-
-## readings
+# readings
 
 [[Roland Barthes, Semiology of the Urban]]
 
@@ -274,3 +340,8 @@ Quality of urban space
 
 [[Henning Bech, Where Men Meet]]
 - why is it that we only mention *men* when it comes to being gay, why are women never mentioned? i understand that from a societial/cultural point of view, the interpretation or stigma may be different, but why never mention women? gaze, cruising isn't a thing for women... why?
+
+[[Medsen and Plunz, The Urban Lifeworld]]
+
+[[Georges Perec, Especes d'Espaces]]
+

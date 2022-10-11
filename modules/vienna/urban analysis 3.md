@@ -18,6 +18,10 @@
 ![[Pasted image 20220511095524.png]]
 ![[Pasted image 20220511095501.png]]
 
+#### problem statement
+
+![[urban_analysis_problemstatement.png]]
+
 ### research design
 ![[research design.png]]
 - what is unit of analysis? eg. policy, community, space...
@@ -161,7 +165,6 @@ The theoretical frameworks which will guide my research are urban environmental 
 
 ### methodology
 *the logic guiding your choice of methods*
-#### methodologY
 
 methodology: the rationale behind the selection of methods
 

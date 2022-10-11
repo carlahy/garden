@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "331d1806849e788d",
+        "id": "d4c8beafef31422a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "modules/copenhagen/urban culture and cultural theory.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -53,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.49999809265137,
-    "collapsed": true
+    "width": 366.50397300720215
   },
   "right": {
     "id": "3815cde1029a3eab",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modules/copenhagen/urban culture and cultural theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "331d1806849e788d",
+  "active": "a2ba333910151e71",
   "lastOpenFiles": [
-    "concepts/lifeworld.md",
+    "imgs/urban_analysis_problemstatement.png",
+    "modules/vienna/urban analysis 3.md",
+    "modules/copenhagen/readings/Medsen and Plunz, The Urban Lifeworld.md",
+    "modules/copenhagen/urbanism & architecture.md",
     "modules/copenhagen/urban culture and cultural theory.md",
+    "urbanism and.md",
     "modules/copenhagen/readings/Henning Bech, Where Men Meet.md",
     "modules/thesis/thesis.md",
-    "Urban culture.md",
-    "Roland Barthes, Semiology of the Urban.md",
-    "modules/copenhagen/readings/Steen Eiler Rasmussen, Experiencing Architecture.md",
-    "modules/copenhagen/readings/Jan Gehl, Life Between Buildings.md",
-    "homosexual.md",
-    "academic papers/@jensen2015harbour.md"
+    "concepts/lifeworld.md",
+    "concepts/Urban culture.md"
   ]
 }

@@ -1,6 +1,8 @@
 {
-  "baseFontSize": 30,
-  "cssTheme": "Things",
+  "baseFontSize": 17,
+  "cssTheme": "Obsidianite",
   "textFontFamily": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "translucency": false
 }
