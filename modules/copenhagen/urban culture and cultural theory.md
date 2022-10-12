@@ -1,31 +1,28 @@
-- [[#(intro) function and signification in modern urban culture|(intro) function and signification in modern urban culture]]
-	- [[#(intro) function and signification in modern urban culture#definitions and dimensions of the concept of culture|definitions and dimensions of the concept of culture]]
-	- [[#(intro) function and signification in modern urban culture#roland barthes|roland barthes]]
-	- [[#(intro) function and signification in modern urban culture#humanistic urban studies: the urban dimension|humanistic urban studies: the urban dimension]]
-- [[#(part 1) perception and lifeworld in copenhagen|(part 1) perception and lifeworld in copenhagen]]
-- [[#(part 1) perception and lifeworld in copenhagen#architectural perception and experience in Steen Eiler Rasmussen|architectural perception and experience in Steen Eiler Rasmussen]]
-	- [[#architectural perception and experience in Steen Eiler Rasmussen#I. the copenhagen school|I. the copenhagen school]]
-	- [[#architectural perception and experience in Steen Eiler Rasmussen#II. rasmussen and theory: three spatial principles|II. rasmussen and theory: three spatial principles]]
-- [[#(part 1) perception and lifeworld in copenhagen#proximity and community in jan gehl, life between buildings|proximity and community in jan gehl, life between buildings]]
-	- [[#proximity and community in jan gehl, life between buildings#jahn gehl on urban culture|jahn gehl on urban culture]]
-	- [[#proximity and community in jan gehl, life between buildings#small scale design|small scale design]]
-- [[#(part 1) perception and lifeworld in copenhagen#the homosexual form of existence|the homosexual form of existence]]
-	- [[#the homosexual form of existence#I. empirical (urban culture)|I. empirical (urban culture)]]
-	- [[#the homosexual form of existence#II. form of existence and lifeworld (cultural theory)|II. form of existence and lifeworld (cultural theory)]]
-- [[#(part 1) perception and lifeworld in copenhagen#ramparts and reflections in the urban lifeworld|ramparts and reflections in the urban lifeworld]]
-	- [[#ramparts and reflections in the urban lifeworld#I. historicizing cultural representations (urban culture)|I. historicizing cultural representations (urban culture)]]
-	- [[#ramparts and reflections in the urban lifeworld#II.  XXX (cultural theory)|II.  XXX (cultural theory)]]
-- [[#seminars|seminars]]
-- [[#seminars#intro seminar|intro seminar]]
-- [[#seminars#experiencing architecture, steen eiler rasmussen|experiencing architecture, steen eiler rasmussen]]
-	- [[#experiencing architecture, steen eiler rasmussen#architecture and the layman|architecture and the layman]]
-	- [[#experiencing architecture, steen eiler rasmussen#human scale vs. dimensions of architecture and public space|human scale vs. dimensions of architecture and public space]]
-- [[#seminars#life between buildings, jahn gehl|life between buildings, jahn gehl]]
-	- [[#life between buildings, jahn gehl#life between buildings: new haven and san salvador|life between buildings: new haven and san salvador]]
-	- [[#life between buildings, jahn gehl#urban culture at Islands Brygge Havnebad|urban culture at Islands Brygge Havnebad]]
-- [[#seminars#l4|l4]]
-- [[#seminars#l5|l5]]
-- [[#readings|readings]]
+- [[#Function and Signification in Modern Urban Culture (intro)|Function and Signification in Modern Urban Culture (intro)]]
+	- [[#Function and Signification in Modern Urban Culture (intro)#definitions and dimensions of the concept of culture|definitions and dimensions of the concept of culture]]
+	- [[#Function and Signification in Modern Urban Culture (intro)#roland barthes|roland barthes]]
+	- [[#Function and Signification in Modern Urban Culture (intro)#humanistic urban studies: the urban dimension|humanistic urban studies: the urban dimension]]
+- [[#Architectural Perception and Experience in Steen Eiler Rasmussen|Architectural Perception and Experience in Steen Eiler Rasmussen]]
+	- [[#Function and Signification in Modern Urban Culture (intro)#I. the copenhagen school|I. the copenhagen school]]
+	- [[#Function and Signification in Modern Urban Culture (intro)#II. rasmussen and theory: three spatial principles|II. rasmussen and theory: three spatial principles]]
+- [[#Proximity and Community in Jan Gehl: Life Between Buildings|Proximity and Community in Jan Gehl: Life Between Buildings]]
+	- [[#Function and Signification in Modern Urban Culture (intro)#jahn gehl on urban culture|jahn gehl on urban culture]]
+	- [[#Function and Signification in Modern Urban Culture (intro)#small scale design|small scale design]]
+- [[#The Homosexual Form of Existence|The Homosexual Form of Existence]]
+	- [[#Function and Signification in Modern Urban Culture (intro)#I. empirical (urban culture)|I. empirical (urban culture)]]
+	- [[#Function and Signification in Modern Urban Culture (intro)#II. form of existence and lifeworld (cultural theory)|II. form of existence and lifeworld (cultural theory)]]
+- [[#Ramparts and Reflections in the Urban Lifeworld|Ramparts and Reflections in the Urban Lifeworld]]
+	- [[#Function and Signification in Modern Urban Culture (intro)#I. historicizing cultural representations (urban culture)|I. historicizing cultural representations (urban culture)]]
+- [[#Ramparts and Reflections in the Urban Lifeworld#Urbanity and aesthetics: more than city and art|Urbanity and aesthetics: more than city and art]]
+	- [[#Urbanity and aesthetics: more than city and art#II.  Overlooking (cultural theory)|II.  Overlooking (cultural theory)]]
+- [[#Concrete Spaces and Written Traces|Concrete Spaces and Written Traces]]
+- [[#intro seminar|intro seminar]]
+- [[#experiencing architecture, steen eiler rasmussen|experiencing architecture, steen eiler rasmussen]]
+	- [[#Urbanity and aesthetics: more than city and art#architecture and the layman|architecture and the layman]]
+	- [[#Urbanity and aesthetics: more than city and art#human scale vs. dimensions of architecture and public space|human scale vs. dimensions of architecture and public space]]
+- [[#life between buildings, jahn gehl|life between buildings, jahn gehl]]
+	- [[#Urbanity and aesthetics: more than city and art#life between buildings: new haven and san salvador|life between buildings: new haven and san salvador]]
+	- [[#Urbanity and aesthetics: more than city and art#urban culture at Islands Brygge Havnebad|urban culture at Islands Brygge Havnebad]]
 
 
 # notes
@@ -39,7 +36,7 @@ II. Urban culture
 III. Cultural theory
 
 
-### (intro) function and signification in modern urban culture
+### Function and Signification in Modern Urban Culture (intro)
 
 [[Urban culture]] - the object of analysis
 [[cultural theory]] - the approach, or tool
@@ -83,7 +80,7 @@ Interpretation: a critical strategy in urban culture and societies
 
 # (part 1) perception and lifeworld in copenhagen
 
-## architectural perception and experience in Steen Eiler Rasmussen
+## Architectural Perception and Experience in Steen Eiler Rasmussen
 
 The argument: in order to understand, design, improve cities, you have to think about human factors. Things should *work* for people (function), but space must also have a signification (*meaning*). Roland Barthes = architecture is FUNCTION and FANTASY.
 
@@ -143,7 +140,7 @@ Architecture as a framework around human living
 - It isn't necessary to abandon rectangular forms, we need not get rid of them to support human life; it's easy to move through rectangular rooms and regular forms. 
 - *Even if life is chaotic and unpredictable, space doesn't need to be*
 
-## proximity and community in jan gehl, life between buildings
+## Proximity and Community in Jan Gehl: Life Between Buildings
 
 signification and architecture: from Barthes to Rasmussen
 - how does architecture come to make sense to people, how is it sensed in the mind and bodies of people in the 20th century? (Rasmussen)
@@ -187,7 +184,7 @@ Experience ('oplevelse') after functionalism:
 - Walking, standing, sitting...
 - Life should be able to **flow**, buildings should foster **well-being**
 
-## the homosexual form of existence
+## The Homosexual Form of Existence
 
 #### I. empirical (urban culture)
 
@@ -229,7 +226,7 @@ An urban lifeworld?
 - Bech Henning - the lifeworld in modern time is urban and spatial, and one of leisure
 
 
-## ramparts and reflections in the urban lifeworld
+## Ramparts and Reflections in the Urban Lifeworld
 
 Summary:
 - Roland Barthes: emphasis on signification
@@ -253,7 +250,8 @@ How are senses used in the late urban modernity? (ref. [[Medsen and Plunz, The U
 
 Comparative literature and Modern culture (literature + trans-disciplinary arts and culture studies)
 
-### Tivoli
+**TIVOLI**
+
 A city within the city, a world within a world. Gated and guarded
 - Critiqued as being superficial, commercialised and nothing to do with Copenhagen
 - But from Martin Zerlang's analysis, this is not so, especially when it was just created. Tivoli was a place that taught you new manners about modernity, learning about new technologies, ways of living, being together with others, by way of entertainment and amusement 
@@ -268,12 +266,67 @@ Overlooking - what does it mean?
 - Sensing otherwise
 
 
-Christiania ![[Medsen and Plunz, The Urban Lifeworld#against power]]
-
-
+**CHRISTIANIA** ![[Medsen and Plunz, The Urban Lifeworld#against power]]
 
 # (part two) urbanising the concept of lifeworld
 
+## Concrete Spaces and Written Traces 
+in Georges Perec, *Espèces d'Espaces*
+
+How to speak about the city, according to Perec: "chasser toute idée préconçue. Cesser de penser en termes tout preparés, oublier ce qu'ont dit les urbanistes et les sociologues" (p. 85)
+- Not to go against sociologists and urbanists, but to be creative, invent new methods that go beyond the 'planning ways' of interpreting a city and find what makes the city, a *city*
+
+**Perec's biography**
+- Childhood 
+	- Lost his father in WWII, mother murdered in Holocaust
+	- 'Risk' of biographical readings - his writings aren't only about these tragedies
+- Part of the group Oulipo
+	- Ouvroir de littérature potentielle: every time you write a piece of work, you give yourself a constraint, a rule, in order to submit yourself under this rule; the idea is that it would allow you to express yourself, in a way that would not be possible without this rule
+
+### I. Spaces Close at Hand, or Further Away (urban culture)
+
+##### Intimate spaces
+
+**A writer and their page**: the beginning of space, which has to do with *words*. Spaces generated on a sheet of paper, letters forming words
+
+**The bed**: an intimate space, sociologically important ("on passe plus du tiers de sa vie dans un lit")
+
+Moving upwards amongst the vital spaces of everyday life... as he attempts to see and write about *abstract and complex* spaces
+
+##### Complex spaces
+
+**Apartment buildings**: looking up and seeing the intimate spaces of people, 
+
+**The street**: 'travaux pratiques', observation of the street
+
+**Places**: a 12-year project in which Perec would visit, physically or mentally, places that were significant to him, put the description in an envelope, and repeat the experience every year for these same places to see how the places evolved. This would allow him to see the evolution of:
+- the places
+- his memories
+- his writings
+
+
+### II.  Dwelling and Moving (cultural theory)
+
+**HABITÉ** -> 'dwelling'
+... in the page; "j'écris: j'habite ma feuille de papier, je l'investis, je la parcours"
+
+Perec is looking for the obvious, because we don't see the obvious
+
+## Collecting Rooms: Georges Perec and Temporary Personal Spaces
+Arshia Eghbali
+
+*"I would like there to exist places that are stable... places that might be points of reference... Such places don't exist, and its because they don't exist that space becomes a question. Space is a doubt: I have constantly to mark it"*
+
+What does it mean to live in a room?
+- "is it when you've put your three pairs of socks to soak in a pink plastic bowl?" what makes a room?
+
+**Collecting** rooms:
+- Rooms that collect traces: all my belongings... "this is what I call my fortune"
+- Collecting a series of rooms
+
+**Looking inside** homes:
+- The apartment building
+- A sort of [[voyeur|voyeurism]] 
 
 
 # seminars
@@ -343,5 +396,5 @@ Quality of urban space
 
 [[Medsen and Plunz, The Urban Lifeworld]]
 
-[[Georges Perec, Especes d'Espaces]]
+[[Georges Perec, Espèces d'Espaces]]
 
