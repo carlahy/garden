@@ -213,7 +213,79 @@ From a world within a building, to a world within a city; a modern fairy tale, f
 
 Aesthetics is about **scale reduction** (?)
 
-## readings
+
+## domesticity
+
+The home is the "most important place in the world"
+- Change from *public*, to the *private* sphere
+- Is home the way to understand and analyse the modern city?
+
+**Urbanity and domesticity**
+- *The Poetics of Space*, Gaston Bachelard
+- The idea of [[home]]
+	- A place, even a  '[[utopia]]' of peace in which you are the master of the space; shelter from outside evils; 
+	- Ideal roles of genders: women as the goddess of homes, and men as bread winners outside the home (John Ruskin)
+
+**Home as the foundation of society**
+- Kant: house, the home, is where society has its main source. "The residence is the onlly rampart against the dread of nothingness, darkness, and the obscurity of the past... to be at home is to recognize life's slow pace and the pleasures of sedentary meditation... *the man wihtout a home is a potential criminal*"
+
+**Risk of anachronism and ethnocentrism**
+- Risks when dealing with cultures
+- Anachronisms: past generations may have completely different ways of conceiving the world (historians)
+- Ethnocentrism: when you come from a culture, and project it onto your object of analysis (eg. englishmen interpreting colonies on the basis of Victorian culture)
+
+**Domus and Familia**
+- Domus
+	- Domesticity and domination are derived from the same word but point to complete opposite ways of understanding home. The modern interpretation of **domesticity** does not refer to domination, or to slaves - but this may not always have been the case
+	- 1. a household and hierarchy, to dominate (case in Ancient Rome, the man was the master of the home over the women, children, slaves)
+	- 2. a community of love, a space without power
+- Familia
+	- In [[Ancient Rome]]: familia encompassed women, children and slaves
+
+**Modern enchantment with miniatures**
+- Humans have become happy amongst 'small things' in their homes (ref. Hannah Arendt)
+- Victorian homes are filled with knick knacks. There is an increasing interest in the private sphere, the home. The most intense values of life, in this age of industrialisation, is found in the home
+	- E.A Poe, *The Philosophy of Furniture* - furniture is so full of meaning, it has its own philosophie
+	- Xavier de Maistre, *Voyage Autour de ma Chambre* - the room itself is interesting as a space you can explore, to the extent of Jules Vernes *Voyage Autour du Monde*
+
+**The bourgeois home as a compensation for the lack of privacy in urban life**
+- Walter Benjamin (on Victorian homes). By having soft upholstered chairs, curtains, etc., the bourgeois tries to escape the street and the outise
+- "The traces of its inhabitant are molded into the interior. Here is the origin of the detective story, which enquires into these traces and follows these tracks"
+
+What is the contrast to this type of (Victorian) home? **Glass architecture**
+- Transparency, by living in a glass house, you prove that "we have nothing to hide", are a moral person and could never be a *criminal*
+- Modern man shouldn't live in dusty interiors of Victorian homes, with tassels, blankets and pillows. A glass home is like a privaty *crystal palace* and one should enjoy the intimate relationship between the sun outside, and one's interior
+
+**Bourgeois home**
+- Dutch bourgeoisie (ref. readings)
+	- Servants discouraged by taxation law
+- Gendered roles and gendered spaces, with women in the home and men working outside
+- Diminishing roles of servants, they are made invisible
+- Private sleeping rooms are a symptom of the romantic marriages, based on love
+- A loss of domain for women (ref. *A room of one's own*, Virginia Woolf)
+	- before the bourgeois home, work and family life took place in the same house (eg. workshop, atelier would be in the family home). There was more equality between genders
+	- 19th century: separation of work and home, with spaces reserved for factories, workshops, shopping, markets... -> a growing separation of the sexes
+
+**Cult of domesticity**
+- Women were the masters of the home, concentrated on the care of the home and the children
+
+20th century
+- A period where planners had great visions for a new private life, which matches the new machine world
+- Le Corbusier: "the house is a *machine* for living in", "the armchair is a machine for sitting in". No longer is the armchair an upholstered chair, but a machine
+- The Victorian home vs. the modern functionalist home
+
+**Contemporary domesticity**
+- Globalisation: "flying SAS feels like home"
+- New family dynamics: new families, broken families, collage families, single living
+	- Children are indoors, and not told to play outside; [[children]] cannot create their own private worlds because parents have their eyes on them all the time
+	- New family types in Denmark:
+		- 1960: 60% of families consist of father, mother and 1+ child
+		- Today: this type of family is only 20%; number of seniors are rising
+- Mixed use houses:
+	- Combination of institutions, shops, private homes
+	- Combination of privately owned and rented apartments
+
+# readings
 
 #### elizabeth wilson, *The Rhetoric of Urban Space*, 1995
 - Talks about Jameson's postmodernism, "Postmodernism and The Cutlural Logic of Late Capitalism", where in [[postmodernism]] you are lost in a sense-less urban space with no center, the suburbs blend into endless same-ness, where places like Silicon Valley are ugly places empty of any soul

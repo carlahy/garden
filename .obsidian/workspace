@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "modules/copenhagen/urban culture and cultural theory.md",
+            "file": "modules/copenhagen/urbanism & architecture.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modules/copenhagen/urban culture and cultural theory.md",
+                "file": "modules/copenhagen/urbanism & architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +90,15 @@
   },
   "active": "d4c8beafef31422a",
   "lastOpenFiles": [
-    "voyeur.md",
+    "children.md",
+    "modules/copenhagen/urbanism & architecture.md",
+    "Ancient Rome.md",
+    "utopia.md",
+    "home.md",
     "modules/copenhagen/urban culture and cultural theory.md",
+    "voyeur.md",
     "Georges Perec, Espèces d'Espaces.md",
     "modules/thesis/thesis.md",
-    "Tivoli.md",
-    "modules/vienna/urban analysis 3.md",
-    "urbanism and.md",
-    "imgs/urban_analysis_problemstatement.png",
-    "modules/copenhagen/readings/Medsen and Plunz, The Urban Lifeworld.md",
-    "modules/copenhagen/urbanism & architecture.md"
+    "Tivoli.md"
   ]
 }
