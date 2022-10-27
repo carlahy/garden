@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "1302c2c77fdf1dcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a17d27c23680e21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da89ce6130f1994d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "modules/copenhagen/urbanism & architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87f482f34b5c4e28",
+    "type": "split",
+    "children": [
+      {
+        "id": "45a0a1243e77bade",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2ba333910151e71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f79e81a3caeafdf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 366.50397300720215,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3815cde1029a3eab",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8cb7fb2a5ac3fcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94da4f2a38c9b169",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "modules/copenhagen/urbanism & architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "da89ce6130f1994d",
+  "lastOpenFiles": [
+    "modules/copenhagen/urban culture and cultural theory.md",
+    "urbanism and.md",
+    "concepts/Henri Lefebvre.md",
+    "academic papers/@kostopoulou2013revitalized.md",
+    "concepts/Urban culture.md",
+    "modules/copenhagen/readings/Jan Gehl, Life Between Buildings.md",
+    "concepts/Jane Jacobs.md",
+    "modules/thesis/thesis.md",
+    "thesis-interviews/0813SAND1.md",
+    "thesis-interviews/0820SVAN4.md"
+  ]
+}

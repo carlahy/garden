@@ -167,7 +167,85 @@ Perspectives on the city square
 - " a square is the opposite of a monument, it has no solidity, no volume. A kind of pure space with no event, almost nothing to name about it" - SMLXL
 
 
-## seminars
+## MOBILITY
+
+Railway **euphoria**: the railway as the main metaphore for understanding and interpreting our time
+- Dali painting of the railway station in Perpignan, as a cosmo(?) vision
+
+Where to put a railway?
+- There was tension around where to place railways and where they should go
+- "Next to the sexual drives, the railway "drives" are the strongest and most passionate" - JK Lauridsen, followed by Freud who saw trains and railways as a key symbol in the subconscious
+
+Railway stations and [[nationalism]]
+- Railways are what tied the nation together and opened it up outside its border
+- Comes at the time when nationalism (and borders) is on the rise, a symbol of **pride** for citizens
+- A symbol of political drive: where is this **instrument of progress** positioned?
+
+The railway station
+- A new building genre, invented after the arrival of trains in the city
+- A train station competes with national monuments (eg. theatres), again creating a symbol of **pride** -> eg. Gare du Nord, St. Pancras, Gare Centrale (Antwerp)
+
+**Scale**
+- A very big scale
+- Crowd as a challenge
+- Division into social classes, eg. with waiting rooms 
+- The station as an urban landscape (doves, smoke, no clear distinction between day and night)
+
+A symbol of the 19th century
+- Railway station delimits the old and new city
+- Arriving in the city is done almost exclusively through the railway station
+
+**Spatial structures**
+- Stations are **absolute spaces**, independent of the surrounding landscape, with regular planes and lines that are not crooked - a geometric method, they cut through
+
+**Temporal structures**
+- Being on time, and agreeing on time, is primordial for the functioning of the railway
+- Main driver for the synchronisation of time and creation of Greenwhich meantime
+
+**Industrialism**
+- The station as a machine and as a container for machines; the machine handles passengers and receives money
+- Extreme rationality governs the plans: how to make the most effective organisation of this space?
+
+**History and style**
+- Divided between the past and present
+- A confused building, combining ornamentation on the outside and its complete absence inside, making room for pure efficiency and calculated movements
+- Stations can be a space of **luxury**, eg. Gare du Lyon et Le Train Bleu
+
+The station meets reaction
+
+
+
+
+## HOTELS
+
+#### VinziRast
+
+What is the same
+- Services: food, bed + sheets, various amenities (toothbrush, toothpaste, soap...), information on services and areas of interest (not for touristic purposes, but for essentials like job hunting, doctors (covid vaccinations), recommendations for other shelters...)
+- The building and facilities: has a restaurant, a common recreational room, an inner courtyard
+- The sleeping quarters: like a hostel, with bunk beds
+- Wake up service ;) 
+
+What is not the same:
+- Forced hours of lights on and off
+- Sleeping quarters: very little privacy
+- Surveillance and strict hours: lights on and off at 7am/10pm, 
+
+Is it a hotel?
+Yes, people stay here temporarily. You cannot stay longer than 100 days a year, there is a cleaning team who cleans the sheets, towels, bathrooms.
+A bed is exclusively yours for the night being but is not owned by you
+
+
+But no. Most people have no where else to go, because they don't fit in to society or cannot afford anything else. They don't fit into any of the primary reasons for using hotels: tourism, business, visiting friends or family, 
+You don't have the freedom or anonymity as you do in a hotel, you don't have a key and cannot come and go as you please after hours 
+
+Is it a home? 
+Yes, some people are living here indefinitely and paying the rent of 60 euros a month (incl. breakfast and dinner)
+The bed is not exclusively yours, another may sleep in it the morrow
+
+But no. You pay per night, have no rental contract, have no keys, have to abide by strict rules and opening hours. You cannot leave anything during the day, you cannot put anything on the walls, you don't have a shelf
+
+## SEMINARS
 
 ### seminar 1
 
@@ -388,4 +466,14 @@ What is the contrast to this type of (Victorian) home? **Glass architecture**
 - Need to create a national capital meant there as a need for a national architecture that was "modern, identified wiht history (but not with the history of the old nobility and old princedoms), and clearly sumbolic of a new unity in the modern era" 
 
 #### dovey and fisher, *designing for adaptation: the school as sociological spatial assemblage*
-- 
+
+#### schivelbusch, *Railroad Space and Railroad Time*
+
+- Rail as a the "annihilation of space and time", where "distnaces practically diminish in the exact ratio of the speed of personal locomotion"; **a shrinking of space**, or the "temporal shrinking of transportation" because space is still the same but more accessible
+	- Everything, towns/harbours/villages are drawn nearer to each other by a percentage (2/3s?) as the speed of rail increases
+	- The "durée", or duration, of a journey is dependent on **transport technology**
+- Transportation technology as participants in the development of tourism industry
+	- Destruction of natural landscapes like the lake district
+	- "*For the twentieth century tourism, the world has become one big department store of landscapes and cities*" (p. 40)
+- 1884: international conference on time standards held in Washington DC divided the world into timezones; this was led and helped the train times
+

@@ -283,7 +283,7 @@ How to speak about the city, according to Perec: "chasser toute idée préconçu
 - Part of the group Oulipo
 	- Ouvroir de littérature potentielle: every time you write a piece of work, you give yourself a constraint, a rule, in order to submit yourself under this rule; the idea is that it would allow you to express yourself, in a way that would not be possible without this rule
 
-### I. Spaces Close at Hand, or Further Away (urban culture)
+#### I. Spaces Close at Hand, or Further Away (urban culture)
 
 ##### Intimate spaces
 
@@ -305,7 +305,7 @@ Moving upwards amongst the vital spaces of everyday life... as he attempts to se
 - his writings
 
 
-### II.  Dwelling and Moving (cultural theory)
+#### II.  Dwelling and Moving (cultural theory)
 
 **HABITÉ** -> 'dwelling'
 ... in the page; "j'écris: j'habite ma feuille de papier, je l'investis, je la parcours"
@@ -328,6 +328,23 @@ What does it mean to live in a room?
 - The apartment building
 - A sort of [[voyeur|voyeurism]] 
 
+## The practice of Everyday Life
+
+*L'Invention du Quotidien*, Michel de Certeau (1925-1986)
+
+- Mysticist thinking
+- Psychoanalysis: something essential that escapes representation
+- Writing history is not telling the past, but a production of the past: there is a difference between what you think you are analysing (scientifically) on one side, and your narrative, or scholarly account on the other side
+
+
+Prehistory of everyday life theories from [[Henri Lefebvre]]
+- According to De Certeau's view of Lefebvre, life is "le réseau d'une anti-discipline" 
+- The everyday life is also linked to habits, **habitudes**. Research on the everyday should be done in an **everyday**
+
+(visual) Perspectives of the city
+- City viewed from above by those who plan
+- City viewed from the ground by those who walk
+- Psychoanalysts
 
 # seminars
 
