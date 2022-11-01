@@ -16,6 +16,13 @@
 - [[#Ramparts and Reflections in the Urban Lifeworld#Urbanity and aesthetics: more than city and art|Urbanity and aesthetics: more than city and art]]
 	- [[#Urbanity and aesthetics: more than city and art#II.  Overlooking (cultural theory)|II.  Overlooking (cultural theory)]]
 - [[#Concrete Spaces and Written Traces|Concrete Spaces and Written Traces]]
+	- [[#Urbanity and aesthetics: more than city and art#I. Spaces Close at Hand, or Further Away (urban culture)|I. Spaces Close at Hand, or Further Away (urban culture)]]
+		- [[#I. Spaces Close at Hand, or Further Away (urban culture)#Intimate spaces|Intimate spaces]]
+		- [[#I. Spaces Close at Hand, or Further Away (urban culture)#Complex spaces|Complex spaces]]
+	- [[#Urbanity and aesthetics: more than city and art#II.  Dwelling and Moving (cultural theory)|II.  Dwelling and Moving (cultural theory)]]
+- [[#Collecting Rooms: Georges Perec and Temporary Personal Spaces|Collecting Rooms: Georges Perec and Temporary Personal Spaces]]
+- [[#The Practice of Everyday Life in Michel de Certeau|The Practice of Everyday Life in Michel de Certeau]]
+- [[#Places and Pursuits in Sophie Calle, Suite Venitienne|Places and Pursuits in Sophie Calle, Suite Venitienne]]
 - [[#intro seminar|intro seminar]]
 - [[#experiencing architecture, steen eiler rasmussen|experiencing architecture, steen eiler rasmussen]]
 	- [[#Urbanity and aesthetics: more than city and art#architecture and the layman|architecture and the layman]]
@@ -23,6 +30,7 @@
 - [[#life between buildings, jahn gehl|life between buildings, jahn gehl]]
 	- [[#Urbanity and aesthetics: more than city and art#life between buildings: new haven and san salvador|life between buildings: new haven and san salvador]]
 	- [[#Urbanity and aesthetics: more than city and art#urban culture at Islands Brygge Havnebad|urban culture at Islands Brygge Havnebad]]
+
 
 
 # notes
@@ -328,7 +336,7 @@ What does it mean to live in a room?
 - The apartment building
 - A sort of [[voyeur|voyeurism]] 
 
-## The practice of Everyday Life
+## The Practice of Everyday Life in Michel de Certeau
 
 *L'Invention du Quotidien*, Michel de Certeau (1925-1986)
 
@@ -345,6 +353,31 @@ Prehistory of everyday life theories from [[Henri Lefebvre]]
 - City viewed from above by those who plan
 - City viewed from the ground by those who walk
 - Psychoanalysts
+
+## Places and Pursuits in Sophie Calle, Suite Venitienne
+
+From Certeau's quotidien to Sophie's Venice
+- The quotidian will escape, vanish, as soon as you look at it; As soon as you notice or talk about habits, they are not habits anymore 
+- Habits and the quotidian are, by definition, meant to be invisible
+	- ==What does this mean for practices of using UBS (or any other practice)? If it is the quotidian, meant to be invisible and unnoticed, how can you reflect upon it, deconstruct it, criticise it== #thesis-ideas
+
+### I. Pursuits in Venice: searching and shadowing
+*Text and imagines by Sophie Calle*
+
+**Spatialising** diaries: 
+- a series of sites in Piazza San Marco (cafe Florian, photographs with pigeons)
+- **disguise**: an essential element of the "game"
+
+Performative images
+- Differentiated gazes around Campo San Barnaba; there are many ways of gazing/looking at the person being followed (Henri B.)
+	- **Gazing hastily in passing**: Sophie walking by Henri's pensione without stopping or looking inside
+	- **Shadowing and repeating**: following becomes possible once Henri is seen outside the pensione
+	- **Surveying and continuing**: photography used for passing time, looking around, observing without seeing too much; 'complative photography'
+
+Genre of the book - what is it? a photobook, artist's book, visual art, work of art?
+
+
+### II. 
 
 # seminars
 
