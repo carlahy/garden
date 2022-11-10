@@ -148,6 +148,9 @@ Architecture as a framework around human living
 - It isn't necessary to abandon rectangular forms, we need not get rid of them to support human life; it's easy to move through rectangular rooms and regular forms. 
 - *Even if life is chaotic and unpredictable, space doesn't need to be*
 
+
+Why doesn't Rasmussen include context and discussion about social class, when talking about cities?
+
 ## Proximity and Community in Jan Gehl: Life Between Buildings
 
 signification and architecture: from Barthes to Rasmussen
@@ -377,7 +380,68 @@ Performative images
 Genre of the book - what is it? a photobook, artist's book, visual art, work of art?
 
 
-### II. 
+### II. Cultural Theory...
+
+
+# (part three) Social Spaces and Transitions in Berlin
+
+## Transition from Part 2 to 3
+
+Moving from...
+- Paris in the 1970s and 80s, to Berlin in the 1930s
+- From litearture, philosophy and art to critical
+- French tradition: rigid, symmetric; Berlin: more fluid
+
+
+### Siegfried Kracauer
+
+Kracauer was a German architect, converted into journalist and editor of Journal (Allgemeine Zeitung), once a liberal newspaper intra-WWs.
+
+Kracauer and Benjamin
+- The Frankfurt School and its so-called critical theory
+- Kracauer is not a member of this group, but a 'public relations agent'
+
+
+The Tiller Girls phenomenon:
+- The overall effect of a chorus of dancers is often spoiled by lack of discipline, the Tiller girls linked arms in order to dance 'as one'
+
+Power relations in the capitalist process of production is the submission of workers to capital
+
+**Limits of control** in the public sphere where people are citizens: apparently free and equal, not always predictable
+
+
+"**Die Angestellten. Aus dem neuesten Deutschland**"
+- Is this a city book, a book about urban culture... or a book about a new social group or class inhabiting cities?
+- Some of the twelve chapters address urban phenomena
+- Does this book modify the interpretation of urban ornaments as something different from mass ornaments (commercial mass culture)? 
+	- Reference to what can't be explained separated from the power structures
+
+The city is present from the beginning
+
+**Addressing a new uban reality**
+- This work can only be done in Berlin, "since it is there rather than any other German city or region that the condition of the salariat presents itself in the most exreme form. Only from its extremes can reality be revealed"
+	- You must go to a metropolis because that is where such trends, like employees and industrial workers, are most visible
+	- If you want to understand society, you have to go to the extremes. Choose examples that seem extreme and see if there is anything there --> Berlin as ideal for this
+
+**Exploring the overlooked**
+- You need to focus on these social phenomena (eg. industrial workers, white collars...), because they are not taken seriously and there are forces that want to overlook it
+
+**Consumption and culture: glamour and distraction**
+- Culture in the life of the employees: whereas industrial workers are focus on more basic needs, white collar workers are more materialistic, have more means, need to be 'distracted'. Therefore 'culture' and cultural consumption is an important thing for this group
+- The employee as a type spends more on cultural requirements than lodging
+- **Compensatory consumerism**, David Harvey: alienation of self from your job, and so you spend your money on cultural experiences to "fix" this
+
+Grinzing heuriger (Wien) as cultural and recreational space for employees
+
+"Our big german ciites today are not industrial cities, but cities of **salaried employees and civil servants**. if that holds true for any city, it does for Berlin. Berlin today is a city with a pronounced employee culture: ie. a culture made by employees for employees and seen by most employees as a culture" (p. 32)
+
+
+### I. Approaching the City of Employees (urban culture)
+
+
+
+### II. xx (urban theory)
+
 
 # seminars
 

@@ -1,21 +1,57 @@
 - [[#notes|notes]]
-	- [[#notes#urban planning in copenhagen|urban planning in copenhagen]]
-		- [[#urban planning in copenhagen#the planner|the planner]]
-		- [[#urban planning in copenhagen#the planner|the planner]]
-		- [[#urban planning in copenhagen#summary|summary]]
-- [[#seminars|seminars]]
-	- [[#seminars#seminar 1|seminar 1]]
+- [[#INTRO|INTRO]]
+- [[#URBAN PLANNING IN COPENHAGEN|URBAN PLANNING IN COPENHAGEN]]
+		- [[#the planner|the planner]]
+		- [[#the planning|the planning]]
+		- [[#trends in the history of urban planning|trends in the history of urban planning]]
+- [[#CITY SQUARES|CITY SQUARES]]
+- [[#DOMESTICITY|DOMESTICITY]]
+- [[#MOBILITY|MOBILITY]]
+- [[#MUSEUMS|MUSEUMS]]
+- [[#HOTELS|HOTELS]]
+		- [[#VinziRast?|VinziRast?]]
+- [[#SEMINARS|SEMINARS]]
+	- [[#SEMINARS#seminar 1|seminar 1]]
 		- [[#seminar 1#Nationalmuseets Klunkelejlighed|Nationalmuseets Klunkelejlighed]]
-		- [[#seminar 1#seminar lecture|seminar lecture]]
-- [[#readings|readings]]
 		- [[#seminar 1#elizabeth wilson, *The Rhetoric of Urban Space*, 1995|elizabeth wilson, *The Rhetoric of Urban Space*, 1995]]
 		- [[#seminar 1#møller, *the parks of copenhagen 1850-1900*, 2010|møller, *the parks of copenhagen 1850-1900*, 2010]]
 		- [[#seminar 1#larsson and thomassen, *urban planning in denmark*|larsson and thomassen, *urban planning in denmark*]]
 		- [[#seminar 1#kvorning, *copenhagen, formation, change and urban life*|kvorning, *copenhagen, formation, change and urban life*]]
+		- [[#seminar 1#bloom, *superkilen: participatory park extreme!*|bloom, *superkilen: participatory park extreme!*]]
+		- [[#seminar 1#daniela sandler, *incarnate politics: the rhetorics of german reunification in the architecture of berlin*|daniela sandler, *incarnate politics: the rhetorics of german reunification in the architecture of berlin*]]
+		- [[#seminar 1#lane, *national romanticism: new capitals*,|lane, *national romanticism: new capitals*,]]
+		- [[#seminar 1#dovey and fisher, *designing for adaptation: the school as sociological spatial assemblage*|dovey and fisher, *designing for adaptation: the school as sociological spatial assemblage*]]
+		- [[#seminar 1#schivelbusch, *Railroad Space and Railroad Time*|schivelbusch, *Railroad Space and Railroad Time*]]
+		- [[#seminar 1#Knoch, *Creative Urban Milieus: Historical Perspectives on Culture, Economy and the City*|Knoch, *Creative Urban Milieus: Historical Perspectives on Culture, Economy and the City*]]
 
 ## notes
 
-### urban planning in copenhagen
+## INTRO
+
+A city is about density and encounters, which are embodied by [[world exhibitions]]. In 1851, the first world fair took place in the **Crystal Palace**, in London, a building which represented modernity.
+It uses steel, glass, curtain walls (steel frames on which windows and glass facades hang, which replace massive walls). 
+
+Worlds fairs can be looked at from multiple perspectives:
+- *Economy*:  Karl Marx wrote his manifesto and Das Kapital at the time of the first expo, which he describes as "a gigantic accumulation of commodities" - Das Kapital. 
+	- They were a demonstration of the power of industrialisation, to see new technologies and what machines could produce
+	- An era of [[competition]], which would enhance the development of society; 'peaceful competition' replaces wars
+	- The entire world is a [[market]] with a [[growth]] mindset; this is the beginning of [[globalisation]]
+- *Politics*: a demonstration of nationalism, showing the world how developed your society and nation was. 'Peaceful competition' replaces wars, and progress replaces revolution. 
+- *Shopping*: becomes popular, 'Au Bonheur des Dames' style 
+- *Psychology*: overwhelmed by objects and things to look at
+- *Architecture*: iconic buildings (in scale and materials) like Guggenheim Bilbao Museum/Opera house in Sydney. These buildings have **visual power**  and stand out. This is the same for Crystal Palace and the national pavillions, the Eiffel Tower...
+	- Effects of using steel and glass: creating lightness, curtain walls,...
+- *Art*: new forms of perceptions
+
+**Colonial exhibitions**: expos were taking place at a timy of imperialism and colonialism, shows with aspects from the colonies were put on (eg. elephants).
+
+Expos were modernising cities, for example in Paris through Hausmannisation.
+  
+From a world within a building, to a world within a city; a modern fairy tale, from HC Andersen *The Dryads* - you find yourself in Paris at the world exhibition
+
+Aesthetics is about **scale reduction** (?)
+
+## URBAN PLANNING IN COPENHAGEN
 
 #### the planner
 
@@ -119,7 +155,7 @@ Goals
 - Generic city: Koolhaas
 - Cultural planning: Richard Florida, the Bilbao effect (using culture as a catalyst for urban development)
 
-### city squares
+## CITY SQUARES
 
 *Place de la concorde*
 - "spirit of france, it is an x-ray of the french people" -Malaparte
@@ -166,133 +202,7 @@ Perspectives on the city square
 *city of the captive globe* Koolhas:
 - " a square is the opposite of a monument, it has no solidity, no volume. A kind of pure space with no event, almost nothing to name about it" - SMLXL
 
-
-## MOBILITY
-
-Railway **euphoria**: the railway as the main metaphore for understanding and interpreting our time
-- Dali painting of the railway station in Perpignan, as a cosmo(?) vision
-
-Where to put a railway?
-- There was tension around where to place railways and where they should go
-- "Next to the sexual drives, the railway "drives" are the strongest and most passionate" - JK Lauridsen, followed by Freud who saw trains and railways as a key symbol in the subconscious
-
-Railway stations and [[nationalism]]
-- Railways are what tied the nation together and opened it up outside its border
-- Comes at the time when nationalism (and borders) is on the rise, a symbol of **pride** for citizens
-- A symbol of political drive: where is this **instrument of progress** positioned?
-
-The railway station
-- A new building genre, invented after the arrival of trains in the city
-- A train station competes with national monuments (eg. theatres), again creating a symbol of **pride** -> eg. Gare du Nord, St. Pancras, Gare Centrale (Antwerp)
-
-**Scale**
-- A very big scale
-- Crowd as a challenge
-- Division into social classes, eg. with waiting rooms 
-- The station as an urban landscape (doves, smoke, no clear distinction between day and night)
-
-A symbol of the 19th century
-- Railway station delimits the old and new city
-- Arriving in the city is done almost exclusively through the railway station
-
-**Spatial structures**
-- Stations are **absolute spaces**, independent of the surrounding landscape, with regular planes and lines that are not crooked - a geometric method, they cut through
-
-**Temporal structures**
-- Being on time, and agreeing on time, is primordial for the functioning of the railway
-- Main driver for the synchronisation of time and creation of Greenwhich meantime
-
-**Industrialism**
-- The station as a machine and as a container for machines; the machine handles passengers and receives money
-- Extreme rationality governs the plans: how to make the most effective organisation of this space?
-
-**History and style**
-- Divided between the past and present
-- A confused building, combining ornamentation on the outside and its complete absence inside, making room for pure efficiency and calculated movements
-- Stations can be a space of **luxury**, eg. Gare du Lyon et Le Train Bleu
-
-The station meets reaction
-
-
-
-
-## HOTELS
-
-#### VinziRast
-
-What is the same
-- Services: food, bed + sheets, various amenities (toothbrush, toothpaste, soap...), information on services and areas of interest (not for touristic purposes, but for essentials like job hunting, doctors (covid vaccinations), recommendations for other shelters...)
-- The building and facilities: has a restaurant, a common recreational room, an inner courtyard
-- The sleeping quarters: like a hostel, with bunk beds
-- Wake up service ;) 
-
-What is not the same:
-- Forced hours of lights on and off
-- Sleeping quarters: very little privacy
-- Surveillance and strict hours: lights on and off at 7am/10pm, 
-
-Is it a hotel?
-Yes, people stay here temporarily. You cannot stay longer than 100 days a year, there is a cleaning team who cleans the sheets, towels, bathrooms.
-A bed is exclusively yours for the night being but is not owned by you
-
-
-But no. Most people have no where else to go, because they don't fit in to society or cannot afford anything else. They don't fit into any of the primary reasons for using hotels: tourism, business, visiting friends or family, 
-You don't have the freedom or anonymity as you do in a hotel, you don't have a key and cannot come and go as you please after hours 
-
-Is it a home? 
-Yes, some people are living here indefinitely and paying the rent of 60 euros a month (incl. breakfast and dinner)
-The bed is not exclusively yours, another may sleep in it the morrow
-
-But no. You pay per night, have no rental contract, have no keys, have to abide by strict rules and opening hours. You cannot leave anything during the day, you cannot put anything on the walls, you don't have a shelf
-
-## SEMINARS
-
-### seminar 1
-
-#### Nationalmuseets Klunkelejlighed
-
-Analysing a plan of the Christiansen house 
-- An L shaped building, with a dining room as a circular room being the central element connecting the two sides of the home
-- One side has the entertainment spaces, with living rooms, dining rooms, drawing, salon and study rooms, where guests would be entertained and 'impressed'
-- The other side has the bedrooms (of the daughters and couple), and the maids' bedrooms
-- The kitchen is pushed into the house, away from the entertainment spaces and closer to the maids; the bathroom and toilet are also pushed away
-- Two staircases of different sizes and location, a smaller one in the back for the maids and a larger one in the front for the owners and guests
-- **SIZE**
-	- Different sizes of staircases, show the importance of who uses them
-- **LOCATION**
-	- Entertainment rooms are facing the front of the building, with a view on the canal
-	- Bathroom and toilet located in the end of the house, near the maids
-	- Kitchen is away from entertainment rooms, to keep smells away, near the maids
-- Children: in the 1930s (??), children are recognised as having their own phase of life and are not just "small adults"; 
-- The **bicycle** gave women a reason to dress in a way that allowed them to move (lol); so there is a relationship between the invention of the bicycle, and the women's liberation movement
-
-#### seminar lecture
-
-A city is about density and encounters, which are embodied by [[world exhibitions]]. In 1851, the first world fair took place in the **Crystal Palace**, in London, a building which represented modernity.
-It uses steel, glass, curtain walls (steel frames on which windows and glass facades hang, which replace massive walls). 
-
-Worlds fairs can be looked at from multiple perspectives:
-- *Economy*:  Karl Marx wrote his manifesto and Das Kapital at the time of the first expo, which he describes as "a gigantic accumulation of commodities" - Das Kapital. 
-	- They were a demonstration of the power of industrialisation, to see new technologies and what machines could produce
-	- An era of [[competition]], which would enhance the development of society; 'peaceful competition' replaces wars
-	- The entire world is a [[market]] with a [[growth]] mindset; this is the beginning of [[globalisation]]
-- *Politics*: a demonstration of nationalism, showing the world how developed your society and nation was. 'Peaceful competition' replaces wars, and progress replaces revolution. 
-- *Shopping*: becomes popular, 'Au Bonheur des Dames' style 
-- *Psychology*: overwhelmed by objects and things to look at
-- *Architecture*: iconic buildings (in scale and materials) like Guggenheim Bilbao Museum/Opera house in Sydney. These buildings have **visual power**  and stand out. This is the same for Crystal Palace and the national pavillions, the Eiffel Tower...
-	- Effects of using steel and glass: creating lightness, curtain walls,...
-- *Art*: new forms of perceptions
-
-**Colonial exhibitions**: expos were taking place at a timy of imperialism and colonialism, shows with aspects from the colonies were put on (eg. elephants).
-
-Expos were modernising cities, for example in Paris through Hausmannisation.
-  
-From a world within a building, to a world within a city; a modern fairy tale, from HC Andersen *The Dryads* - you find yourself in Paris at the world exhibition
-
-Aesthetics is about **scale reduction** (?)
-
-
-## domesticity
+## DOMESTICITY
 
 The home is the "most important place in the world"
 - Change from *public*, to the *private* sphere
@@ -362,6 +272,234 @@ What is the contrast to this type of (Victorian) home? **Glass architecture**
 - Mixed use houses:
 	- Combination of institutions, shops, private homes
 	- Combination of privately owned and rented apartments
+
+
+## MOBILITY
+
+Railway **euphoria**: the railway as the main metaphore for understanding and interpreting our time
+- Dali painting of the railway station in Perpignan, as a cosmo(?) vision
+
+Where to put a railway?
+- There was tension around where to place railways and where they should go
+- "Next to the sexual drives, the railway "drives" are the strongest and most passionate" - JK Lauridsen, followed by Freud who saw trains and railways as a key symbol in the subconscious
+
+Railway stations and [[nationalism]]
+- Railways are what tied the nation together and opened it up outside its border
+- Comes at the time when nationalism (and borders) is on the rise, a symbol of **pride** for citizens
+- A symbol of political drive: where is this **instrument of progress** positioned?
+
+The railway station
+- A new building genre, invented after the arrival of trains in the city
+- A train station competes with national monuments (eg. theatres), again creating a symbol of **pride** -> eg. Gare du Nord, St. Pancras, Gare Centrale (Antwerp)
+
+**Scale**
+- A very big scale
+- Crowd as a challenge
+- Division into social classes, eg. with waiting rooms 
+- The station as an urban landscape (doves, smoke, no clear distinction between day and night)
+
+A symbol of the 19th century
+- Railway station delimits the old and new city
+- Arriving in the city is done almost exclusively through the railway station
+
+**Spatial structures**
+- Stations are **absolute spaces**, independent of the surrounding landscape, with regular planes and lines that are not crooked - a geometric method, they cut through
+
+**Temporal structures**
+- Being on time, and agreeing on time, is primordial for the functioning of the railway
+- Main driver for the synchronisation of time and creation of Greenwhich meantime
+
+**Industrialism**
+- The station as a machine and as a container for machines; the machine handles passengers and receives money
+- Extreme rationality governs the plans: how to make the most effective organisation of this space?
+
+**History and style**
+- Divided between the past and present
+- A confused building, combining ornamentation on the outside and its complete absence inside, making room for pure efficiency and calculated movements
+- Stations can be a space of **luxury**, eg. Gare du Lyon et Le Train Bleu
+
+The station meets reaction
+
+
+## MUSEUMS
+
+In Copenhagen:
+- Museums started in the city center (To...), and moved to the suburbs (Louisiana)
+- National Gallery: a building with architecture that displays "the best" that has been created; built in a period of "style confusing" (stilvervierung?)
+- Louisiana: suburban, almost anti-urban, between water, trees and green lawns; the structure of the museum is built according to where the outside (trees) are oriented
+- Arken: 1996, south Copenhagen, post-modernism, deconstructionism, a playful use of the vocabulary of architecture, name refers to the bible (irony on amassing the world's curiosities while the rest of the world is falling apart?)
+
+What type of collection is in the museum?
+- Collections of... a king/prince, a state, a nation, a society, an enterprise
+- An important tool of nationalism (eg. nazis)
+- A place where you learn to be a member of society, learn about values
+- A private collection
+
+17th century **baroque**:
+	- Cabinet of Curiosities, Museum of Wormianum, 1621-1654
+	- There is no rationality in this representation, but a juxtaposition of objects of extremely different kinds. Almost surrealist. Has elements from natural and cultural history
+
+18th century **englightenment**:
+- A new genre, **humanism, enlightenment and democracy**
+- The museum is open for everyone, access is not only for the king/royals/upper class
+- As a result, museums become specialised
+- There are new relations between space and vision: use of glass to separate seeing and touching, clear passageways for transit, elevated vantage points from the gallery...
+
+19th century:
+- **Classicism**: monumentalism, permanence, universalism
+	- eg. Glyptothek in Munich, 1816-39: combining old and new pinakotheks to create new image of the city
+	- The idea of the museum as an instrument of **national** education
+	- Using ancient Greek style because Greece was the cradle of democray
+	- Message of the facade: however complez the range of exhibits inside
+	- Museum Island, Berlin: Altes Museum
+- **Historicism**: monumentalism, progression, universalism
+	- Everything is arranged according to historical principles
+	- The nation as the frame of evolution
+	- The people and the imperial gaze: similar to world expositions, nations rob others of art, objects, to display in their museums
+
+20th century
+- **Modernism**: instrumentalism (over momunemtalism, the museum is an **instrument** in city building, the formation of the mind, the spiritual structure), change, individualism (your personal encounter with the art object is the most important)
+	- Low key, neutral facades; the "abolishment" of any sense of public facade
+	- Preference for glass, blurring lines between what is inside and what is outside
+	- The "private experience" becomes much more important
+	- "the works of art themselves create the architecture, dictating the spaces and prescribing the dimensions of the walls": a museum is not created by starting with a building and then putting art inside, but rather, it starts with the art and the building is moulded around it
+	- A complete turn around from classicism
+	- Eg. Neue Nationalgalerie, Berlin
+
+Late 20th **post-modernism**
+- **Post-modernism**: instrumentalism, playfulness, individualism
+- James Stirling's Neue Staatsgalerie, Stuttgart
+- A period after modernism is marked by **cultural planning**, over **social planning**.
+	- "There is no such thing as society" - Thatcher
+	- Instead of/more than society, culture became the instrument of urban development
+- Arken 1996, a new stimulus compared to the usual museum buildings; a museum as a house designed to house the culture of society
+- Guggenheim Museum Bilbao 1997 by Frank Gehry
+- Military Museum, Dresden
+- Paul Klee Museum, 1998, Bern
+- Centre Pompidou, the stairs outside the building show the museum as a cultural machine
+
+Today:
+- Museum visitors are better educated, through higher education; they are better equipped to relate (and critique) what is exhibited and narrated
+- Visitors are customers: consumerist market world
+- Return and repatriation of stolen museum objects: British Museum
+
+
+## HOTELS
+
+Linked to
+- **Mobility**: linked to the history of transportation and rail roads
+- **Domesticity**: hotels offer a home away from home
+
+Etymology
+- Hotel related to hospitality, stranger, guest; but also a host can be hostile
+- **Hospitality + hostility**: an ambivalence in the origin of the word 'hotel'
+
+
+### history
+
+Universal hospitality
+- Immanuel Kant on universal hospitality: "*hospitality is the right of a stranger not to be treated as an enemy when he arrives in the land of another. one may refuce to receive him when this can be done without causing his destruction; but so long as he peacefully occupies his place, one may not treat him with hostility... by virtue of their common possession of the surface of the eart, where, as a globe, they canot infinitely disperse and hence must finally tolerate the presence of each other. Originally, no one had more right than another to inhabit any corner of the eart*"
+- 18th century: the word hotel in the modern meaning becomes part of cultural history; places where people can rent a room for a day, week, longer
+
+Hotel related to markets and **capitalism**
+- Guest, or customer?
+- Hotels are fully capitalised spaces that do not openly acknowledge or reveal their capitalist foundation - if you don't have your credit card or money, get out of the hotel; but if you are able to pay, the interior is a paradise of comfort and glamour
+	- "*There is an obvious attempt in capitalist societies to mask money's omnipresence to buffer its possibly unsettling effects and to lull the human being into believing in the possiblity of a life or at least moments beyond the reach of capital: this is especially the case in hotels*" - Bettina Mattthias, Hotel as Setting(2006)
+
+Origins of the hotel industry
+- First hotel building: 'City Hotel', New York, 1794
+- First 'railway hotel': London and Birmingham, 1839
+- A hotel offers the class of a nobleman, to a bourgeois for a week, or a month. You can pretend you are a nobleman, entering your own palace (personal, or impersonal?) which you have paid for, and you have the feeling of being on the highest step of the social ladder
+- **Grand hotels**: Hotel du Louvre, Grand Hotel (Wien), Hotel d'Angleterre (Copenhagen)
+	- Hotels as the quintessence of urban life, of urbanity and anonymity that you wish to experience in the city
+- **Railway hotels**: St. Pancras (London) part of the St. Pancras station
+
+Historical and cultural background
+- Money economy
+- Mobility, railways
+- Tourism
+- Rise of the middle classes - who long for this feeling of being noblemen
+- Entertainment - fun, hotels offered music, balls and ballrooms
+
+### structure
+
+- Inspiration from apartment buildings, 'the most comfortable way of living today'
+- Interwar period: hotels became a 'universal fascination', with two opposite social ideas; on one hand side the hotel which is an international, cosmopolitan place, and on the other hand, 'heimat', feelings of a home, a cosy feeling related to the area around home; cosmopolitans vs. traditionalists
+
+Hotel as a machine
+- A machine to take money from customers
+- A machine when looking at what happens in the foreground (guests, lobby, lounge) and behind the scenes (housemaids, chefs, porters, lift boys) which make the hotel *function*
+- "A gigantic system of press-buttons", transforming a room into automaton
+
+The hotel and the city
+- What is the relationship?
+	- The hotel is a concentration of all the power in the city: hotel as a microcosm, a place where you have a privileged access to the city, where you can stand in your window and have a grand view over the city
+	- A place to get away from the city... how? Using the railway, which takes you to the hotels; the town square, where you will find the grand, finest hotels
+
+### architecture
+
+
+
+### sociology
+
+Simmel, Veblen
+
+Chicago school of sociology (circa 1915)
+- People live in apartment and tenement housing, as one lives in a hotel: in proximity but without knowing one another <- one effect of urban life
+
+
+### literature
+
+
+
+#### VinziRast
+
+What is the same
+- Services: food, bed + sheets, various amenities (toothbrush, toothpaste, soap...), information on services and areas of interest (not for touristic purposes, but for essentials like job hunting, doctors (covid vaccinations), recommendations for other shelters...)
+- The building and facilities: has a restaurant, a common recreational room, an inner courtyard
+- The sleeping quarters: like a hostel, with bunk beds
+- Wake up service ;) 
+
+What is not the same:
+- Forced hours of lights on and off
+- Sleeping quarters: very little privacy
+- Surveillance and strict hours: lights on and off at 7am/10pm, 
+
+Is it a hotel?
+Yes, people stay here temporarily. You cannot stay longer than 100 days a year, there is a cleaning team who cleans the sheets, towels, bathrooms.
+A bed is exclusively yours for the night being but is not owned by you
+
+
+But no. Most people have no where else to go, because they don't fit in to society or cannot afford anything else. They don't fit into any of the primary reasons for using hotels: tourism, business, visiting friends or family, 
+You don't have the freedom or anonymity as you do in a hotel, you don't have a key and cannot come and go as you please after hours 
+
+Is it a home? 
+Yes, some people are living here indefinitely and paying the rent of 60 euros a month (incl. breakfast and dinner)
+The bed is not exclusively yours, another may sleep in it the morrow
+
+But no. You pay per night, have no rental contract, have no keys, have to abide by strict rules and opening hours. You cannot leave anything during the day, you cannot put anything on the walls, you don't have a shelf
+
+## SEMINARS
+
+### seminar 1
+
+#### Nationalmuseets Klunkelejlighed
+
+Analysing a plan of the Christiansen house 
+- An L shaped building, with a dining room as a circular room being the central element connecting the two sides of the home
+- One side has the entertainment spaces, with living rooms, dining rooms, drawing, salon and study rooms, where guests would be entertained and 'impressed'
+- The other side has the bedrooms (of the daughters and couple), and the maids' bedrooms
+- The kitchen is pushed into the house, away from the entertainment spaces and closer to the maids; the bathroom and toilet are also pushed away
+- Two staircases of different sizes and location, a smaller one in the back for the maids and a larger one in the front for the owners and guests
+- **SIZE**
+	- Different sizes of staircases, show the importance of who uses them
+- **LOCATION**
+	- Entertainment rooms are facing the front of the building, with a view on the canal
+	- Bathroom and toilet located in the end of the house, near the maids
+	- Kitchen is away from entertainment rooms, to keep smells away, near the maids
+- Children: in the 1930s (??), children are recognised as having their own phase of life and are not just "small adults"; 
+- The **bicycle** gave women a reason to dress in a way that allowed them to move (lol); so there is a relationship between the invention of the bicycle, and the women's liberation movement
+
 
 # readings
 
@@ -477,3 +615,47 @@ What is the contrast to this type of (Victorian) home? **Glass architecture**
 	- "*For the twentieth century tourism, the world has become one big department store of landscapes and cities*" (p. 40)
 - 1884: international conference on time standards held in Washington DC divided the world into timezones; this was led and helped the train times
 
+
+#### Knoch, *Creative Urban Milieus: Historical Perspectives on Culture, Economy and the City*
+
+Grand Hotels
+- As Urban "interzones", in the same movement as department stores and railway stations, "modern interzones of entertainment, social interaction and consumption... **between the conventional public sphere and private rooms, hotels in particular offered a transitory and transitional zone at central locations of the city's web**" -> shelters also as transitory and transitional zones
+	- **Transitory**: many are migrant, documented or not, some stay for a short amount of time (a day, few days, a week) and/or disappear and come back a few weeks, months or years later
+	- **Transitional**: a temporary space to sleep before you can be more 'settled', assuming the goal is to get out of homelessness
+- "Spheres of **exclusiveness, elegance, and almost ceremonial rituals**, but also as sites of erotic temptation and moral disorder"
+- "Urban hotels in particular, due to their close connection wiht industrial, commercial and entertainment developments were stages of modern life without the attribute of artificiality like in theatres and the fictionality of artistic representations"
+- Grand hotels served a **social function**, supported by the interior architecture: there was "a main hall, a number of rooms nad spaces with different social functions, the distinction between front and back area, represntative staircases or seating arrangements...", "hotels became stages for urban social life" 
+- How the hotel started: 
+	- rail travel from middle and upper classes
+	- business travel requesting more hotel accommodation
+	- cities commercialising, modern developments as 'cultural shopping windows'
+	- rise of town vacations (ie. city breaks)
+	- hotels represent/are idealised as represetnations of the importance and economic strength of the city
+	- demand for social space in distinct and luxurious environment
+- Critique of the hotel as *too* impersonal and anonymous, too little homeliness
+- **"Travelling modernity: luxury hotels and urban spaces"**
+	- Feelings of cultural superiority in first class American hotels
+- **"Living organisms: hotels as entrepreneurial city spaces"**
+	- Age of conspicuous consumption
+	- "A Grand hotel is really a government in itself" (p. 10 of pdf)
+	- Hidden worlds of the hotel, in the kitchen, cellars, engine rooms, guaranteed a perfect service
+	- Hotels presented as miniature cities
+- **"Public Stages: Luxury Hotels and Urban Social Life"**
+	- "luxury hotels offered transient spaces for informal intercourse which could be used for acts of emancipation, for the loosening of gender relations and moral codes, and as savety-valves for generational conflicts within families. Smoking women, dancing young women, and flirting couples made ample use of the surroundings in hotel spaces" (p. 10 pdf)
+	- Social life of the elites in early 1900s: hotels trying to attract elites by offering dining spaces for "regular, public and informal gatherings"
+
+Ideas for themes: 
+- Types of spaces:
+	- Social space ()
+	- Classicist space (elitist, luxury)
+	- Political space (nazi takeover, )
+	- Anonymous space (place to reinvent one's selft)
+	- Home (living at the hotel?)
+	- Leisure and travel space ()
+	- Cultural ()
+- Cult (in films)
+- Hotels in the news
+- Cult hotels: Hotel Chelsea, Grand Budapest, Brighton, Hotel Rwanda
+- A European Grand Hotel threatened by the rise of Fascism - Grand Budapest Hotel
+	- Other hotels? 
+	- In film? louis de funes?

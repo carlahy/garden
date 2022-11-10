@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "modules/copenhagen/urban culture and cultural theory.md",
+                "file": "modules/copenhagen/urbanism & architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modules/copenhagen/urban culture and cultural theory.md",
+                "file": "modules/copenhagen/urbanism & architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +99,9 @@
   },
   "active": "da89ce6130f1994d",
   "lastOpenFiles": [
-    "modules/thesis/thesis.md",
-    "modules/copenhagen/urbanism & architecture.md",
     "modules/copenhagen/urban culture and cultural theory.md",
+    "modules/copenhagen/urbanism & architecture.md",
+    "modules/thesis/thesis.md",
     "urbanism and.md",
     "concepts/Henri Lefebvre.md",
     "academic papers/@kostopoulou2013revitalized.md",
