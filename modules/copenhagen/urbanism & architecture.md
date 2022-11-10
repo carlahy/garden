@@ -438,7 +438,20 @@ The hotel and the city
 
 ### architecture
 
+- **Revolving door** invented at a time that Grand Hotels flourished all over Europe and America; revolving doors used as a symbol of 'destinies'; "*a hotel must have a revolving door... if there is no revolving door, there is no speed, and that is something wrong*", almost a required element!
+- **Lobby**: Edward Hopper (interwar painter on loneliness in the big city)
+- **Lounge**
+- **Grand staircase**
+- **Lift and lift boy**
+- **Ball rooms**: the hotel splendour; Scott Fiztgerald in The Great Gatsby
+- **Corridors**: the opposite of the hotel splendour
+- **Rooms**: intimacy, 'intimacy's shrine' filled with objects and furniture that an indiscriminate number of people will use, placed in a room that says nothing about us
 
+Recent reflections on society:
+- Frederic Jameson on postmodernism and the Bonaventura Hotel (LA): a postmodernist way of treating space, characterised by features of postmodernism (which is what????)
+	- Three atypical entrances
+	- Doesn't relate to its context and is set apart from the buildings around from its distinct skin
+	- The elevators convey a sense of 'spectacle and excitement', a society in which everything, including commercial transactions are dressed up
 
 ### sociology
 
@@ -446,7 +459,6 @@ Simmel, Veblen
 
 Chicago school of sociology (circa 1915)
 - People live in apartment and tenement housing, as one lives in a hotel: in proximity but without knowing one another <- one effect of urban life
-
 
 ### literature
 
