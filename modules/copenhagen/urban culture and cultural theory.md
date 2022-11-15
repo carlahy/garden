@@ -436,12 +436,65 @@ Grinzing heuriger (Wien) as cultural and recreational space for employees
 "Our big german ciites today are not industrial cities, but cities of **salaried employees and civil servants**. if that holds true for any city, it does for Berlin. Berlin today is a city with a pronounced employee culture: ie. a culture made by employees for employees and seen by most employees as a culture" (p. 32)
 
 
-### I. Approaching the City of Employees (urban culture)
+### I. approaching the city of employees (urban culture)
 
 
 
-### II. xx (urban theory)
+### II. (urban theory)
 
+
+## Urbanised places and images of memory in Walter Benjamin
+
+**From Kracauer to Benjamin**
+
+- Contemporary analysis, done by way of memories
+- Urban memoirs
+- Benjamin - jewish writer for newspaper, writing at a time of rise of fascism in Deutschland; leaves the country for France (?)
+
+### I. bourgeois childhood in metropolitan berlin around 1900 (urban culture)
+
+Jewish not allowed to purchase real estate
+- You rent, are 'on the move'
+- **Wohngemeinschaft**: an immense building with 14 rooms where students diy'd space with staircases, table tennis,... a spatial framing
+
+**Public space vs. Private spaces**
+- Equally divided in the book; these spaces can be 'subdivided'
+
+Bourgeois interior
+- Maximalist with objects and trinkets everywhere, including on the walls, forming a feeling of **safety**, the opposite of Bauhaus. One may even ask - is it possible to live there?
+- *"What words can describe the almost immemorial feeling of bourgeois security that emanated from this apartment?"*
+
+**Outdoor privacy**
+- the logias, a covered balcony - half inside, half outside?
+- *"nothing has fortified my own memory so profoundly as gazing into courtyards"* 
+
+'Accompanied urban initiation' at the Markthalle
+- Benjamin is exploring the city by following his mother doing the shopping in the Markthall
+
+**Window shopping** on your own at Krumme Strasse
+- Losing protection from the parent, Benjamin is on his own
+- Looking through a window isn't only a matter of buying, but of exploring your mind and yourself
+
+### II. experiencing the labyrinth, exploring similarities (cultural theory)
+
+**Principles of spatial orientation** in Tiergarten
+- *"not to find one's way around a city does not mean much. But to lose one's way in a city, as one loses one's way in a forest, requires some schooling"*
+- it's not easy to lose one's way anymore, with signage and maps everywhere, smartphones,...
+
+**Child and language** - variations on distorted similarity
+- How does a child learn concepts and develop relations of concepts, when living in an urban family?
+- Adult says looking back at childhood: *"Early on, I learned to disguise myself in words, which really were clouds"*
+	- A language is not only a tool, but also a way of hiding one's self
+
+**The Other is watching you** in The Little Hunchback
+- *"in my early years, whenevr i went for a walk, i used to enjoy peering through horizontal gratings, which allowed me to pause even before those shopwindows that overlooked a shaft opening into the pavement"*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+
+
+### conclusion
+
+*"The city is a poem,as has often been said and as Victor Hugo said better than anyone else, but it is not a classical poem, a poem tidily centred on a subject. It is a poem which unfolds the signifier and it is this unfolding that ultimately the semiology of the city should try to grasp and to make sing"* - Roland Barthes, Semiology of the Urban
+- The expression is more important than the content, the signifier is more important than the signified
+- 'it is a matter of unfolding the signifier and making them sing' - Henrik
 
 # seminars
 
