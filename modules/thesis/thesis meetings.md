@@ -5,6 +5,10 @@
 
 ## meeting notes
 
+
+### november 23rd - francesc
+- When non-users were interviewed (ie. people in public space inthe neighbourhood), they often referred to aspects of Nordhavn and not Sandkaj specifically, when trying to explain how they perceived it
+
 ### september 20th - francesc
 - Previously done (august): 
 	- conducted 15 interviews at the waterfront, started hearing the same things over and over again. Population is rather homogenous, danish/white young adults in the sun

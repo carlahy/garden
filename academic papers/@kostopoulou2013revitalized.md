@@ -4,8 +4,6 @@ authors: Stella Kostopoulou
 year: 2013
 ---
 
-### notes relevant for thesis
-
 - historic waterfronts are being redeveloped into *"creative milieus to host creative industries"*. The *creative tourists* visit places not based on heritage but on contemporary culture and liveliness
 - 20th century: cities are investing into urban waterfront redevelopment projects to reintegrate abandoned or derelict harbours into the urban fabric
 - In post-industrial cities, there is an increasing demand for cultural institutions, and the waterfronts (and city governments) have had to adapt to this demand by reconverting eg. warehouses into attractive lively urban centres, notably centres of tourism
@@ -15,3 +13,14 @@ year: 2013
 - Habitus?
 - *"having been cosmopolitan, multi-cultural and multi-ethnic places, leading gateways for the exchange of goods and ideas, port-areas bear witness to specific multiple forms of human interaction, of business and oscial meeting, of exchange and communication, a unique blend of tangible and intangible cultural heritage traditions related with water. "* (p. 4586)
 	- Waterfronts as historically multi ethnic and cultural places, center of communication and (international) exchange
+
+#### Examples of revitalisation projects
+- Baltimore's Inner Harbor project, 1970s: an abandonned harbour successfully revitalised, 'model' as one of the first, Baltimore Syndrome
+- Fisherman's wharf, SF
+- Darling Harbor, Sydney
+- Victoria and Alfred Harbour, Capetown
+- London's Docklands
+- Kop van Zuid, Rotterdam
+- Liverpool
+- Geneva
+- Barcelona

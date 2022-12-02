@@ -11,3 +11,4 @@ year: 2022
 	- *''perceptions define whether and how people recognise the supply of ecosystem services (refs) and play a critical mediating role between the actual supply of services and people's demand and use thereof''*
 - From the perspective of [[environmental justice]], it is necessary to take perceptions into account, or otherwise risk excluding relevant actors and designing unfair spaces
 	- Perceptions are key in understanding the link between supply and demand/use of UBS
+- Ecosystem services provided, regulating + cultural

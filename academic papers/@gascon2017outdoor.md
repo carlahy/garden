@@ -5,7 +5,7 @@ year: 2017
 ---
 #thesis-reading 
 
-- Summarises the quantitative evidence from existing research on the positive effects of blue spaces on people's health, and concludes that there is a correlation between [[blue space]] exposure and benefits in mental [[health and well-being|health]] and in well-being. Says there is too few and too much heterogeneity in the studies
+- Summarises the quantitative evidence from existing research on the positive effects of blue spaces on people's health, and concludes that there is a correlation between [[blue space]] exposure and benefits in mental [[health and well-being|health]] and in well-being. Says there is too few studies and too much heterogeneity in the studies
 - There are claims of the positive effect of blue space on people's health and wellbeing, either by being **proximally or distally/virtually** (being in, on or near/being able to see, hear or sense water). The effects of blue spaces could be similar to that of green spaces, which include *"stress reduction, increased physical activity, promotion of positive social contacts, increased place attachment and the reduction of extreme temperatures"* (p. 1212)
 - Differentiates outdoor blue space type into inland (rivers, lakes, ponds, streams, rivulets, wetlands, freshwaters) and non-inland (coast, beach, salt waters)
 

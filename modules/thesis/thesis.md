@@ -10,6 +10,42 @@
 [[literature review]]
 [[thesis meetings]]
 
+## thesis seminar
+
+Martin Zerlang
+- By og Havn - talk to them to ask if they have involved perceptions, which ones, how, in the planning and development
+	- Martin knows the urban landscape architect (Anne ??)
+- History of Nordhavn - Nordhavn has changed dramatically in the last 20 years, so it would be interesting to discuss this development in the context of the city of Copenhagen (growth, sustainability, urban life...). From nothing to most expensive/saught after and the 'rich man's ghetto'
+- Local resident assocations - is there a movement from residents regarding the UBS?they probably have their own perceptions 
+	- (Could also do sauna users)
+- Lynetteholmen - there is a 'stop Lynetteholmen' organisation, they probably have interesting perceptions on UBS, harbour baths/beaches; eg. should the UBS be open or closed to the sea? 
+- Readings
+	- 'On the Beach', book on tourism and boats
+	- Jens on the Planning of Copenhagen
+- Future of the EJ city - consider other developments, like Lynetteholmen and the rest of Nordhavn
+
+Carolina
+- Can you include immigrants (as non-users) in your research? From her persectives  immigrants must be included
+	- How to include them? Maybe go through associations, thus interviewing representatives and not individuals...
+	- Maybe use the description of the neighbourhood (Nordhavn) and the surrounding neighbourhoods/demographic of Copenhagen in general
+	- Territorial and social connections; UBS fostering communities, how is immigrant community included in this? if they don't participate?
+- **Formulate a clear hypotheses** - on what is a just city? define it. what is a territorial and just city?
+	- **Define the EJ city for your case, in terms of UBS** in the literature review
+- Why are these perceptions relevant? to answer this, define EJ city, and the conclusion would be to discuss whether the perceptions answer the question 'is this an exhibit of environmental justice' according to my definition
+	- The perceptions answer whether the city/neighbourhood is, or isn't contributing to environmental justice
+
+
+Conclusions
+- multiple recommendations to interview representatives of the city, local organisations, or immigrant groups...
+- better definition of environmental justice (with regards to UBS) and the conclusion would be that perspectives are relevant to understand
+
+### comments from literature review
+
+Gómez-Baggethun, E., Barton, D.N., 2013. Classifying and valuing ecosystem services for urban planning. Ecological Economics 86, 235–245. https://doi.org/10.1016/j.ecolecon.2012.08.019
+
+Veerkamp, C.J., Schipper, A.M., Hedlund, K., Lazarova, T., Nordin, A., Hanson, H.I., 2021. A review of studies assessing ecosystem services provided by urban green and blue infrastructure. Ecosystem Services 52. https://doi.org/10.1016/j.ecoser.2021.101367
+
+
 
 ### notes september 2022
 - extra ideas todo:

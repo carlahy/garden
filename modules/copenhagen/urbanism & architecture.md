@@ -491,7 +491,99 @@ The bed is not exclusively yours, another may sleep in it the morrow
 
 But no. You pay per night, have no rental contract, have no keys, have to abide by strict rules and opening hours. You cannot leave anything during the day, you cannot put anything on the walls, you don't have a shelf
 
-## SEMINARS
+## FUN CITY
+
+**The meaning of entertainment**
+- Unter-halten, entre-tenir: to hold something mutually, to support, reciprocity
+- A dichotomy: boredom and entertainment
+
+Play and entermtainment
+- "only when playing is man fully man"
+- From play to entertainment... entertainment supposes a mental support, a division between mind and the material world
+
+**19th century mass entertainment business**
+- 1. requires a large and concentrated urban population - urban life and happiness are intricably linked
+- 2. there needs to be sufficient money for people to buy cheap and regular entertainment - entertainment is something **you can buy and is preferably cheap**
+- 3. sufficient leisure time (free time, freizeit) to make commercial exploitation possible
+- 4. an urban transport system to take people to the entertainment places and 'palaces'
+- 5. application of technology to entertainment - needs a crowd, and a new industry 
+	- [[amusement parks]]: a place to practice what it means to be living in a metropolis, and with new industries (eg. with music, with steam engines...); this type of place needs a crowd to be enteraining, an empty amusement park is a boring place
+- [[railways]] as an illustration of these 5 preconditions for entertainment through Jaques Offenbach's *La vie Parisienne*
+	- 1 .the setting is in Paris, a large and dense metropolis
+	- 2. the cast have money, or know how to get money
+	- 3. the story revolves around a new social group, the tourists, who have sufficient leisure time
+	- 4. the action starts at a railroad in Paris
+	- 5. technology is used to recreate the spectacular glitter of modern Paris
+
+[[Funscapes]]
+- Arabesque forms: *"the suppleness of its line and its caprice are able to embrace the twists an d turns, the spontaneity and chance encouters, of life itself"* the arabesque as a way to signal that something fun is taking place, ie. the opposite of rigid rectangles and straight lines
+- Spherical forms: "roundness is the suitable shape for objects that belong nowhere and everywhere"; round forms have a danger of upsetting a world of well-defined shapes (and uses?)
+
+Examples
+- The circus and **thrills**: acrophilia and acnophilia
+	- Trapezists are defying gravity, vs. the clown with large and clunky shoes is demonstratively tied to the earth and tied down by gravity
+- Entertainment cities: Tivoli, Disneyland, Park Asterix
+- Post-industrialism and neoliberalism: 
+	- Las Vegas: a place where the architect concentrates the urban and entertainment experience, a place that combines crime and entertainment (defining of Las Vegas)
+	- Dubai: places that are demonstrations of how far money can go,and how the world can be recreated (a city in a desert)
+
+
+.... it could go on and on and on. as is characteristic of entertainment - it goes on and on and on.m
+
+
+## SCHOOLS
+
+**Etymology**: leisure, idleness; school is institutionalised idleness
+
+**Bells and Cells**
+- Pink Floy The Wall
+- Purpose: to prepare people for the working life of the industrial society. Emphasis on uniformity, conformity and mass production
+- Schools defined by strict structures, walls, an architecture designed to make people **behave** and to create **discipline**
+
+Space of the school
+- Monumentality, power and surveillance through symmetry
+- Entering a school is like entering a new **life world**
+
+**Discipline**
+- In large rooms, many can be taught at once and opportunities for crime and disorder are limited
+- Dark sides of Enlightenment: at the same time that liberties were discovered, it also discovered disciplines
+- Discipline and distribution of individual space: enclosed, heterogeneous space that is limited to the teacher and pupils (another teach or foreign pupil is intrusive)
+
+19th century schools
+- Schools becoming monumental, more than other buildings in the city. 
+- 19th century nationalism: **nation-building project** with schools as the foremost instrument because that is where pupils learned the national language, history, literature, art, patriotic songs.
+
+Rivalry between church and school
+- period of secularisation where the church becomes less important
+
+20th century: Copernican revolution
+- John Dewey metaphorically expressed vision based on Copernicus: child becomes the sun around which the 'appliances of education' revolves - pupil at the center of teaching, similar to Freud's expression of 'his majesty the baby'
+- "we never educate directly but indirectly - by means of the nevironment"; children should interact with the environment and the context of the world
+
+Changing historical ideals
+- Values of **disciplinary school**
+	- Disciplilne, purity, punctuality, obedience, dutifulness
+- School of the **welfare society** (post-WWII)
+	- Functionalism
+	- Horizontality: groundscrapers (and not skyscrapers); a social horizontality, closer relationship between teachers and pupils (teacher is no longer a god above the pupils but on the same scales)
+	- Nature (sun): important element, sun is a key value of functionalism
+	- Open plan: walls between disciplines are opened which should create more modern, flexible pupils able to react positively on impulses; open plan school (1970s) as the extreme example of this (creates a lot of noise)
+- The school of the **experience society**
+	- Individualisation
+	- Privatisation
+	- Cross-disciplinary
+
+**Functionalism**
+- Skolen ved sundhet: lots of glass, large windows to let in *sun* (functional element), limited ornaments (unlike classical schools)
+
+**Open plan schools**
+- 1970s; creating an institutional frame to match the idea of the open society
+- A way of using space that is full of surprises; open, modular, **elastic**, multi-purpose spaces (Orestad Gymnasium)
+- An elastic space to create an elastic mindset
+- School buildings traditionally give an impressive feeling of monumentality, a building which is ground and cannot be moved; open schools give a lighter impression #presentation
+
+
+# seminars
 
 ### seminar 1
 

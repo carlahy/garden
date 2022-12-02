@@ -19,3 +19,8 @@ year: 2021
 #### amsterdam noord waterfront
 - redevelopment is challenging Amsterdam as a just city, despite its strong social welfare legacy ("institutional social architecture", p. 35)
 - in post-industrial context European cities, including Amsterdam, used waterfront redevelopments as an [[urban renewal]] strategy
+
+## san francisco
+
+- gentrification is a process that is hard to see in real time, but it is visible through the Third Street T streetcar that is reshaping Bayview Hunters Point
+- *"Yet many residents and community activists perceive that a fast-moving gentrifcation frontier leaves them with the conundrum of either staying in a contaminated, post-industrial and climate-exposed environ- ment or advocating for their health but being at risk of displacement."*
